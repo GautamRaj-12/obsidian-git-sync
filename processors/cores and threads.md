@@ -39,7 +39,7 @@ In summary, cores and threads are fundamental to a CPU's ability to handle multi
 **Not quite. Here's how it works:**
 
 - **Processor Specs:** You have a 6-core processor, with each core capable of handling 8 threads.
-- **Total Threads:** \( 6 \text{ cores} \times 8 \text{ threads per core} = 48 \text{ threads} \).
+- **Total Threads:**  6 cores * 8 threads per core = 48 threads.
 
 **What This Means:**
 
