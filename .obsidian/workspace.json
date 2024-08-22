@@ -11,8 +11,12 @@
             "id": "e9c2875c864b6d8d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -142,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "e9c2875c864b6d8d",
   "lastOpenFiles": [
-    "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
+    "Readme.md",
+    "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
     "jetbrains/Tips and Tricks.md",
     "bg",
     "jetbrains/images/ligatures.png",
     "jetbrains/images",
-    "Untitled.md",
     "jetbrains",
     "docker/docker.md",
     "Untitled.canvas",
