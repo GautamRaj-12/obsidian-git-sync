@@ -9,4 +9,5 @@
 	- Settings => Appearance and Behavior => Under accessibility => Check "Use Custom Font" => Then select the font you like.
 	- We can change the font size from here also.
 - Editor's Appearance
-	- Settings => Editor => Fo
+	- Settings => Editor => Font => Here in the font dropdown => Select the desired font.
+	- We can also check "En"
