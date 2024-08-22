@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "intellij/Tips and Tricks.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intellij/Tips and Tricks.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "intellij/Tips and Tricks.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "intellij/Tips and Tricks.md"
+                "file": "jetbrains/Tips and Tricks.md"
               }
             }
           }
@@ -146,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9468da7515329961",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
-    "intellij/images/ligatures.png",
-    "intellij/Tips and Tricks.md",
-    "intellij/images",
+    "jetbrains/images/ligatures.png",
+    "jetbrains/Tips and Tricks.md",
+    "jetbrains/images",
     "Untitled.md",
-    "intellij",
+    "jetbrains",
     "docker/docker.md",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
