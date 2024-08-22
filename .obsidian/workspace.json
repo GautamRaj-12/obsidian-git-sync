@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "bg/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "bg/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "bg/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md"
+                "file": "bg/Untitled.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "9468da7515329961",
   "lastOpenFiles": [
-    "jetbrains/images/ligatures.png",
     "jetbrains/Tips and Tricks.md",
+    "bg/Untitled.md",
+    "bg",
+    "jetbrains/images/ligatures.png",
     "jetbrains/images",
     "Untitled.md",
     "jetbrains",
