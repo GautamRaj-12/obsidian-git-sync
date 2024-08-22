@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/Untitled.md",
+                "file": "os/process vs thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/Untitled.md",
+                "file": "os/process vs thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/Untitled.md",
+                "file": "os/process vs thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/Untitled.md"
+                "file": "os/process vs thread.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "5f4c6f5b9d0327f5",
   "lastOpenFiles": [
     "processors/cores and threads.md",
-    "os/Untitled.md",
+    "os/process vs thread.md",
     "os",
     "Readme.md",
     "processors",
