@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a89f2e141b6dea2d",
+        "id": "71722f80a7e5044b",
         "type": "tabs",
         "children": [
           {
-            "id": "e9c2875c864b6d8d",
+            "id": "5f4c6f5b9d0327f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "processors/cores and threads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "processors/cores and threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "processors/cores and threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "processors/cores and threads.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9c2875c864b6d8d",
+  "active": "5f4c6f5b9d0327f5",
   "lastOpenFiles": [
-    "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "Readme.md",
+    "processors/cores and threads.md",
+    "processors",
+    "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
     "jetbrains/Tips and Tricks.md",
     "bg",
