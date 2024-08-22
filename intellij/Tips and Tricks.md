@@ -7,4 +7,6 @@
 ## Change Font Style
 - IDE's appearance
 	- Settings => Appearance and Behavior => Under accessibility => Check "Use Custom Font" => Then select the font you like.
-	- We can change the font size
+	- We can change the font size from here also.
+- Editor's Appearance
+	- Settings => Editor => General =>
