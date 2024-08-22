@@ -20,4 +20,4 @@
 8. Very ***Tedious*** as we have to do all this work 10 times on each OS
 ### After Containers
 - With containers we don't have to install any of the services directly on our OS.
-- Because the container
+- Because the container 
