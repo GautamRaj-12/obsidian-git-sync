@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "processors/cores and threads.md",
+                "file": "os/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processors/cores and threads.md",
+                "file": "os/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "processors/cores and threads.md",
+                "file": "os/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "processors/cores and threads.md"
+                "file": "os/Untitled.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "5f4c6f5b9d0327f5",
   "lastOpenFiles": [
-    "Readme.md",
     "processors/cores and threads.md",
+    "os/Untitled.md",
+    "os",
+    "Readme.md",
     "processors",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
