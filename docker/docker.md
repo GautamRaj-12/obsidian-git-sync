@@ -7,4 +7,7 @@
 ## Where do containers live?
 - Container Repository
 - Private Repository
-- Public Repository For Docker -> ***Dockerhub***
+- Public Repository For Docker =***Dockerhub***
+## How containers improved Application Development
+### Before Containers
+- 
