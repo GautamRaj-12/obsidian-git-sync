@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "71722f80a7e5044b",
+        "id": "54daa13634d5bc80",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4c6f5b9d0327f5",
+            "id": "105fd2594cb48da1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "os/process vs thread.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f4c6f5b9d0327f5",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
     "processors/cores and threads.md",
     "os/process vs thread.md",
