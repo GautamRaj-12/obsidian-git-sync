@@ -21,4 +21,4 @@
 
 ### After Containers
 1. With containers we don't have to install any of the service directly on our os.
-2. Because 
+2. Because the container is its own isolated operating system, layered with ***linux based images***.
