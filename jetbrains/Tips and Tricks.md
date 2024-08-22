@@ -5,14 +5,14 @@
 	- Increase Font Size => `Alt+Shift+.`
 	- Decrease Font Size => `Alt+Shift+,`
 ## Change Font Style
-- IDE's appearance
+- **IDE's appearance**
 	- Settings => Appearance and Behavior => Under accessibility => Check "Use Custom Font" => Then select the font you like.
 	- We can change the font size from here also.
-- Editor's Appearance
+- **Editor's Appearance**
 	- Settings => Editor => Font => Here in the font drop down => Select the desired font.
 	- We can also check "Enable Ligatures" for better visual appeal
-**Note**: 
-- ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
-- *NOT EVERY FONT* has support for ligatures. And also *NOT EVERY FONT* has support for *EVERY LIGATURE*
+- **Note**: 
+	- ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
+	- *Not all fonts support ligatures*, and even those that do *may not support every possible ligature*.
 
 ![[ligatures.png]]
