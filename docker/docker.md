@@ -13,4 +13,7 @@
 1. Team of Developers 
 2. Developing Let's say a JS based application
 3. Suppose it requires 10 services 'postgres' , 'redis' etc.
-4. 
+4. Every developer on its OS has to download, install, configure all these 10 services separately and locally.
+5. Installation process different on each OS environment
+6. Many steps where something could go wrong.
+7. As there can be many commands to execute or steps to f
