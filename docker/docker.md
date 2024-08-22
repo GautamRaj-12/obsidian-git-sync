@@ -10,4 +10,7 @@
 - Public Repository For Docker =***Dockerhub***
 ## How containers improved Application Development
 ### Before Containers
-- Team of Developers => Developin
+1. Team of Developers 
+2. Developing Let's say a JS based application
+3. Suppose it requires 10 services 'postgres' , 'redis' etc.
+4. 
