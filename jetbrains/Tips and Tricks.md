@@ -13,5 +13,6 @@
 	- We can also check "Enable Ligatures" for better visual appeal
 **Note**: 
 - ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
-- *NOT EVERY FONT* has support for every ligature.
+- *NOT EVERY FONT* has support for ligatures. And also *NOT EVERY FONT* has support for *EVERY LIGATURE*
+
 ![[ligatures.png]]
