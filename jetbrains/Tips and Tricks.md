@@ -11,5 +11,7 @@
 - Editor's Appearance
 	- Settings => Editor => Font => Here in the font drop down => Select the desired font.
 	- We can also check "Enable Ligatures" for better visual appeal
-**Note**: ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
+**Note**: 
+- ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
+- *NOT EVERY FONT* has support for every ligature.
 ![[ligatures.png]]
