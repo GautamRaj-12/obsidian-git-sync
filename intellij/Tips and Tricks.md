@@ -10,4 +10,5 @@
 	- We can change the font size from here also.
 - Editor's Appearance
 	- Settings => Editor => Font => Here in the font dropdown => Select the desired font.
-	- We can also check "Enable Ligatures"
+	- We can also check "Enable Ligatures" for better visual appeal
+**Note**: ***Ligatures***- ""
