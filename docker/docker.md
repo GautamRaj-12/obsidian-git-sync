@@ -16,4 +16,5 @@
 4. Every developer on its OS has to download, install, configure all these 10 services separately and locally.
 5. Installation process different on each OS environment
 6. Many steps where something could go wrong.
-7. As there can be many commands to execute or steps to f
+7. As there can be many commands to execute or steps to follow.
+8. Very ***Tedious*** as we have to do all this work 10 times on each OS>
