@@ -9,4 +9,7 @@
 	- `public synchronized void start(){}`
 	- `public static native Thread currentThread()`
 	- `public final native boolean isAlive()`
-- % %%
+- ***Naming Methods***
+	- `public final String getName(){}`
+	- `public final synchronized void setName(String name){}`
+	- 
