@@ -107,4 +107,6 @@
 		- Ex: `docker run redis`
 	- `docker run -d <image>`
 		- Runs container in detach mode, so as our terminal remains free
-		- 
+		- Prints conainer id
+		 ![[Pasted image 20240823111724.png]]
+- 
