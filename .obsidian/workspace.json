@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docker/docker.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }

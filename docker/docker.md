@@ -152,4 +152,4 @@
 	- `docker image prune`
 	- `docker image prune -a`
 		- Remove all not just dangling ones
-		- Will remove all images without at 
+		- Will remove all images without at least one container associated to them.
