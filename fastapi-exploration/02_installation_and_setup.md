@@ -2,7 +2,7 @@
 - `mkdir awesome-project`
 - `cd awesome-project`
 - Create a virtual env
-	- `python -m venv .venv`
+	- `python3 -m venv .venv`
 		- `.venv` - This name can be any other name but this is the convention.
 		- You only need to do this **once per project**, not every time you work.
 - Activate the virtual environment
@@ -10,4 +10,5 @@
 	- Do this **every time** you start a **new terminal session** to work on the project.
 	- Every time you install a **new package** in that environment, **activate** the environment again.
 - Check if the Virtual Environment is Active
-	- `python3 `
+	- `which python`
+	- Output should be: "../../../"
