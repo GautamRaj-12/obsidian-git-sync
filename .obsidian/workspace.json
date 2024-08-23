@@ -11,14 +11,11 @@
             "id": "105fd2594cb48da1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -285,
-                  "y": -160,
-                  "zoom": 0
-                }
+                "file": "docker/docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "docker/docker.md"
               }
             }
           }
@@ -151,9 +148,10 @@
   },
   "active": "105fd2594cb48da1",
   "lastOpenFiles": [
+    "docker/images/Pasted image 20240823062622.png",
+    "Untitled.canvas",
     "docker/docker.md",
     "docker/images/Pasted image 20240823062342.png",
-    "Untitled.canvas",
     "Pasted image 20240823062216.png",
     "docker/images/Pasted image 20240823062235.png",
     "docker/images/Pasted image 20240823055422.png",

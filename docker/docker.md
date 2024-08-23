@@ -48,6 +48,8 @@
 6. Back and forth communication required.
 ### After Containers
 - Developers and operations working in one team to package the whole configuration, dependencies etc.
+![[Pasted image 20240823062622.png]]
+
 - One single environment
 - Only need to run docker command and configure docker runtime on server.
 - No environmental configuration for separate things on server.
