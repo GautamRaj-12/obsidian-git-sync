@@ -62,3 +62,4 @@
 ## Docker vs Virtual Machine
 ### OS
 - 2 layers
+	- **Applications**:
