@@ -20,4 +20,8 @@
 	- `public final void setPriority(int newPriority)`
 - ***Prevent Thread Execution Methods***
 	- `public static native void sleep(long millis) throws InterruptedException`
+	- `public static native void yield()`
+	- `public final void join() throws InterruptedExecution{}`
+	- `public final void suspend(){}`
+	- `public final void resume(){}`
 	- 
