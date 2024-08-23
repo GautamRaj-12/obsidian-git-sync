@@ -6,6 +6,9 @@
 - ***Address Space***: Different Address Space
 - ***Dependency***: Not dependent on each other
 - ***Synchronization***:Do not require synchronization
+- ***Resource Consumption***: More
+- ***Time for creation***:More
+- ***Time for termination***:More
 ## Thread
 - It is a sub part of process.
 - ***Context Switching***: Takes Less time
@@ -13,4 +16,6 @@
 - ***Address Space***: Share same Address Space
 - ***Dependency***: Dependent on each other
 - ***Synchronization***:May require synchronization
-- ******
+- ***Resource Consumption***: Less
+- ***Time for creation***:Less
+- ***Time for termination***:Less
