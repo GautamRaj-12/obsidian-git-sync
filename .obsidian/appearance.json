@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cascadia Code"
+  "textFontFamily": "Cascadia Code",
+  "theme": "moonstone"
 }
