@@ -4,9 +4,13 @@
 	- So, Takes more time in case of process
 - ***Inter Process Communication***: Takes more time
 - ***Address Space***: Different Address Space
-- ***Dependency***: 
+- ***Dependency***: Not dependent on each other
+- ***Synchronization***:Do not require synchronization
 ## Thread
 - It is a sub part of process.
 - ***Context Switching***: Takes Less time
 - ***Inter Thread Communication***: Takes less time
 - ***Address Space***: Share same Address Space
+- ***Dependency***: Dependent on each other
+- ***Synchronization***:May require synchronization
+- ******
