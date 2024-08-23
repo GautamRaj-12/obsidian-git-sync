@@ -103,3 +103,8 @@
 	 ![[Pasted image 20240823111428.png]]
 - To run an image, we need to create a container of that image.
 	- `docker run <image>`
+		- pulls the image if needed and starts.
+		- Ex: `docker run redis`
+	- `docker run -d <image>`
+		- Runs container in detach mode, so as our terminal remains free
+		- 
