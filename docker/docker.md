@@ -141,4 +141,5 @@
 		- Our laptop has only certain ports available.
 		- So, we need binding
 		- Conflict happens when same port on host machine
-	
+		 ![[Pasted image 20240823114027.png]]
+		- 

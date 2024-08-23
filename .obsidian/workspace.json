@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb401c4b87b00b0",
+        "id": "b5d8cdad93986819",
         "type": "tabs",
         "children": [
           {
-            "id": "74aa5067993957b7",
+            "id": "8813522fb30220e6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -330,
-                  "y": 263.00000000000006,
-                  "zoom": 0
-                }
+                "file": "docker/docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "docker/docker.md"
               }
             }
           }
@@ -149,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74aa5067993957b7",
+  "active": "8813522fb30220e6",
   "lastOpenFiles": [
+    "docker/images/Pasted image 20240823113052.png",
+    "docker/images/Pasted image 20240823114027.png",
     "docker/docker.md",
-    "Pasted image 20240823113052.png",
+    "Untitled.canvas",
     "docker/images/Pasted image 20240823112446.png",
     "docker/images/Pasted image 20240823112737.png",
     "docker/images/Pasted image 20240823112724.png",
@@ -165,8 +164,6 @@
     "java-multithreading/02_process_and_thread.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading",
-    "docker/images/Pasted image 20240823062857.png",
-    "Untitled.canvas",
     "docker/images",
     "processors/cores and threads.md",
     "os/process vs thread.md",
