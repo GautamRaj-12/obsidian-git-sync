@@ -59,3 +59,8 @@ def second():
 			![[Pasted image 20240823162023.png]]
 	- Another doc `http://127.0.0.1:8000/redoc`
 		![[Pasted image 20240823161816.png]]
+## Dependencies
+- Fast api depends on
+	- Pydantic
+	- Starlette
+- 
