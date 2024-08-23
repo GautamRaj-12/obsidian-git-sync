@@ -94,6 +94,7 @@
 - All artifacts on docker hub are images.
 - We pull the images from docker hub to local.
 	- `docker pull <image>`
-		- ex: docker pull redis, docker pull postgres
+		- ex: *docker pull redis*, *docker pull postgres*
 	- `docker pull <image:tag>`
-		- docker pull ubuntu:22.04
+		- ex: *docker pull ubuntu:22.04*
+	- ***NOTE***: By default tag is `latest`
