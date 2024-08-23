@@ -140,4 +140,5 @@
 		- Multiple containers can run on our host machine.
 		- Our laptop has only certain ports available.
 		- So, we need binding
-		- Conflict happens when same pport o
+		- Conflict happens when same port on host machine
+	

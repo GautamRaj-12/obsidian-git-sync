@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"c27cdfd8ec12d113","type":"text","text":"CONTAINER","x":-320,"y":-240,"width":425,"height":240,"color":"3"},
+		{"id":"c27cdfd8ec12d113","type":"text","text":"CONTAINER","x":-320,"y":-240,"width":425,"height":200,"color":"3"},
 		{"id":"f6c65b5232a08c5d","type":"text","text":"postgresql v9.3","x":-615,"y":-149,"width":165,"height":50},
 		{"id":"52379e2a9057a10e","type":"text","text":"_____________________________\n----------\n---\n","x":-960,"y":-375,"width":120,"height":105},
 		{"id":"082ed34c88cb8e3d","type":"text","text":"JAR","x":-40,"y":-160,"width":125,"height":50},
@@ -12,7 +12,9 @@
 		{"id":"eccc85cd9b1a50bf","type":"text","text":"","x":-642,"y":-512,"width":220,"height":50},
 		{"id":"72b4d8ca46715fb7","type":"text","text":"_____________________________\n----------\n---\n","x":80,"y":-590,"width":120,"height":105},
 		{"id":"5c3a12d8b9d7c1ae","type":"text","text":"base image (layer)","x":-300,"y":-347,"width":200,"height":50,"color":"5"},
-		{"id":"0a92afb3b9a56c9a","type":"text","text":"application image (layer)","x":-300,"y":-590,"width":225,"height":50,"color":"5"}
+		{"id":"0a92afb3b9a56c9a","type":"text","text":"application image (layer)","x":-300,"y":-590,"width":225,"height":50,"color":"5"},
+		{"id":"727e1420d8280a87","type":"text","text":"","x":-827,"y":140,"width":425,"height":200,"color":"3"},
+		{"id":"c5fdcf9cb9cc1d45","x":-802,"y":160,"width":187,"height":50,"type":"text","text":"Port 3000"}
 	],
 	"edges":[
 		{"id":"ce6111882c4325d6","fromNode":"0a92afb3b9a56c9a","fromSide":"left","toNode":"2a64f62c4f360d52","toSide":"right"},
