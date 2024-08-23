@@ -132,3 +132,5 @@
 	- `docker pull redis:4.0`
 	- `docker run -d redis`
 	- `docker run -d redis:4.0`
+	 ![[Pasted image 20240823113052.png]]
+- 
