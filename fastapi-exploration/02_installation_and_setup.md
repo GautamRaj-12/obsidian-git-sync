@@ -45,3 +45,4 @@ def second():
 
 	return {"data":{"tagline":"I am Iron Man"}}
 ```
+- You can then run the server using one of the
