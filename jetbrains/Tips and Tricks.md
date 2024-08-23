@@ -15,4 +15,4 @@
 	- ***Ligatures***- "A glyph that combines the shapes of two (or more) characters into a new form, making for a more harmonious reading experience."
 	- *Not all fonts support ligatures*, and even those that do *may not support every possible ligature*.
 
-![[ligatures.png]]
+![image](./images/ligatures.png)

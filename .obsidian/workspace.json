@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker.md",
+                "file": "jetbrains/Tips and Tricks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker.md"
+                "file": "jetbrains/Tips and Tricks.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "afafc7e1fa6ca5d7",
   "lastOpenFiles": [
+    "docker/docker.md",
     "docker/images/image-14.png",
     "docker/images/image-13.png",
     "docker/images/image-10.png",
@@ -157,7 +158,6 @@
     "docker/images/image-6.png",
     "docker/images/image-5.png",
     "docker/images/image-4.png",
-    "docker/docker.md",
     "images/Pasted.md",
     "images",
     "fastapi-exploration/04_path_parameters.md",
@@ -165,7 +165,6 @@
     "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/01_fastapi_intro.md",
     "fastapi-exploration/images/Pasted image 20240823161816.png",
-    "fastapi-exploration/images/Pasted image 20240823162023.png",
     "fastapi-exploration/images",
     "fastapi-exploration",
     "Untitled.canvas",
