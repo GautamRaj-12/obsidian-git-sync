@@ -12,4 +12,7 @@
 - ***Naming Methods***
 	- `public final String getName(){}`
 	- `public final synchronized void setName(String name){}`
-	- 
+- ***Daemon Thread Methods***
+	- `public final boolean isDaemon(){}`
+	- `public final void setDaemon(boolean on){}`
+- ***Priority Based Methods***
