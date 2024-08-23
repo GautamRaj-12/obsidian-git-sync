@@ -11,8 +11,12 @@
             "id": "ae3debeab292e15e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82db026131521a7a",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker.md",
+                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker.md",
+                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker.md"
+                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md"
               }
             }
           }
@@ -142,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "ae3debeab292e15e",
   "lastOpenFiles": [
-    "Untitled",
+    "docker/docker.md",
+    "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+    "java-multithreading",
     "docker/images/Pasted image 20240823062857.png",
     "Untitled.canvas",
-    "docker/docker.md",
     "docker/images/Pasted image 20240823062622.png",
     "docker/images/Pasted image 20240823062342.png",
     "Pasted image 20240823062216.png",
