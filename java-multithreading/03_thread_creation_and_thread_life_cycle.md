@@ -16,3 +16,5 @@
 	- `public final boolean isDaemon(){}`
 	- `public final void setDaemon(boolean on){}`
 - ***Priority Based Methods***
+	- `public final int getPriority(){}`
+	- `public final void setPriority`
