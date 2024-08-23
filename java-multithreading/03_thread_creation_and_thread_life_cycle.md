@@ -24,4 +24,7 @@
 	- `public final void join() throws InterruptedExecution{}`
 	- `public final void suspend(){}`
 	- `public final void resume(){}`
-	- 
+	- `public final void stop(){}`
+	- `public void destroy(){}`
+- ***Interrupting a thread methods***
+	- public void 
