@@ -1,21 +1,11 @@
-## Process
-- ***Definition***:A program in execution.
-- ***Context Switching***: It is a process that involves switching of the CPU from one process or task to another. In this, the execution of the process that is present in the running state is suspended by the kernel and another process that is present in the ready state is executed by the CPU.The processes are switched so fast that it gives an illusion that all the processes are being executed at the same time.
-	- So, Takes more time in case of process
-- ***Inter Process Communication***: Takes more time
-- ***Address Space***: Different Address Space
-- ***Dependency***: Not dependent on each other
-- ***Synchronization***:Do not require synchronization
-- ***Resource Consumption***: More
-- ***Time for creation***:More
-- ***Time for termination***:More
-## Thread
-- It is a sub part of process.
-- ***Context Switching***: Takes Less time
-- ***Inter Thread Communication***: Takes less time
-- ***Address Space***: Share same Address Space
-- ***Dependency***: Dependent on each other
-- ***Synchronization***:May require synchronization
-- ***Resource Consumption***: Less
-- ***Time for creation***:Less
-- ***Time for termination***:Less
+| **Attribute**             | **Process**                                                                                                                                                        | **Thread**                                                     |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| **Definition**            | A program in execution.                                                                                                                                           | It is a sub part of a process.                                 |
+| **Context Switching**     | Involves switching the CPU from one process to another, taking more time as the kernel suspends the running process and executes another.                          | Takes less time compared to process context switching.         |
+| **Inter Communication**   | **Inter Process Communication**: Takes more time                                                                                                                  | **Inter Thread Communication**: Takes less time                |
+| **Address Space**         | Different Address Space                                                                                                                                           | Share the same Address Space                                   |
+| **Dependency**            | Not dependent on each other                                                                                                                                       | Dependent on each other                                        |
+| **Synchronization**       | Do not require synchronization                                                                                                                                    | May require synchronization                                    |
+| **Resource Consumption**  | More                                                                                                                                                              | Less                                                           |
+| **Time for creation**     | More                                                                                                                                                              | Less                                                           |
+| **Time for termination**  | More                                                                                                                                                              | Less                                                           |
