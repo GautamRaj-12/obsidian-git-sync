@@ -68,3 +68,14 @@
 ### Docker & VM
 - Both are virtualization tools
 - But what ***part of the os*** do they ***virtualize***?
+
+| **Attribute**                | **Docker**                                                                                                            | **Virtual Machine (VM)**                                                                                  |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Virtualization Layer**      | Virtualizes the ***application layer.***                                                                              | Virtualizes the ***complete OS.***                                                                         |
+| **Kernel Usage**              | Uses the ***kernel*** of the host.                                                                                    | Does not use the host kernel; it boots up its own kernel.                                                  |
+| **Image Composition**         | Docker image contains the application layer of the OS and other applications installed on top of it.                 | VM image contains the entire OS, including its kernel and all applications.                                |
+| **Resource Consumption**      | Generally consumes fewer resources since it shares the host’s kernel and system libraries.                           | Consumes more resources because it requires a full OS instance, including its own kernel and system files.  |
+| **Performance**               | Usually faster and more efficient due to lower overhead from sharing the host kernel.                                | Typically slower due to the overhead of running a full OS with its own kernel.                             |
+| **Isolation**                 | Provides process-level isolation; all containers share the same OS kernel.                                           | Provides complete isolation as each VM runs a separate OS instance.                                        |
+| **Startup Time**              | Faster startup times since there’s no need to boot a full OS.                                                        | Slower startup times because the full OS needs to boot.                                                    |
+| **Use Case**                  | Ideal for microservices, continuous deployment, and when multiple applications need to run on the same OS environment.| Ideal for running different operating systems, or when full OS isolation is required.                      |
