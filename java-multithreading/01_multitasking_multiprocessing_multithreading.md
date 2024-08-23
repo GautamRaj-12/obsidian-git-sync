@@ -5,8 +5,8 @@
 - CPU does this by ***context switching***.
 - It increases the performance of the CPU.
 - It can be achieved in 2 ways:
-	1. Multiprocessing :- Process Based Multitasking
-	2. 
+	1. **Multiprocessing** :- Process Based Multitasking
+	2. **Multi threading**:- Thread Based Multitasking
 ## Multiprocessing
 
 ## Multithreading
