@@ -98,3 +98,4 @@
 	- `docker pull <image:tag>`
 		- ex: *docker pull ubuntu:22.04*
 	- ***NOTE***: By default tag is `latest`
+- To show all top level images, thier repository an
