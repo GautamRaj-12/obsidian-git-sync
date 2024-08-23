@@ -18,4 +18,6 @@
 - ***Priority Based Methods***
 	- `public final int getPriority(){}`
 	- `public final void setPriority(int newPriority)`
-- ***Prevent Thread Execution***
+- ***Prevent Thread Execution Methods***
+	- `public static native void sleep(long millis) throws InterruptedException`
+	- 
