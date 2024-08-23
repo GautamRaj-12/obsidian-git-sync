@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "105fd2594cb48da1",
   "lastOpenFiles": [
-    "docker/images",
     "docker/images/Pasted image 20240823055422.png",
-    "Untitled.canvas",
     "docker/docker.md",
+    "docker/images",
+    "Untitled.canvas",
     "processors/cores and threads.md",
     "os/process vs thread.md",
     "os",
