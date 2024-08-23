@@ -6,13 +6,22 @@
 - `@app.get("/")`
 	`def first():`
 	    `return {"data": {"name": "Ironman"}}`
-	- 
+	
+	- **`@app.get("/")`**: This decorator tells FastAPI that the `first` function should handle GET requests made to the root URL (`/`). The `get` method is one of the HTTP methods (others include POST, PUT, DELETE, etc.).
+    
+	- **`def first():`**: This defines the `first` function, which will be executed when a GET request is made to the root URL.
+    
+	- **`return {"data": {"name": "Ironman"}}`**: The function returns a dictionary containing data in JSON format. In this case, it returns a JSON object with a key `"data"`, which contains another dictionary with `"name": "Ironman"`. FastAPI automatically converts this Python dictionary into JSON format and sends it as the response.
+
 - `@app.get("/about")`
 	`def second():`
 	    `return {"data": {"tagline": "I am Iron Man"}}`
-	- 
-
-
+	    
+	- **`@app.get("/about")`**: This decorator registers the `second` function to handle GET requests made to the `/about` URL.
+    
+	- **`def second():`**: This defines the `second` function, which will be executed when a GET request is made to the `/about` URL.
+    
+	- **`return {"data": {"tagline": "I am Iron Man"}}`**: The function returns a dictionary containing data in JSON format. Here, it returns a JSON object with a key `"data"`, which contains another dictionary with `"tagline": "I am Iron Man"`. FastAPI handles the conversion to JSON and sends it as the response.
 
 ## Key Concepts in FastAPI: Path, Operations, Path Operation Function, Path Operation Decorator
 
