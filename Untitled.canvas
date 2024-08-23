@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"c27cdfd8ec12d113","type":"text","text":"CONTAINER","x":-320,"y":-240,"width":425,"height":240},
+		{"id":"c27cdfd8ec12d113","type":"text","text":"CONTAINER","x":-320,"y":-240,"width":425,"height":240,"color":"3"},
 		{"id":"52379e2a9057a10e","type":"text","text":"start script","x":-55,"y":-100,"width":120,"height":50},
 		{"id":"f6c65b5232a08c5d","type":"text","text":"postgresql v9.3","x":-77,"y":-175,"width":165,"height":50},
-		{"id":"dce85a681365e81f","type":"text","text":"redis v4.6","x":-197,"y":-100,"width":120,"height":50},
-		{"id":"082ed34c88cb8e3d","type":"text","text":"config","x":-202,"y":-175,"width":125,"height":50}
+		{"id":"082ed34c88cb8e3d","type":"text","text":"config","x":-262,"y":-175,"width":125,"height":50},
+		{"id":"dce85a681365e81f","type":"text","text":"redis v4.6","x":-262,"y":-100,"width":120,"height":50}
 	],
 	"edges":[]
 }
