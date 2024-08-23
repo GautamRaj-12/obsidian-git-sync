@@ -4,6 +4,6 @@
 
 ## Thread(Class)
 ### Thread class methods
-```
-
-```
+- ***Basic Methods***
+	- `public void run({})`
+	- `public synchr`
