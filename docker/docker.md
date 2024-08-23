@@ -23,7 +23,7 @@
 - Because the container is its own operating system, layered with ***linux based images***.
 - We have everything packaged in ***one isolated environment***.
 	- packaged with all needed information
-![]
+![](./images/image-1.png)
 - So, as a developer, no need to *search*, *download*, *install*, *configure* the services required.
 - Just get the container, download  on local machine
 	- ***Just 1 Docker command - that too independent of OS***
@@ -36,10 +36,10 @@
 ### Before containers
 1. Development team will produce  ***artifacts*** together with set of instructions(soi), to configure.
 
-![[Pasted image 20240823062235.png]]
+![[image-2.png]]
 
 2. Operations team will handle setting up the environment to deploy those applications.
-	![[Pasted image 20240823062342.png]]
+	![[image-3.png]]
 
 3. So, need to install everything and configure everything.
 4. Conflicts can happen.
@@ -47,7 +47,7 @@
 6. Back and forth communication required.
 ### After Containers
 - Developers and operations working in one team to package the whole configuration, dependencies etc.
-![[Pasted image 20240823062622.png]]
+![[image-4.png]]
 
 - One single environment
 - Only need to run docker command and configure docker runtime on server.
