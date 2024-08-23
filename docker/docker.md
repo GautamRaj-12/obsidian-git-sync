@@ -39,13 +39,13 @@
 
 ![[Pasted image 20240823062235.png]]
 
-3. Operations team will handle setting up the environment to deploy those applications.
+2. Operations team will handle setting up the environment to deploy those applications.
 	![[Pasted image 20240823062342.png]]
 
-1. So, need to install everything and configure everything.
-2. Conflicts can happen.
-3. Misunderstanding can happen.
-4. Back and forth communication required.
+3. So, need to install everything and configure everything.
+4. Conflicts can happen.
+5. Misunderstanding can happen.
+6. Back and forth communication required.
 ### After Containers
 - Developers and operations working in one team to package the whole configuration, dependencies etc.
 - One single environment
