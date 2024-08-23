@@ -23,3 +23,17 @@
       return {"items": ["apple", "banana"]}
     ```
 - Here, `read_items()` is the path operation function that handles GET requests to `/items/`.
+### 4.Path Operation Decorator
+- **Path Operation Decorator**: A decorator in FastAPI that links a specific path and HTTP operation (method) to a path operation function. It is used directly above the function definition to specify the path and operation type.
+- **Common Decorators**:
+    - `@app.get("/path")`: Handles GET requests.
+    - `@app.post("/path")`: Handles POST requests.
+    - `@app.put("/path")`: Handles PUT requests.
+    - `@app.delete("/path")`: Handles DELETE requests.
+- Example: 
+```
+@app.get("/items/{item_id}")
+def read_item(item_id: int):
+    return {"item_id": item_id}
+
+```
