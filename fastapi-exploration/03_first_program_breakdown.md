@@ -37,3 +37,4 @@ def read_item(item_id: int):
     return {"item_id": item_id}
 
 ```
+- `@app.get("/items/{item_id}")` is the path operation decorator, which ties the `read_item()` function to handle GET requests for the path `/items/{item_id}`.
