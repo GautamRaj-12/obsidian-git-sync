@@ -109,4 +109,5 @@
 		- Runs container in detach mode, so as our terminal remains free
 		- Prints container id
 		 ![[Pasted image 20240823111724.png]]
-	- 
+	- ***Note***: Some images might require additional data for running.
+		- ex: `docker run ---na`
