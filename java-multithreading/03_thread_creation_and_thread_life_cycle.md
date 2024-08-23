@@ -27,4 +27,6 @@
 	- `public final void stop(){}`
 	- `public void destroy(){}`
 - ***Interrupting a thread methods***
-	- public void 
+	- `public void interrupt(){}`
+	- `public boolean isInterrupted(){}`
+	- `public static boolean interrupted(){}`
