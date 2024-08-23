@@ -63,4 +63,5 @@
 ### OS
 - 2 layers
 	- **OS Kernel**: Communicates with hardware
-	- **Applicatio**
+	- **Applications**: Run on kernel layer
+	- Linux jas ,a
