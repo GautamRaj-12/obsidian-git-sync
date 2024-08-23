@@ -5,5 +5,8 @@
 ## Thread(Class)
 ### Thread class methods
 - ***Basic Methods***
-	- `public void run({})`
-	- `public synchr`
+	- `public void run(){}`
+	- `public synchronized void start(){}`
+	- `public static native Thread currentThread()`
+	- `public final native boolean isAlive()`
+- % %%
