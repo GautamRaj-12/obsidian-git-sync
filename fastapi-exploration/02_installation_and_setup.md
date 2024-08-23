@@ -25,24 +25,23 @@
 	- `pip install -r requirements.txt`
 ## Basic Setup
 - Create a file named `main.py` or any other name in the root directory of the project.
+- Write the following code:
 ```
 from fastapi import FastAPI
 
 app = FastAPI()
 
   
-
 @app.get("/")
 
 def first():
 
-return {"data":{"name":"Ironman"}}
+	return {"data":{"name":"Ironman"}}
 
   
-
 @app.get("/about")
 
 def second():
 
-return {"data":{"tagline":"I am Iron Man"}}
+	return {"data":{"tagline":"I am Iron Man"}}
 ```
