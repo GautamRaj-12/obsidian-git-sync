@@ -117,3 +117,7 @@
 	 ![[Pasted image 20240823112201.png]]
 - To list all containers (running and stopped)
 	- `docker ps -a`
+	 ![[Pasted image 20240823112307.png]]
+- To stop docker container
+	- `docker stop <container id`
+	- Only first few characters of the container id are enough
