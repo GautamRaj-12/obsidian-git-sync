@@ -58,3 +58,5 @@
 - So on top of the base image, we will have ***application image***. There will be intermediary images.
 ![[Pasted image 20240823062857.png]]
 - A container is a *running environment for image*
+
+## Docker vs Virt
