@@ -133,4 +133,7 @@
 	- `docker run -d redis`
 	- `docker run -d redis:4.0`
 	 ![[Pasted image 20240823113052.png]]
-	- Right now both are 
+	- Right now both are running on the same port. So, if an application tries to connect to redis, it will fail.
+	- Solution: ***PORT MAPPING***
+- ***Port Mapping***
+	- 
