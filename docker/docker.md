@@ -29,4 +29,6 @@
 - Just get the container, download  on local machine
 	- ***Just 1 Docker command - that too independent of OS***
 - 1 command to install the app.
-- 
+- So, if 10 services are required - Only 10 commands to run.
+- So, setting up a local development environment becomes much easier and efficient.
+- Also, we can have different ver
