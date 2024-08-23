@@ -13,8 +13,12 @@
 		{"id":"72b4d8ca46715fb7","type":"text","text":"_____________________________\n----------\n---\n","x":80,"y":-590,"width":120,"height":105},
 		{"id":"5c3a12d8b9d7c1ae","type":"text","text":"base image (layer)","x":-300,"y":-347,"width":200,"height":50,"color":"5"},
 		{"id":"0a92afb3b9a56c9a","type":"text","text":"application image (layer)","x":-300,"y":-590,"width":225,"height":50,"color":"5"},
-		{"id":"727e1420d8280a87","type":"text","text":"","x":-827,"y":140,"width":425,"height":200,"color":"3"},
-		{"id":"c5fdcf9cb9cc1d45","x":-802,"y":160,"width":187,"height":50,"type":"text","text":"Port 3000"}
+		{"id":"727e1420d8280a87","type":"text","text":"","x":-827,"y":140,"width":507,"height":340,"color":"3"},
+		{"id":"c5fdcf9cb9cc1d45","x":-802,"y":160,"width":187,"height":50,"type":"text","text":"Port 3000"},
+		{"id":"e96c9100dee4d071","type":"text","text":"Port 3001","x":-543,"y":160,"width":187,"height":50},
+		{"id":"7dfee50e80dfd366","type":"text","text":"Port 3000","x":-802,"y":240,"width":187,"height":50},
+		{"id":"d24f67aee1a3e11b","type":"text","text":"Port 3000","x":-543,"y":240,"width":187,"height":50},
+		{"id":"960a743e562236cd","x":-802,"y":290,"width":250,"height":107,"type":"text","text":"Container"}
 	],
 	"edges":[
 		{"id":"ce6111882c4325d6","fromNode":"0a92afb3b9a56c9a","fromSide":"left","toNode":"2a64f62c4f360d52","toSide":"right"},
