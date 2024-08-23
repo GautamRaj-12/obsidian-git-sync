@@ -24,4 +24,4 @@
 - We have everything packaged in ***one isolated environment***.
 	- packaged with all needed information
 
-![[Pasted image 20240823055422.png]]
+![[docker/images/Pasted image 20240823055422.png]]
