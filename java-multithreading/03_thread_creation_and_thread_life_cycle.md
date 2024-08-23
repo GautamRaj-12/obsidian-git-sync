@@ -17,4 +17,5 @@
 	- `public final void setDaemon(boolean on){}`
 - ***Priority Based Methods***
 	- `public final int getPriority(){}`
-	- `public final void setPriority`
+	- `public final void setPriority(int newPriority)`
+- ***Prevent Thread Execution***
