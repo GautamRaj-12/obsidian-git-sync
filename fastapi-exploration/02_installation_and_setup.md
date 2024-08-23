@@ -46,6 +46,6 @@ def second():
 	return {"data":{"tagline":"I am Iron Man"}}
 ```
 - You can then run the server using one of the following commands:
-	- `fastapi dev main.py` - We can open the browser 
+	- `fastapi dev main.py` - We can open the browser and go to : `http://127.0.0.1:8000/`
 	- `uvicorn main:app --reload`
 	- `uvicorn main:app --port 4000 --reload` - Changed Port
