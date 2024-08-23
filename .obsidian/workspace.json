@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ca2a25950718ab",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "fastapi-exploration/images",
+    "fastapi-exploration/Pasted image 20240823160337.png",
     "fastapi-exploration/01_fastapi_intro.md",
     "fastapi-exploration/02_installation_and_setup.md",
     "docker/docker.md",
@@ -162,7 +164,6 @@
     "docker/images/Pasted image 20240823112724.png",
     "docker/images/Pasted image 20240823112500.png",
     "docker/images/Pasted image 20240823112307.png",
-    "docker/images/Pasted image 20240823112201.png",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",

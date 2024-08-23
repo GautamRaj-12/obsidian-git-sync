@@ -50,3 +50,4 @@ def second():
 	- `uvicorn main:app --reload` - It will run on `http://127.0.0.1:8000/`
 	- `uvicorn main:app --port 4000 --reload` - Changed Port - It will run on `http://127.0.0.1:4000/`
 - Output
+  ![[Pasted image 20240823160337.png]]
