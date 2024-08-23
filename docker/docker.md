@@ -68,4 +68,6 @@
 ### Docker & VM
 - Both are virtualization tools
 - But what ***part of the os*** do they ***virtualize***?
-- 
+Docker
+- Virtualizes the ***application layer.***
+- So, whe
