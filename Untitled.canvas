@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"c27cdfd8ec12d113","x":-220,"y":-240,"width":325,"height":230,"type":"text","text":"CONTAINER"},
+		{"id":"f6c65b5232a08c5d","x":-140,"y":-150,"width":165,"height":50,"type":"text","text":"postgresql v9.3"}
+	],
+	"edges":[]
+}

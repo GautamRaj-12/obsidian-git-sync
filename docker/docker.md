@@ -22,4 +22,4 @@
 - With containers we don't have to install any of the services directly on our OS.
 - Because the container is its own operating system, layered with ***linux based images***.
 - We have everything packaged in ***one isolated environment***.
-	- packaged with all needed i
+	- packaged with all needed information
