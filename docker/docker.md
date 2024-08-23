@@ -23,7 +23,7 @@
 - Because the container is its own operating system, layered with ***linux based images***.
 - We have everything packaged in ***one isolated environment***.
 	- packaged with all needed information
-![](./images/image-1.png)
+![image](./images/image-1.png)
 - So, as a developer, no need to *search*, *download*, *install*, *configure* the services required.
 - Just get the container, download  on local machine
 	- ***Just 1 Docker command - that too independent of OS***
@@ -36,10 +36,10 @@
 ### Before containers
 1. Development team will produce  ***artifacts*** together with set of instructions(soi), to configure.
 
-![[image-2.png]]
+![image](./images/image-2.png)
 
 2. Operations team will handle setting up the environment to deploy those applications.
-	![[image-3.png]]
+![image](./images/image-3.png)
 
 3. So, need to install everything and configure everything.
 4. Conflicts can happen.
@@ -131,7 +131,7 @@
 	- `docker pull redis:4.0`
 	- `docker run -d redis`
 	- `docker run -d redis:4.0`
-	 ![[Pasted image 20240823113052.png]]
+	 ![[image-14.png]]
 	- Right now both are running on the same port. So, if an application tries to connect to redis, it will fail.
 	- Solution: ***PORT MAPPING***
 - ***Port Mapping***
@@ -140,11 +140,11 @@
 		- Our laptop has only certain ports available.
 		- So, we need binding
 		- Conflict happens when same port on host machine
-		 ![[Pasted image 20240823114027.png]]
+		 ![[image-15.png]]
 		- `docker run -p <host-port>:<container-port> -d <image-name>`
 			- ex: `docker run -p 6000:6379 -d redis`
 			- ex: `docker run -p 6001:6379 -d redis:4.0`
-			![[Pasted image 20240823114339.png]]
+			![[image-16.png]]
 - To Delete all stopped containers
 	- `docker container prune`
 - Remove unused images
@@ -160,4 +160,4 @@
 	- `docker exec  -it <container_id or name> /bin/bash`
 		- Open's containers terminal
 
-![[Pasted image 20240823114827.png]]
+![[image-17.png]]
