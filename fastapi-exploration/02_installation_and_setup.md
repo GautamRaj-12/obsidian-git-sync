@@ -21,4 +21,6 @@
 ## Install fastapi
 - Install package directly
 	- `pip install "fastapi[standard]`
-	- 
+- Install from `requirements.txt`
+	- `pip install -r requirements.txt`
+## Basic Setup
