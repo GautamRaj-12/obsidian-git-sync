@@ -110,4 +110,5 @@
 		- Prints container id
 		 ![[Pasted image 20240823111724.png]]
 	- ***Note***: Some images might require additional data for running.
-		- ex: `docker run ---na`
+		- ex: `docker run ---name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres`
+		- `--name`: It specifi
