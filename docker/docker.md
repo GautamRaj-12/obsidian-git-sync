@@ -35,4 +35,7 @@
 
 ## How containers improved application deployment?
 ### Before containers
-1. Development team will produce  ***artifacts*** together 
+1. Development team will produce  ***artifacts*** together with set of instructions(soi), to configure.
+2. Operations team will handle setting up the environment to deploy those applications.
+3. So, need to install everything and configure everything.
+4. Conflicts can
