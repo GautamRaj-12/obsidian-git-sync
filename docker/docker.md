@@ -101,4 +101,5 @@
 - To show all top level images, thier repository and tags and their size
 	- `docker images`
 	 ![[Pasted image 20240823111428.png]]
-	 - 
+- To run an image, we need to create a container of that image.
+	- `docker run <image>`
