@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "9c7d988303a88339",
   "lastOpenFiles": [
+    "Pasted image 20240823112500.png",
+    "Pasted image 20240823112446.png",
     "docker/images/Pasted image 20240823112307.png",
     "docker/images/Pasted image 20240823112201.png",
     "docker/images/Pasted image 20240823111724.png",
@@ -163,7 +165,6 @@
     "docker/images/Pasted image 20240823062342.png",
     "Pasted image 20240823062216.png",
     "docker/images/Pasted image 20240823062235.png",
-    "docker/images/Pasted image 20240823055422.png",
     "docker/images",
     "processors/cores and threads.md",
     "os/process vs thread.md",
@@ -174,7 +175,6 @@
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
     "jetbrains/Tips and Tricks.md",
     "bg",
-    "jetbrains/images/ligatures.png",
     "jetbrains/images",
     "jetbrains",
     "conflict-files-obsidian-git.md",

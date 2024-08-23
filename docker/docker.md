@@ -121,3 +121,5 @@
 - To stop docker container
 	- `docker stop <container id`
 	- Only first few characters of the container id are enough
+	 ![[Pasted image 20240823112446.png]]
+	 ![[Pasted image 20240823112500.png]]
