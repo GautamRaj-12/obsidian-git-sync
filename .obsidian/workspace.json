@@ -11,8 +11,12 @@
             "id": "71ca2a25950718ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fastapi-exploration/fastapi.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker.md",
+                "file": "fastapi-exploration/fastapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker.md",
+                "file": "fastapi-exploration/fastapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker.md"
+                "file": "fastapi-exploration/fastapi.md"
               }
             }
           }
@@ -142,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "71ca2a25950718ab",
   "lastOpenFiles": [
+    "docker/docker.md",
+    "fastapi-exploration/fastapi.md",
     "fastapi-exploration",
     "docker/images/Pasted image 20240823114827.png",
     "docker/images/Pasted image 20240823114339.png",
     "docker/images/Pasted image 20240823113052.png",
     "docker/images/Pasted image 20240823114027.png",
-    "docker/docker.md",
     "Untitled.canvas",
     "docker/images/Pasted image 20240823112446.png",
     "docker/images/Pasted image 20240823112737.png",
