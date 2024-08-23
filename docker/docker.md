@@ -131,4 +131,4 @@
 	- `docker pull redis`
 	- `docker pull redis:4.0`
 	- `docker run -d redis`
-	- `docker run `
+	- `docker run -d redis:4.0`
