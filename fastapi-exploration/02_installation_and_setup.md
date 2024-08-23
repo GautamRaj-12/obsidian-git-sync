@@ -11,4 +11,8 @@
 	- Every time you install a **new package** in that environment, **activate** the environment again.
 - Check if the Virtual Environment is Active
 	- `which python`
-	- Output should be: "../../../"
+	- Output should be: "../../../../awesome-project/.venv/bin/python"
+- Upgrade Pip
+	- `python3 -m pip install --upgrade pip`
+- Add gitignore
+	- echo "*" > .venv/.gitignore
