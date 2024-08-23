@@ -127,3 +127,8 @@
 	- `docker start <container id>`
 	![[Pasted image 20240823112724.png]]
 	![[Pasted image 20240823112737.png]]
+- Running different versions of same services on docker
+	- `docker pull redis`
+	- `docker pull redis:4.0`
+	- `docker run -d redis`
+	- `docker run `
