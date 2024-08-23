@@ -56,5 +56,6 @@ def second():
 		- We will see an interactive API documentation automatically generated.
 		 ![[Pasted image 20240823161847.png]]
 		- Then click on the "Execute" button, the user interface will communicate with your API, send the parameters, get the results and show them on the screen
+			![[Pasted image 20240823162023.png]]
 	- Another doc `http://127.0.0.1:8000/redoc`
 		![[Pasted image 20240823161816.png]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3ecc4bc57890366c",
+        "id": "2be7c66fe615b982",
         "type": "tabs",
         "children": [
           {
-            "id": "71ca2a25950718ab",
+            "id": "6b4e2306614190c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71ca2a25950718ab",
+  "active": "6b4e2306614190c6",
   "lastOpenFiles": [
-    "Pasted image 20240823161847.png",
-    "Pasted image 20240823161816.png",
+    "fastapi-exploration/01_fastapi_intro.md",
+    "fastapi-exploration/images/Pasted image 20240823161816.png",
+    "fastapi-exploration/02_installation_and_setup.md",
+    "fastapi-exploration/images/Pasted image 20240823162023.png",
+    "fastapi-exploration/images/Pasted image 20240823161847.png",
     "fastapi-exploration/images",
     "fastapi-exploration/images/Pasted image 20240823160337.png",
-    "fastapi-exploration/01_fastapi_intro.md",
-    "fastapi-exploration/02_installation_and_setup.md",
     "docker/docker.md",
     "fastapi-exploration",
     "docker/images/Pasted image 20240823114827.png",
@@ -163,8 +164,6 @@
     "Untitled.canvas",
     "docker/images/Pasted image 20240823112446.png",
     "docker/images/Pasted image 20240823112737.png",
-    "docker/images/Pasted image 20240823112724.png",
-    "docker/images/Pasted image 20240823112500.png",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
