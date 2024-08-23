@@ -1,6 +1,12 @@
 
 - `from fastapi import FastAPI`
 	- This line imports the `FastAPI` class from the `fastapi` module. The `FastAPI` class is essential for creating an instance of a FastAPI application, which will handle incoming requests and route them to the appropriate functions.
+- app = FastAPI()
+- @app.get("/")
+def first():
+    return {"data": {"name": "Ironman"}}
+
+
 
 ## Key Concepts in FastAPI: Path, Operations, Path Operation Function, Path Operation Decorator
 
