@@ -15,4 +15,5 @@
 - Upgrade Pip
 	- `python3 -m pip install --upgrade pip`
 - Add gitignore
-	- echo "*" > .venv/.gitignore
+	- `echo "*" > .venv/.gitignore`
+		-  Create .venv/.gitignore and write * in that.
