@@ -146,4 +146,10 @@
 			- ex: `docker run -p 6000:6379 -d redis`
 			- ex: `docker run -p 6001:6379 -d redis:4.0`
 			![[Pasted image 20240823114339.png]]
-		- 
+- To Delete all stopped containers
+	- `docker container prune`
+- Remove unused images
+	- `docker image prune`
+	- `docker image prune -a`
+		- Remove all not just dangling ones
+		- Will remove all images without at 
