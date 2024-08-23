@@ -59,4 +59,6 @@
 ![[Pasted image 20240823062857.png]]
 - A container is a *running environment for image*
 
-## Docker vs Virt
+## Docker vs Virtual Machine
+### OS
+- 2 layers
