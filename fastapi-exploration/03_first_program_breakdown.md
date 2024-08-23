@@ -17,7 +17,9 @@
 - **Path Operation Function**: This is the function that gets executed when a specific HTTP operation is performed on a particular path. It contains the logic for handling the request and generating the response.
 - **Naming**: The name "path operation function" comes from combining the *path* (e.g., `/items/`) and the *operation* (e.g., `GET`).
 - **Example**:
-  ```python
+  ```
   @app.get("/items/")
   def read_items():
       return {"items": ["apple", "banana"]}
+    ```
+- Here, `read_items()` is the path operation function that handles GET requests to `/items/`.
