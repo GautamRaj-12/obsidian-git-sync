@@ -73,4 +73,5 @@ Docker
 - So, when we download a docker image, it actually contains the application layer of the OS and other applications installed on top of it.
 - It uses the ***kernel*** of the host.
 VM
-- 
+- Virtualizes the *complete OS*
+- So,when we download a VM image on our host, It doesn't use the host kernel. It boots up its own.
