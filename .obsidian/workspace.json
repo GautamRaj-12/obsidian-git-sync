@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54daa13634d5bc80",
+        "id": "53b3b0d498970efd",
         "type": "tabs",
         "children": [
           {
-            "id": "105fd2594cb48da1",
+            "id": "ae3debeab292e15e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docker/docker.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -148,6 +144,7 @@
   },
   "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "Untitled",
     "docker/images/Pasted image 20240823062857.png",
     "Untitled.canvas",
     "docker/docker.md",
