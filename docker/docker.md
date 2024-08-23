@@ -98,4 +98,7 @@
 	- `docker pull <image:tag>`
 		- ex: *docker pull ubuntu:22.04*
 	- ***NOTE***: By default tag is `latest`
-- To show all top level images, thier repository an
+- To show all top level images, thier repository and tags and their size
+	- `docker images`
+	 ![[Pasted image 20240823111428.png]]
+	 - 
