@@ -1,10 +1,16 @@
 
 - `from fastapi import FastAPI`
 	- This line imports the `FastAPI` class from the `fastapi` module. The `FastAPI` class is essential for creating an instance of a FastAPI application, which will handle incoming requests and route them to the appropriate functions.
-- app = FastAPI()
-- @app.get("/")
-def first():
-    return {"data": {"name": "Ironman"}}
+- `app = FastAPI()`
+	- Here, we create an instance of the `FastAPI` class and assign it to the variable `app`. This `app` instance is the core of the application. It will be used to define routes and handle HTTP requests.
+- `@app.get("/")`
+	`def first():`
+	    `return {"data": {"name": "Ironman"}}`
+	- 
+- `@app.get("/about")`
+	`def second():`
+	    `return {"data": {"tagline": "I am Iron Man"}}`
+	- 
 
 
 
