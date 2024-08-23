@@ -111,4 +111,7 @@
 		 ![[Pasted image 20240823111724.png]]
 	- ***Note***: Some images might require additional data for running.
 		- ex: `docker run ---name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres`
-		- `--name`: It specifi
+		- `--name`: It specifies name of the container. Usually a default name is given but using this we can give the name of our choice.
+- To list all containers
+	- `docker ps`
+	 ![[Pasted image 20240823112201.png]]
