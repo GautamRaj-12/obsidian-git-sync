@@ -153,3 +153,12 @@
 	- `docker image prune -a`
 		- Remove all not just dangling ones
 		- Will remove all images without at least one container associated to them.
+
+## Debugging Containers
+- To see logs
+	- `docker logs <container id or name>`
+		- batch retrieves logs present at the time of execution
+	- `docker exec  -it <container_id or name> /bin/bash`
+		- Open's containers terminal
+
+![[Pasted image 20240823114827.png]]

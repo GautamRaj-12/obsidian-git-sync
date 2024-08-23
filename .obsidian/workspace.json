@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docker/docker.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,6 +148,7 @@
   },
   "active": "8813522fb30220e6",
   "lastOpenFiles": [
+    "Pasted image 20240823114827.png",
     "docker/images/Pasted image 20240823114339.png",
     "docker/images/Pasted image 20240823113052.png",
     "docker/images/Pasted image 20240823114027.png",
@@ -160,7 +161,6 @@
     "docker/images/Pasted image 20240823112307.png",
     "docker/images/Pasted image 20240823112201.png",
     "docker/images/Pasted image 20240823111724.png",
-    "docker/images/Pasted image 20240823111428.png",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
