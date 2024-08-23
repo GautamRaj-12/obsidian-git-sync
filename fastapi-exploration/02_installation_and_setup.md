@@ -17,3 +17,8 @@
 - Add gitignore
 	- `echo "*" > .venv/.gitignore`
 		-  Create .venv/.gitignore and write * in that.
+
+## Install fastapi
+- Install package directly
+	- `pip install "fastapi[standard]`
+	- 
