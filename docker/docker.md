@@ -88,4 +88,8 @@
 		- If the host does not support then - ***Docker Toolbox*** - makes it possible for host to run docker images.
 
 ## Docker Installation
-- Instructions on `docker.com` for Linux, Windows and
+- Instructions on `docker.com` for Linux, Windows and Mac
+
+## Basic Docker Commands
+- All artifacts on docker hub are images.
+- We pull the images from docker 
