@@ -52,4 +52,5 @@ def second():
 - Output
   ![[Pasted image 20240823160337.png]]
 - API DOCS
-	- 
+	- Now go to `http://127.0.0.1:8000/docs`
+		- We will see an interactive API documentation automatically generated.
