@@ -47,4 +47,5 @@
 - Only need to run docker command and configure docker runtime on server.
 - No environmental configuration for separate things on server.
 ## What is a container(technically)?
--  A container is made up of images. We have layers of stacked images on top of each other. And at the base of most of the containers, we would have a ***linux based image***(mostly alpine - for small siz)
+-  A container is made up of images. We have layers of stacked images on top of each other. And at the base of most of the containers, we would have a ***linux based image***(mostly alpine - for small sizes).
+- So on top of the base image, we will have ***application image***. There will be intermediary images.
