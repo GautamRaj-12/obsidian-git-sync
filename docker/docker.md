@@ -34,3 +34,5 @@
 - Also, we can have different versions of the same application running without any conflict.
 
 ## How containers improved application deployment?
+### Before containers
+1. Development team will produce  ***artifacts*** together 
