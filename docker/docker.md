@@ -81,4 +81,7 @@
 | **Use Case**                  | Ideal for microservices, continuous deployment, and when multiple applications need to run on the same OS environment.| Ideal for running different operating systems, or when full OS isolation is required.                      |
 - **COMPATIBILITY**
 	- VM of any OS can run on any OS host bu the same is not true for docker.
-	- Example: Linux VM on Windows will work fine, similarly Windows VM on Linux will work fine, 
+	- Example: Linux VM on Windows will work fine, similarly Windows VM on Linux will work fine.
+		- But Linux based Docker image might not be compatible with windows kernel - True for older windows and mac versions.
+		- New versions won't have any problem.
+		- So, earlier, 
