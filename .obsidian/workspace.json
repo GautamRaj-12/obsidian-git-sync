@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53b3b0d498970efd",
+        "id": "807e13ed48c8d3b8",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3debeab292e15e",
+            "id": "b7c75300f1fe5d6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-multithreading/02_process_and_thread.md",
+                "file": "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82db026131521a7a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-multithreading/02_process_and_thread.md",
+                "file": "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-multithreading/02_process_and_thread.md",
+                "file": "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-multithreading/02_process_and_thread.md"
+                "file": "java-multithreading/03_thread_creation_and_thread_life_cycle.md"
               }
             }
           }
@@ -147,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae3debeab292e15e",
+  "active": "b7c75300f1fe5d6c",
   "lastOpenFiles": [
-    "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+    "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
+    "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "docker/docker.md",
     "java-multithreading",
     "docker/images/Pasted image 20240823062857.png",
