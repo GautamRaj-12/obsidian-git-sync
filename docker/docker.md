@@ -144,3 +144,4 @@
 		 ![[Pasted image 20240823114027.png]]
 		- `docker run -p <host-port>:<container-port> -d <image-name>`
 			- ex: `docker run -p 6000:6379 -d redis`
+			- ex: `docker run -p 6001:6379 -d redis:4.0`
