@@ -85,4 +85,7 @@
 		- But Linux based Docker image might not be compatible with windows kernel - True for older windows and mac versions.
 		- New versions won't have any problem.
 		- So, earlier, before downloading we had to check if host's kernel is compatible of running docker images.
-		- If the host does not support then - ***Docker Toolbox*** - makes it posi
+		- If the host does not support then - ***Docker Toolbox*** - makes it possible for host to run docker images.
+
+## Docker Installation
+- Instructions on `docker.com` for Linux, Windows and
