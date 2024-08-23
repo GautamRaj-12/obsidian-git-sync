@@ -124,14 +124,14 @@
 	 ![image](./images/image-11.png)
 - To start the same container
 	- `docker start <container id>`
-	![[image-12.png]]
-	![[image-13.png]]
+	![image](./images/image-12.png)
+	![image](./images/image-13.png)
 - Running different versions of same services on docker
 	- `docker pull redis`
 	- `docker pull redis:4.0`
 	- `docker run -d redis`
 	- `docker run -d redis:4.0`
-	 ![[image-14.png]]
+	 ![image](./images/image-14.png)
 	- Right now both are running on the same port. So, if an application tries to connect to redis, it will fail.
 	- Solution: ***PORT MAPPING***
 - ***Port Mapping***
@@ -140,11 +140,11 @@
 		- Our laptop has only certain ports available.
 		- So, we need binding
 		- Conflict happens when same port on host machine
-		 ![[image-15.png]]
+		 ![image](./images/image-15.png)
 		- `docker run -p <host-port>:<container-port> -d <image-name>`
 			- ex: `docker run -p 6000:6379 -d redis`
 			- ex: `docker run -p 6001:6379 -d redis:4.0`
-			![[image-16.png]]
+			![image](./images/image-16.png)
 - To Delete all stopped containers
 	- `docker container prune`
 - Remove unused images
@@ -160,4 +160,4 @@
 	- `docker exec  -it <container_id or name> /bin/bash`
 		- Open's containers terminal
 
-![[image-17.png]]
+![image](./images/image-17.png)
