@@ -67,5 +67,5 @@
 	- Linux has many distros. All these distros use linux kernel but implement different application on top that is why they look and behave differently.
 ### Docker & VM
 - Both are virtualization tools
-- But what ***part of the os*** do they virtualize?
+- But what ***part of the os*** do they ***virtualize***?
 - 
