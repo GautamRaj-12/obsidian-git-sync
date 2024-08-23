@@ -136,4 +136,8 @@
 	- Right now both are running on the same port. So, if an application tries to connect to redis, it will fail.
 	- Solution: ***PORT MAPPING***
 - ***Port Mapping***
-	- **Contan**
+	- **Container Port** vs **Host Port**
+		- Multiple containers can run on our host machine.
+		- Our laptop has only certain ports available.
+		- So, we need binding
+		- Conflict happens when same pport o
