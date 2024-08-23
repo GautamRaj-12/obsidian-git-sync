@@ -62,4 +62,5 @@
 ## Docker vs Virtual Machine
 ### OS
 - 2 layers
-	- **OS Kernel
+	- **OS Kernel**: Communicates with hardware
+	- **Applicatio**
