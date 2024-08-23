@@ -24,7 +24,7 @@
 - We have everything packaged in ***one isolated environment***.
 	- packaged with all needed information
 
-![docker/images/Pasted image 20240823055422.png]]
+![][docker/images/Pasted image 20240823055422.png]
 - So, as a developer, no need to *search*, *download*, *install*, *configure* the services required.
 - Just get the container, download  on local machine
 	- ***Just 1 Docker command - that too independent of OS***
