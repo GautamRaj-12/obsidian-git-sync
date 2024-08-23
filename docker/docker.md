@@ -115,3 +115,5 @@
 - To list all containers
 	- `docker ps`
 	 ![[Pasted image 20240823112201.png]]
+- To list all containers (running and stopped)
+	- `docker ps -a`
