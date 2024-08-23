@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fastapi-exploration/fastapi.md",
-                "mode": "preview",
+                "file": "fastapi-exploration/02_installation_and_setup.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fastapi-exploration/fastapi.md",
+                "file": "fastapi-exploration/02_installation_and_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fastapi-exploration/fastapi.md",
+                "file": "fastapi-exploration/02_installation_and_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fastapi-exploration/fastapi.md"
+                "file": "fastapi-exploration/02_installation_and_setup.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "71ca2a25950718ab",
   "lastOpenFiles": [
+    "fastapi-exploration/01_fastapi_intro.md",
+    "fastapi-exploration/02_installation_and_setup.md",
     "docker/docker.md",
-    "fastapi-exploration/fastapi.md",
     "fastapi-exploration",
     "docker/images/Pasted image 20240823114827.png",
     "docker/images/Pasted image 20240823114339.png",
