@@ -125,4 +125,5 @@
 	 ![[Pasted image 20240823112500.png]]
 - To start the same container
 	- `docker start <container id>`
-	
+	![[Pasted image 20240823112724.png]]
+	![[Pasted image 20240823112737.png]]
