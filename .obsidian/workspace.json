@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docker/images/Pasted image 20240823062857.png"
+                "file": "docker/images/Pasted image 20240823113052.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/images/Pasted image 20240823062857.png",
+                "file": "docker/images/Pasted image 20240823113052.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/images/Pasted image 20240823062857.png",
+                "file": "docker/images/Pasted image 20240823113052.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/images/Pasted image 20240823062857.png"
+                "file": "docker/images/Pasted image 20240823113052.png"
               }
             }
           }
@@ -146,6 +146,13 @@
   },
   "active": "964bababe8c581c8",
   "lastOpenFiles": [
+    "docker/images/image-13.png",
+    "docker/images/image-10.png",
+    "docker/images/image-9.png",
+    "docker/images/image-8.png",
+    "docker/images/image-7.png",
+    "docker/images/image-6.png",
+    "docker/images/image-5.png",
     "docker/images/image-4.png",
     "docker/docker.md",
     "images/Pasted.md",
@@ -158,15 +165,8 @@
     "fastapi-exploration/images/Pasted image 20240823162023.png",
     "fastapi-exploration/images/Pasted image 20240823161847.png",
     "fastapi-exploration/images",
-    "fastapi-exploration/images/Pasted image 20240823160337.png",
     "fastapi-exploration",
-    "docker/images/Pasted image 20240823114827.png",
-    "docker/images/Pasted image 20240823114339.png",
-    "docker/images/Pasted image 20240823113052.png",
-    "docker/images/Pasted image 20240823114027.png",
     "Untitled.canvas",
-    "docker/images/Pasted image 20240823112446.png",
-    "docker/images/Pasted image 20240823112737.png",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",

@@ -55,7 +55,7 @@
 ## What is a container(technically)?
 -  A container is made up of images. We have layers of stacked images on top of each other. And at the base of most of the containers, we would have a ***linux based image***(mostly alpine - for small sizes).
 - So on top of the base image, we will have ***application image***. There will be intermediary images.
-![[Pasted image 20240823062857.png]]
+![[image-5.png]]
 - A container is a *running environment for image*
 
 ## Docker vs Virtual Machine
@@ -99,7 +99,7 @@
 	- ***NOTE***: By default tag is `latest`
 - To show all top level images, thier repository and tags and their size
 	- `docker images`
-	 ![[Pasted image 20240823111428.png]]
+	 ![[image-6.png]]
 - To run an image, we need to create a container of that image.
 	- `docker run <image>`
 		- pulls the image if needed and starts.
@@ -107,25 +107,25 @@
 	- `docker run -d <image>`
 		- Runs container in detach mode, so as our terminal remains free
 		- Prints container id
-		 ![[Pasted image 20240823111724.png]]
+		 ![[image-7.png]]
 	- ***Note***: Some images might require additional data for running.
 		- ex: `docker run ---name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -d postgres`
 		- `--name`: It specifies name of the container. Usually a default name is given but using this we can give the name of our choice.
 - To list all containers
 	- `docker ps`
-	 ![[Pasted image 20240823112201.png]]
+	 ![[image-8.png]]
 - To list all containers (running and stopped)
 	- `docker ps -a`
-	 ![[Pasted image 20240823112307.png]]
+	 ![[image-9.png]]
 - To stop docker container
 	- `docker stop <container id>`
 	- Only first few characters of the container id are enough
-	 ![[Pasted image 20240823112446.png]]
-	 ![[Pasted image 20240823112500.png]]
+	 ![[image-10.png]]
+	 ![[image-11.png]]
 - To start the same container
 	- `docker start <container id>`
-	![[Pasted image 20240823112724.png]]
-	![[Pasted image 20240823112737.png]]
+	![[image-12.png]]
+	![[image-13.png]]
 - Running different versions of same services on docker
 	- `docker pull redis`
 	- `docker pull redis:4.0`
