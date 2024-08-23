@@ -79,3 +79,5 @@
 | **Isolation**                 | Provides process-level isolation; all containers share the same OS kernel.                                           | Provides complete isolation as each VM runs a separate OS instance.                                        |
 | **Startup Time**              | Faster startup times since there’s no need to boot a full OS.                                                        | Slower startup times because the full OS needs to boot.                                                    |
 | **Use Case**                  | Ideal for microservices, continuous deployment, and when multiple applications need to run on the same OS environment.| Ideal for running different operating systems, or when full OS isolation is required.                      |
+- **COMPATIBILITY**
+	- VM of a
