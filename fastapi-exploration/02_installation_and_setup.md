@@ -63,4 +63,14 @@ def second():
 - Fast api depends on
 	- Pydantic
 	- Starlette
-- 
+- `standard` Dependencies
+	- When you install FastAPI with `pip install "fastapi[standard]"` it comes the `standard` group of optional dependencies:
+	- Used by Pydantic:
+		- [`email-validator`](https://github.com/JoshData/python-email-validator) - for email validation.
+	- Used by Starlette:
+		- [`httpx`](https://www.python-httpx.org/) - Required if you want to use the `TestClient`.
+		- [`jinja2`](https://jinja.palletsprojects.com/) - Required if you want to use the default template configuration.
+		- [`python-multipart`](https://github.com/Kludex/python-multipart) - Required if you want to support form "parsing", with `request.form()`.
+- Used by FastAPI / Starlette:
+	- [`uvicorn`](https://www.uvicorn.org/) - for the server that loads and serves your application. This includes `uvicorn[standard]`, which includes some dependencies (e.g. `uvloop`) needed for high performance serving.
+	- `fastapi-cli` - to provide the `fastapi` command.
