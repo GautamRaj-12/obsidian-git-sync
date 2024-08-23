@@ -64,4 +64,4 @@
 - 2 layers
 	- **OS Kernel**: Communicates with hardware
 	- **Applications**: Run on kernel layer
-	- Linux jas ,a
+	- Linux has many distros. All these distros use linux kernel but implement different application on top that is why they look and behave differently
