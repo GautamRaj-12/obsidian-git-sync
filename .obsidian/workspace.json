@@ -11,14 +11,11 @@
             "id": "105fd2594cb48da1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -107.5,
-                  "y": -120,
-                  "zoom": 0
-                }
+                "file": "docker/docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "docker/docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "docker/docker.md"
               }
             }
           }
@@ -151,10 +148,12 @@
   },
   "active": "105fd2594cb48da1",
   "lastOpenFiles": [
+    "Pasted image 20240823062235.png",
+    "Pasted image 20240823062216.png",
+    "Untitled.canvas",
     "docker/docker.md",
     "docker/images/Pasted image 20240823055422.png",
     "docker/images",
-    "Untitled.canvas",
     "processors/cores and threads.md",
     "os/process vs thread.md",
     "os",

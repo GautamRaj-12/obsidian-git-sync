@@ -36,11 +36,14 @@
 ## How containers improved application deployment?
 ### Before containers
 1. Development team will produce  ***artifacts*** together with set of instructions(soi), to configure.
-2. Operations team will handle setting up the environment to deploy those applications.
-3. So, need to install everything and configure everything.
-4. Conflicts can happen.
-5. Misunderstanding can happen.
-6. Back and forth communication required.
+
+![[Pasted image 20240823062235.png]]
+
+3. Operations team will handle setting up the environment to deploy those applications.
+4. So, need to install everything and configure everything.
+5. Conflicts can happen.
+6. Misunderstanding can happen.
+7. Back and forth communication required.
 ### After Containers
 - Developers and operations working in one team to package the whole configuration, dependencies etc.
 - One single environment

@@ -3,9 +3,9 @@
 		{"id":"c27cdfd8ec12d113","type":"text","text":"CONTAINER","x":-320,"y":-240,"width":425,"height":240,"color":"3"},
 		{"id":"f6c65b5232a08c5d","type":"text","text":"postgresql v9.3","x":-77,"y":-175,"width":165,"height":50},
 		{"id":"082ed34c88cb8e3d","type":"text","text":"JAR","x":-520,"y":-320,"width":125,"height":50},
-		{"id":"52379e2a9057a10e","type":"text","text":"_____________________________\n----------\n---\n","x":-515,"y":-150,"width":120,"height":105},
-		{"id":"dce85a681365e81f","type":"text","text":"SOI","x":-690,"y":-295,"width":120,"height":50},
-		{"id":"0a92afb3b9a56c9a","x":-675,"y":-165,"width":90,"height":80,"type":"text","text":"DB"}
+		{"id":"52379e2a9057a10e","type":"text","text":"_____________________________\n----------\n---\n","x":-540,"y":-245,"width":120,"height":105},
+		{"id":"0a92afb3b9a56c9a","x":-660,"y":-240,"width":90,"height":80,"type":"text","text":"DB"},
+		{"id":"dce85a681365e81f","type":"text","text":"SOI","x":-675,"y":-320,"width":120,"height":50}
 	],
 	"edges":[]
 }
