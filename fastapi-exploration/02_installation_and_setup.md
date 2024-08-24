@@ -56,7 +56,7 @@ def second():
 		- We will see an interactive API documentation automatically generated.
 		 ![[fastapi-exploration/images/image-3.png]]
 		- Then click on the "Execute" button, the user interface will communicate with your API, send the parameters, get the results and show them on the screen
-			![[Pasted image 20240823162023.png]]
+			![[fastapi-exploration/images/image-4.png]]
 	- Another doc `http://127.0.0.1:8000/redoc`
 		![[fastapi-exploration/images/image-2.png]]
 ## Dependencies
