@@ -31,4 +31,4 @@
 	  - Output:
 		 ![image](images/image-6.png)
 		- *If we omit either of the two parameters, there will be an error as both are required.*
-		- One thing to notice again: 
+		- One thing to notice in `{"published":"false"` is that false is a string. So, if we try to do any condition check using it, the
