@@ -42,4 +42,6 @@
 		```
 	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
 	 ![image](images/image-7.png)
-	 
+	- Now limit is an integer and published is a boolean.
+
+- 
