@@ -67,7 +67,7 @@
 	- So, we can specify default value for both:
 	 ```python
 	 @app.get("/blog/{id}")
-	 def show(id:int,published:bool=-False,limit:int=10):
+	 def show(id:int,published:bool=False,limit:int=10):
 		return {"id":id,"limit":limit,"published":published}
 	   ```
 	- Now, if we don't specify any query parameter in the URL, it is going to take the default values.
