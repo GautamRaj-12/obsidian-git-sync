@@ -15,4 +15,4 @@
     - Use them to modify your database query.
 - *When you declare other function parameters that are not part of the path parameters, they are automatically interpreted as "query" parameters.*
 ### 4. Examples
-- **Defining **
+- **Defining Query Parameters**
