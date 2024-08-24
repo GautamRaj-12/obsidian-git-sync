@@ -55,6 +55,9 @@
 	- The best thing is: *The order of queries you provide in the URL doesn't have to match with the order of arguments of the function as query parameters are identified by their name and not their position*
 		```python
 	 @app.get("/blog/{id}")
-	 def show(id:int,limit:int=10,published:bool):
+	 def show(id:int,published:bool,limit:int=10):
 		return {"id":id,"limit":limit,"published":published}
 		```
+	- So, by simply doing the above, the code will work fine.
+	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=20&published=false`
+	
