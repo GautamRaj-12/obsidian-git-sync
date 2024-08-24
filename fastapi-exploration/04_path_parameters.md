@@ -85,16 +85,16 @@ def comments(id):
 - **Solution:** Always place more specific routes above dynamic ones to ensure proper matching.
 - Ex:
 	```python
-	@app.get("/blog/{id}")
-	def show(id:int):
-		return {"data":id}
+@app.get("/blog/{id}")
+def show(id:int):
+	return {"data":id}
 
-	@app.get("/blog/unpublished")
+@app.get("/blog/unpublished")
 	def unpublished():
 		return {"data":"all unpublished blogs"}
 	```
-	- When we g
 
+	- When wr 
 ## 8. Using Pydantic for Data Validation
 - **Overview:**
   - Pydantic is a key library that FastAPI uses for data validation and type enforcement.
