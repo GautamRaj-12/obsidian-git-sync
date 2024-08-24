@@ -60,4 +60,5 @@
 		```
 	- So, by simply doing the above, the code will work fine.
 	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=20&published=false`
-	
+	![[Pasted image 20240824105730.png]]
+	- And if we don't specify `limit` parameter in the URL, it will
