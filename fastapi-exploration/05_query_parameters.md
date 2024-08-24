@@ -46,4 +46,4 @@
 
 - **Defining Query Parameters (With Default Value)**
 	- If a query parameter is not provided, a default value can be set.
-	- Let's try to give a default value to limit
+	- Let's try to give a default value to limit and leave everything as it is
