@@ -22,7 +22,10 @@
 			return {f'Id:{id}, Limit: {limit}, published: {published}'}
 	```
 
-	- When we go to the URL: `http://127.0.0.1:8000/blog/14`
+	- When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14`
 	- Output:
 	  ![image](images/image-5.png)
-	  - It shows error as in the function we have defined query parameters, but in the URL we are not
+	  - It shows error as in the function we have defined query parameters, but in the URL we are not sending any.
+	  - So by default the query parameters are required.
+	  - When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14`
+	- Output:
