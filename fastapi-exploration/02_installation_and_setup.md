@@ -56,9 +56,9 @@ def second():
 		- We will see an interactive API documentation automatically generated.
 		  ![image](images/image-3.png)
 		- Then click on the "Execute" button, the user interface will communicate with your API, send the parameters, get the results and show them on the screen
-			![[fastapi-exploration/images/image-4.png]]
+			![image](images/image-4.png)
 	- Another doc `http://127.0.0.1:8000/redoc`
-		![[fastapi-exploration/images/image-2.png]]
+		 ![image](images/image-2.png)
 ## Dependencies
 - Fast api depends on
 	- Pydantic

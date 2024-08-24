@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fastapi-exploration/02_installation_and_setup.md",
+                "file": "fastapi-exploration/03_first_program_breakdown.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fastapi-exploration/02_installation_and_setup.md",
+                "file": "fastapi-exploration/03_first_program_breakdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fastapi-exploration/02_installation_and_setup.md",
+                "file": "fastapi-exploration/03_first_program_breakdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fastapi-exploration/02_installation_and_setup.md"
+                "file": "fastapi-exploration/03_first_program_breakdown.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "afafc7e1fa6ca5d7",
   "lastOpenFiles": [
+    "fastapi-exploration/04_path_parameters.md",
+    "fastapi-exploration/03_first_program_breakdown.md",
+    "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/images/image-1.png",
     "fastapi-exploration/images/image-4.png",
     "fastapi-exploration/images/image-3.png",
     "fastapi-exploration/images/image-2.png",
-    "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/01_fastapi_intro.md",
     "jetbrains/Tips and Tricks.md",
     "docker/docker.md",
@@ -164,8 +166,6 @@
     "docker/images/image-7.png",
     "images/Pasted.md",
     "images",
-    "fastapi-exploration/04_path_parameters.md",
-    "fastapi-exploration/03_first_program_breakdown.md",
     "fastapi-exploration/images",
     "fastapi-exploration",
     "Untitled.canvas",

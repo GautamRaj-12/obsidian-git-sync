@@ -1,6 +1,6 @@
 
 ## The Code
-```
+```python
 from fastapi import FastAPI
 
 app = FastAPI()
@@ -65,7 +65,7 @@ def second():
 - **Path Operation Function**: This is the function that gets executed when a specific HTTP operation is performed on a particular path. It contains the logic for handling the request and generating the response.
 - **Naming**: The name "path operation function" comes from combining the *path* (e.g., `/items/`) and the *operation* (e.g., `GET`).
 - **Example**:
-  ```
+  ```python
   @app.get("/items/")
   def read_items():
       return {"items": ["apple", "banana"]}
@@ -79,7 +79,7 @@ def second():
     - `@app.put("/path")`: Handles PUT requests.
     - `@app.delete("/path")`: Handles DELETE requests.
 - Example: 
-```
+```python
 @app.get("/items/{item_id}")
 def read_item(item_id: int):
     return {"item_id": item_id}
