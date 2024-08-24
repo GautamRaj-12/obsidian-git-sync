@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "488c7bf5e1459b8f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image-9.png"
+              }
+            }
           }
         ]
       }
@@ -148,14 +158,14 @@
   },
   "active": "afafc7e1fa6ca5d7",
   "lastOpenFiles": [
-    "Pasted image 20240824105854.png",
-    "Pasted image 20240824105730.png",
+    "fastapi-exploration/images/image-8.png",
+    "image-9.png",
+    "fastapi-exploration/05_query_parameters.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "docker/docker.md",
     "docker/images/image-10.png",
     "docker/images/image-4.png",
     "docker/images/image-1.png",
-    "fastapi-exploration/05_query_parameters.md",
     "fastapi-exploration/01_fastapi_intro.md",
     "fastapi-exploration/images/image-7.png",
     "fastapi-exploration/images/image-6.png",
@@ -165,7 +175,6 @@
     "fastapi-exploration/03_first_program_breakdown.md",
     "fastapi-exploration/images/image-1.png",
     "fastapi-exploration/images/image-4.png",
-    "fastapi-exploration/images/image-3.png",
     "jetbrains/Tips and Tricks.md",
     "images/Pasted.md",
     "images",
