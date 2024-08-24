@@ -73,5 +73,11 @@
 	- Now, if we don't specify any query parameter in the URL, it is going to take the default values.
 
 - **Defining Query Parameters (With Optional Value)**
+	- We can declare optional query parameters, by setting their default to `None`:
+
   ```python
+  @app.get("/blog/{id}")
+  def show(id:int,published:bool=False,limit:int=10,sort:str | None = None):
+	return {"id":id,"limit":limit,"published":published,"sort":sort}
 	```
+	- 
