@@ -30,4 +30,4 @@
 	  - When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
 	  - Output:
 		 ![image](images/image-6.png)
-		- 
+		- *If we omit either of the two parameters, there will be an error*
