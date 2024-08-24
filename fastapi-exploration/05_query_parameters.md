@@ -73,3 +73,5 @@
 	- Now, if we don't specify any query parameter in the URL, it is going to take the default values.
 
 - **Defining Query Parameters (With Optional Value)**
+  ```python
+	```
