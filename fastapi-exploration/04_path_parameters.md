@@ -94,7 +94,8 @@ def show(id:int):
 		return {"data":"all unpublished blogs"}
 	```
 
-	- When wr 
+	- The `/blog/{id}` route is defined before the `/blog/unpublished` route. FastAPI is trying to match the string `"unpublished"` as the `id` parameter in the `/blog/{id}` route, which is expected to be an integer. Since `"unpublished"` is not an integer, FastAPI throws an error.
+	- **Solution**: To resolve this issue, you need to rearrange the routes so that the more specific route `/blog/unpublished` is defined before the more general dynamic route `/blog/{id}`.
 ## 8. Using Pydantic for Data Validation
 - **Overview:**
   - Pydantic is a key library that FastAPI uses for data validation and type enforcement.
