@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "afafc7e1fa6ca5d7",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "fastapi-exploration/images/image-5.png",
     "fastapi-exploration/04_path_parameters.md",
     "fastapi-exploration/05_query_parameters.md",
     "fastapi-exploration/01_fastapi_intro.md",
