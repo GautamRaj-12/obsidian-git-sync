@@ -15,7 +15,7 @@
     - Use them to modify your database query.
 - *When you declare other function parameters that are not part of the path parameters, they are automatically interpreted as "query" parameters.*
 ### 4. Examples
-- **Defining Query Parameters**
+- **Defining Query Parameters (Simplest)**
 	```python
 		@app.get("/blog/{id}")
 		def show(id:int,limit,published):
@@ -32,3 +32,4 @@
 		 ![image](images/image-6.png)
 		- *If we omit either of the two parameters, there will be an error as both are required.*
 		- One thing to notice in `{"published":"false"` is that false is a string. So, if we try to do any condition check using it, then it will not produce the desired result. So it is always good to specify the data type.
+	- *****
