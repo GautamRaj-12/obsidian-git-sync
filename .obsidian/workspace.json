@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fastapi-exploration/05_query_parameters.md",
+                "file": "fastapi-exploration/01_fastapi_intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "image-9.png"
+                "file": "fastapi-exploration/images/image-9.png"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fastapi-exploration/05_query_parameters.md",
+                "file": "fastapi-exploration/01_fastapi_intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fastapi-exploration/05_query_parameters.md",
+                "file": "fastapi-exploration/01_fastapi_intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fastapi-exploration/05_query_parameters.md"
+                "file": "fastapi-exploration/01_fastapi_intro.md"
               }
             }
           }
@@ -159,8 +159,8 @@
   "active": "afafc7e1fa6ca5d7",
   "lastOpenFiles": [
     "fastapi-exploration/images/image-8.png",
-    "image-9.png",
     "fastapi-exploration/05_query_parameters.md",
+    "fastapi-exploration/images/image-9.png",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "docker/docker.md",
     "docker/images/image-10.png",
