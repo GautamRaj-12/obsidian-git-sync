@@ -27,5 +27,6 @@
 	  ![image](images/image-5.png)
 	  - It shows error as in the function we have defined query parameters, but in the URL we are not sending any.
 	  - So by default the query parameters are required.
-	  - When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14`
-	- Output:
+	  - When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
+	  - Output:
+	  - 
