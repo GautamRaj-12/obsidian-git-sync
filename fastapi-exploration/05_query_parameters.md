@@ -80,4 +80,3 @@
   def show(id:int,published:bool=False,limit:int=10,sort:str | None = None):
 	return {"id":id,"limit":limit,"published":published,"sort":sort}
 	```
-	- 
