@@ -52,4 +52,4 @@
 		return {"id":id,"limit":limit,"published":published}
 		```
 	- This will give us error right inside our IDE:*Non-default argument follows default argument* : which essentially means that we need to define arguments with default values after the non-default arguments.
-	- The best thing is: *The*
+	- The best thing is: *The order of queries you provide in the url doesn't have to match with the order of arguments of the function as *
