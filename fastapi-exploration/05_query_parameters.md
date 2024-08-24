@@ -64,3 +64,9 @@
 	- And if we don't specify `limit` parameter in the URL, it will take the default value 10.
 	![[Pasted image 20240824105854.png]]
 	- But if we don't specify the `published` parameter, it is going to result in an error as we haven't provided any default value to it and it is required.
+	- So, we can specify default value for both:
+	 	```python
+	 @app.get("/blog/{id}")
+	 def show(id:int,published:bool,limit:int=10):
+		return {"id":id,"limit":limit,"published":published}
+		```
