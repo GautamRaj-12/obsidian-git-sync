@@ -13,3 +13,5 @@
 - To handle query parameters:
     - Accept them in your function similar to path parameters.
     - Use them to modify your database query.
+- *When you declare other function parameters that are not part of the path parameters, they are automatically interpreted as "query" parameters.*
+- 
