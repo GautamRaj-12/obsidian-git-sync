@@ -85,13 +85,13 @@ def comments(id):
 - **Solution:** Always place more specific routes above dynamic ones to ensure proper matching.
 - Ex:
 	```python
-	@app.get("/blog/unpublished") 
-	def unpublished(): 
-		return {"data": "all unpublished blogs"} 
-		
-	@app.get("/blog/{id}") 
-	def show(id: int): 
-		return {"data": id}
+	@app.get("/blog/{id}")
+	def show(id:int):
+		return {"data":id}
+
+	@app.get("/blog/unpublished")
+	def unpublished():
+		return {"data":"all unpublished blogs"}
 	```
 	- When we g
 
