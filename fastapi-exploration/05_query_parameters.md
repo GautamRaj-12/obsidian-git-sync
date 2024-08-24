@@ -63,4 +63,4 @@
 	![[Pasted image 20240824105730.png]]
 	- And if we don't specify `limit` parameter in the URL, it will take the default value 10.
 	![[Pasted image 20240824105854.png]]
-	- But if we don't specify the `publish`
+	- But if we don't specify the `published` parameter, it is going to result in an error as we haven't provided any default value to it and it is required.
