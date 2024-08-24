@@ -51,4 +51,5 @@
 	 def show(id:int,limit:int=10,published:bool):
 		return {"id":id,"limit":limit,"published":published}
 		```
-	- This will give us error right inside our IDE:*Non-default argument follows default argument* : which essentially means that we need to define parameters 
+	- This will give us error right inside our IDE:*Non-default argument follows default argument* : which essentially means that we need to define arguments with default values after the non-default arguments.
+	- The best thing is: *The*
