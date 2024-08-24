@@ -31,10 +31,13 @@
 	  - Output:
 		 ![image](images/image-6.png)
 		- *If we omit either of the two parameters, there will be an error as both are required.*
-		- One thing to notice in `{"published":"false"` is that false is a string. So, if we try to do any condition check using it, then it will not produce the desired result. So it is always good to specify the data type.
+		- One thing to notice in `{"published":"false"}` is that false is a string and similarlky li So, if we try to do any condition check using it, then it will not produce the desired result. So it is always good to specify the data type.
 	
 	- **Defining Query Parameters(With specified data type)**
 	  ```python
-	  
+	  @app.get("/blog/{id}")
+	  def show(id:int,limit:int,published:bool):
+		return {"id":id,"limit":limit,"published":published}
 	  
 		```
+	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
