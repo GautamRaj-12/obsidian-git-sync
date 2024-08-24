@@ -16,10 +16,11 @@
 - *When you declare other function parameters that are not part of the path parameters, they are automatically interpreted as "query" parameters.*
 ### 4. Examples
 - **Defining Query Parameters**
-```python
-@app.get("/blog/{id}")
-def show(id:int,limit,published):
-	return {f'Id:{id}, Limit: {limit}, published: {published}'}
-```
+	```python
+		@app.get("/blog/{id}")
+		def show(id:int,limit,published):
+			return {f'Id:{id}, Limit: {limit}, published: {published}'}
+	```
 
-	- W
+	- When we go to the URL: `http://127.0.0.1:8000/blog/14`
+	- Output
