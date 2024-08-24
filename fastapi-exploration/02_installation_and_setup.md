@@ -26,7 +26,7 @@
 ## Basic Setup
 - Create a file named `main.py` or any other name in the root directory of the project.
 - Write the following code:
-```
+```python
 from fastapi import FastAPI
 
 app = FastAPI()
