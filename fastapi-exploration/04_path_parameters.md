@@ -83,6 +83,17 @@ def comments(id):
 ## 7. Dynamic Routing Conflicts
 - **Issue:** If you place dynamic routes like `/blogs/{id}` before more specific routes like `/blogs/unpublished`, FastAPI might incorrectly match the dynamic route.
 - **Solution:** Always place more specific routes above dynamic ones to ensure proper matching.
+- Ex:
+	```python
+	@app.get("/blog/unpublished") 
+	def unpublished(): 
+		return {"data": "all unpublished blogs"} 
+		
+	@app.get("/blog/{id}") 
+	def show(id: int): 
+		return {"data": id}
+	```
+	- When we g
 
 ## 8. Using Pydantic for Data Validation
 - **Overview:**
