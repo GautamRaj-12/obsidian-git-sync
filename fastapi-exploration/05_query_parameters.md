@@ -19,7 +19,7 @@
 	```python
 		@app.get("/blog/{id}")
 		def show(id:int,limit,published):
-			return {f'Id:{id}, Limit: {limit}, published: {published}'}
+			return {"id":id,"limit":limit,"published":published}
 	```
 
 	- When we go to the URL (Not specifying the query paramaeters): `http://127.0.0.1:8000/blog/14`
