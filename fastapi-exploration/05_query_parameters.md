@@ -38,7 +38,6 @@
 	  @app.get("/blog/{id}")
 	  def show(id:int,limit:int,published:bool):
 		return {"id":id,"limit":limit,"published":published}
-	  
 		```
 	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
 	 ![image](images/image-7.png)
@@ -46,4 +45,10 @@
 
 - **Defining Query Parameters (With Default Value)**
 	- If a query parameter is not provided, a default value can be set.
-	- Let's try to give a default value to limit and leave everything as it is
+	- Let's try to give a default value to limit and leave everything as it is.
+	 ```python
+	 @app.get("/blog/{id}")
+	 def show(id:int,limit:int=10,published:bool):
+		return {"id":id,"limit":limit,"published":published}
+		```
+	- 
