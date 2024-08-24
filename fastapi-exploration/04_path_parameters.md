@@ -85,14 +85,19 @@ def comments(id):
 - **Solution:** Always place more specific routes above dynamic ones to ensure proper matching.
 - Ex:
 
-	```python
-@app.get("/blog/{id}")
-def show(id:int):
-	return {"data":id}
+  ```
+	  @app.get("/blog/{id}")
+	  def show(id:int):
+
+return {"data":id}
+
+  
 
 @app.get("/blog/unpublished")
-	def unpublished():
-		return {"data":"all unpublished blogs"}
+
+def unpublished():
+
+return {"data":"all unpublished blogs"}
 	```
 
 	- The `/blog/{id}` route is defined before the `/blog/unpublished` route. FastAPI is trying to match the string `"unpublished"` as the `id` parameter in the `/blog/{id}` route, which is expected to be an integer. Since `"unpublished"` is not an integer, FastAPI throws an error.
