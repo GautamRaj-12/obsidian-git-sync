@@ -11,9 +11,11 @@
             "id": "919c1894aae6da89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ll-15.png"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ll-15.png",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ll-15.png",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ll-15.png"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
               }
             }
           }
@@ -146,13 +148,13 @@
   },
   "active": "919c1894aae6da89",
   "lastOpenFiles": [
-    "ll-19.png",
-    "ll-17.png",
-    "ll-16.png",
+    "dsa-no-code-notes/linked-list/images/ll-15.png",
+    "dsa-no-code-notes/linked-list/images/ll-19.png",
+    "dsa-no-code-notes/linked-list/images/ll-17.png",
+    "dsa-no-code-notes/linked-list/images/ll-16.png",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
-    "ll-20.png",
-    "ll-18.png",
-    "ll-15.png",
+    "dsa-no-code-notes/linked-list/images/ll-20.png",
+    "dsa-no-code-notes/linked-list/images/ll-18.png",
     "Untitled.md",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",

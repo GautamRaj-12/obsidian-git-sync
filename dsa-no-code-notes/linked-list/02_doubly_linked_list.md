@@ -12,9 +12,9 @@
 - ***Insert a node at the beginning***
 	-  New node is inserted before the head node. Previous and next pointers need to be modified and it can be done in two steps:
 		- Update the right pointer of the new node to point to the current head node (dotted link in below figure) and also make left pointer of new node as NULL.
-		  ![[ll-15.png]]
+		  ![image](images/ll-15.png)
 		- Update head node’s left pointer to point to the new node and make new node as head.
-		  ![[ll-16.png]]
+		  ![image](images/ll-16.png)
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
