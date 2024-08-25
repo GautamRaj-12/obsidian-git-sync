@@ -88,14 +88,14 @@
 		- Update previous node’s next pointer with NULL.
 		- Dispose of the tail node.
 	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the node before the last node.
-	- **SPACE COMPLEXITY**:O(1) - - The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Deleting the intermediate node***
 	- The node to be removed is _always located between_ two nodes. Head and tail links are not updated in this case. Such a removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while traversing the list. Once we find the node to be deleted, change the previous node’s next pointer to the next pointer of the node to be deleted.
 		- Dispose of the current node to be deleted.
-	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
-	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
+	- **TIME COMPLEXITY**: O(n) You need to traverse the list to find the node to be deleted.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Delete singly linked list***
 	- This works by storing the current node in some temporary variable and freeing the current node. After freeing the current node, go to the next node with a temporary variable and repeat this process for all nodes.
-	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
-	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
+	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list, freeing each node one by one.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from the temporary variable used for traversal.
