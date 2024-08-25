@@ -42,6 +42,11 @@
 	- In this case, the first node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
 		  ![[Pasted image 20240825121011.png]]
-		- 
+		- Now, move the head nodes pointer to the next node and change the heads left pointer to NULL and dispose of the temporary node.
+		  ![[Pasted image 20240825121052.png]]
 - ***Deleting the Last Node***
+	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail first. This can be done in three steps:
+		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the tail and the other pointing to the node before the tail.
+		- Update the next pointer of previous node to the tail node with NULL.
+		- Dispose of the tail node.
 - ***Deleting an Intermediate Node***
