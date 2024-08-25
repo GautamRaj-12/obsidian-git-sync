@@ -39,5 +39,9 @@
 
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
+	- In this case, the first node (current head node) is removed from the list. It can be done in two steps:
+		- Create a temporary node which will point to the same node as that of head.
+		  ![[Pasted image 20240825121011.png]]
+		- 
 - ***Deleting the Last Node***
 - ***Deleting an Intermediate Node***
