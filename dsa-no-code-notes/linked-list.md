@@ -25,3 +25,13 @@
 | **Cache Performance**   | Can efficiently handle frequent insertions and deletions, especially in large datasets.                  | Poor cache locality due to non-contiguous memory allocation, leading to slower access times.         |
 | **Simplicity**          | Simpler than dynamic arrays (e.g., vectors) in terms of memory reallocation logic.                       | Increased complexity in implementation, especially for operations like reversing or sorting.         |
 | **Usage in Algorithms** | Preferred for implementing dynamic data structures where frequent insertions and deletions occur.        | Less efficient for algorithms requiring frequent access to elements by index, such as binary search. |
+## Arrays vs Linked Lists vs Dynamic Arrays
+| **Parameter**                       | **Linked List**       | **Array**                                                | **Dynamic Array**                                        |
+| ----------------------------------- | --------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| **Indexing**                        | `O(n)`                | `O(1)`                                                   | `O(1)`                                                   |
+| **Insertion/Deletion at Beginning** | `O(1)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
+| **Insertion at Ending**             | `O(n)`                | `O(1)`, if array is not full                             | `O(1)`, if array is not full<br>`O(n)`, if array is full |
+| **Deletion at Ending**              | `O(n)`                | `O(1)`                                                   | `O(1)`                                                   |
+| **Insertion in Middle**             | `O(n)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
+| **Deletion in Middle**              | `O(n)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
+| **Wasted Space**                    | `O(n)` (for pointers) | `0`                                                      | `O(n)`                                                   |
