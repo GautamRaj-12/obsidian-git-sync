@@ -18,18 +18,24 @@
 		  ![image](images/ll-15.png)
 		- Update head node’s left pointer to point to the new node and make new node as head.
 		  ![image](images/ll-16.png)
+		- **TIME COMPLEXITY**:
+		- **SPACE COMPLEXITY**:
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
 		  ![image](images/ll-17.png)
 		- Update right pointer of last node to point to new node.
 		  ![image](images/ll-18.png)
+		- **TIME COMPLEXITY**:
+		- **SPACE COMPLEXITY**:
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
 		  ![image](images/ll-19.png)
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
 		  ![image](images/ll-20.png)
+		- **TIME COMPLEXITY**:
+		- **SPACE COMPLEXITY**:
 
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
