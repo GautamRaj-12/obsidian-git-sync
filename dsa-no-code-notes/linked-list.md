@@ -35,3 +35,5 @@
 | **Insertion in Middle**             | `O(n)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
 | **Deletion in Middle**              | `O(n)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
 | **Wasted Space**                    | `O(n)` (for pointers) | `0`                                                      | `O(n)`                                                   |
+## Singly Linked List
+- Singly  list consists of a number of nodes in which each node has a _next_ pointer to the following element. The link of the last node in the list is NULL, which indicates the end of the list.
