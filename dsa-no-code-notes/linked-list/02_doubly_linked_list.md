@@ -8,7 +8,8 @@
 - The list starts with a special node called the **HEAD**, which points to the first node in the list. Each node's next pointer directs to the subsequent node, while the previous pointer directs to the preceding node, allowing traversal in both directions. The last node in this chain, called the **TAIL**, has its next pointer set to `NULL`, signifying the end of the list, and its previous pointer points to the preceding node.
 - In simpler terms, the HEAD provides access to the linked list, and the nodes are connected both forward and backward, with the final node marking the list's end with a `NULL` link in the next pointer and a reference to the previous node in the sequence.
 
-  ![[Pasted image 20240825120729.png]]
+  
+   ![image](images/ll-21.png)
 
 ### Inserting in Doubly Linked List
 - ***Insert a node at the beginning***
@@ -32,5 +33,5 @@
 
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
--  ***Deleting the Last Node***
--  ***Deleting an Intermediate Node***
+- ***Deleting the Last Node***
+- ***Deleting an Intermediate Node***
