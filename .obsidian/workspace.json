@@ -11,9 +11,11 @@
             "id": "919c1894aae6da89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ll-22.png"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ll-22.png",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ll-22.png",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ll-22.png"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
               }
             }
           }
@@ -144,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "919c1894aae6da89",
   "lastOpenFiles": [
+    "dsa-no-code-notes/linked-list/images/ll-22.png",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
-    "Pasted image 20240825121312.png",
-    "Pasted image 20240825121302.png",
-    "Pasted image 20240825121250.png",
-    "Pasted image 20240825121231.png",
-    "Pasted image 20240825121221.png",
-    "ll-23.png",
+    "dsa-no-code-notes/linked-list/images/ll-28.png",
+    "dsa-no-code-notes/linked-list/images/ll-27.png",
+    "dsa-no-code-notes/linked-list/images/ll-26.png",
+    "dsa-no-code-notes/linked-list/images/ll-25.png",
+    "dsa-no-code-notes/linked-list/images/ll-24.png",
+    "dsa-no-code-notes/linked-list/images/ll-23.png",
     "Pasted image 20240825121031.png",
-    "ll-22.png",
     "Pasted image 20240825120749.png",
     "dsa-no-code-notes/linked-list/images/ll-21.png",
     "Untitled.md",

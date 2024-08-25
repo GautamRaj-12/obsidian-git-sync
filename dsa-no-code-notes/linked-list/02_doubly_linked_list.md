@@ -49,18 +49,18 @@
 - ***Deleting the Last Node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail first. This can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the tail and the other pointing to the node before the tail.
-		  ![[Pasted image 20240825121221.png]]
+		  ![[ll-24.png]]
 		- Update the next pointer of previous node to the tail node with NULL.
-		  ![[Pasted image 20240825121231.png]]
+		  ![[ll-25.png]]
 		- Dispose of the tail node.
-		  ![[Pasted image 20240825121250.png]]
+		  ![[ll-26.png]]
 		- **TIME COMPLEXITY**:
 		- **SPACE COMPLEXITY**:
 - ***Deleting an Intermediate Node***
 	- In this case, the node to be removed is _always located between_ two nodes, and the head and tail links are not updated. The removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while also traversing the list. Upon locating the node to be deleted, change the previous node’s next pointer to the next node of the node to be deleted.
-		  ![[Pasted image 20240825121302.png]]
+		  ![[ll-27.png]]
 		- Dispose of the current node to be deleted.
-		  ![[Pasted image 20240825121312.png]]
+		  ![[ll-28.png]]
 		- **TIME COMPLEXITY**:
 		- **SPACE COMPLEXITY**:
