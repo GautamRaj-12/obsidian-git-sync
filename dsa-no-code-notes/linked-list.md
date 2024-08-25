@@ -58,3 +58,6 @@
 	- Last node's next pointer points to the new node
 	 ![image](images/ll-5.png)
 - ***Insertion at a given position***
+	- If we want to add an element at position 3 then we stop at position 2. That means we traverse 2 nodes and insert the new node. For simplicity let us assume that the second node is called _position_ node. The new node points to the next node of the position where we want to add this node.
+	 ![[Pasted image 20240825101453.png]]
+	- Position node’s next pointer now points to the new node.
