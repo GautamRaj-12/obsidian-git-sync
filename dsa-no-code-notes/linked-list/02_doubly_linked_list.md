@@ -41,9 +41,9 @@
 - ***Deleting the First Node***
 	- In this case, the first node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
-		  ![[Pasted image 20240825121011.png]]
+		  ![[ll-22.png]]
 		- Now, move the head nodes pointer to the next node and change the heads left pointer to NULL and dispose of the temporary node.
-		  ![[Pasted image 20240825121052.png]]
+		  ![[ll-23.png]]
 		- **TIME COMPLEXITY**:
 		- **SPACE COMPLEXITY**:
 - ***Deleting the Last Node***
