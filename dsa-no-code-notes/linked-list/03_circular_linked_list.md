@@ -17,7 +17,9 @@
 ### Inserting in Circular Linked List
 - ***Inserting at the beginning***
 	- Create a new node and initially keep its next pointer pointing to itself.
+	 ![[Pasted image 20240825134757.png]]
 	- Update the next pointer of the new node with the head node and also traverse the list until the tail. That means in a circular list we should stop at the node which is its previous node in the list.
+	 ![[Pasted image 20240825134809.png]]
 	- Update the previous head node in the list to point to the new node.
 	- Make the new node as the head.
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the tail node, which takes `O(n)` time.
