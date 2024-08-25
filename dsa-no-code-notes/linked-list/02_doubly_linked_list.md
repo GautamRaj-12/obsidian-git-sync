@@ -23,4 +23,6 @@
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
 
 ### Deleting in Doubly Linked List
-- ******
+- ***Deleting the First Node***
+-  ***Deleting the Last Node***
+-  ***Deleting an Intermediate Node***
