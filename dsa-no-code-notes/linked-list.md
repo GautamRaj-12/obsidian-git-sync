@@ -57,4 +57,4 @@
 	 ![image](images/ll-4.png)
 	- Last node's next pointer points to the new node
 	 ![image](images/ll-5.png)
-- ***Insertion at the Middle***
+- ***Insertion at a given position***
