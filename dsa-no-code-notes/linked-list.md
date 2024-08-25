@@ -79,6 +79,7 @@
 - ***Deleting the first node***
 	- First node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
+		  ![[Pasted image 20240825103818.png]]
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
 		- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
 		- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from the temporary node.
