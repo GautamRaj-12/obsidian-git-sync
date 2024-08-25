@@ -47,9 +47,10 @@
 ### Insertion in Singly Linked List
 - ***Insertion at the beginning***
 	- Create new node
-	- Update the pointer of new node, to point to the current head
-	- Update head pointer to point to the new node.
+	- Update the pointer of new node, to point to the current HEAD
+	 ![[Pasted image 20240825100819.png]]
+	- Update HEAD pointer to point to the new node.
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
-	- 
+	- Last node's next pointer points to the new node
