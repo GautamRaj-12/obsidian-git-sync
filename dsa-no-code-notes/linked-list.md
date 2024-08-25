@@ -80,16 +80,22 @@
 	- First node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
-		- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
-	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
+		- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
+		- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from the temporary node.
 - ***Deleting the last node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail. It can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the _tail_ node and the other pointing to the node _before_ the tail node.
 		- Update previous node’s next pointer with NULL.
 		- Dispose of the tail node.
+	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the node before the last node.
+	- **SPACE COMPLEXITY**:O(1) - - The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Deleting the intermediate node***
 	- The node to be removed is _always located between_ two nodes. Head and tail links are not updated in this case. Such a removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while traversing the list. Once we find the node to be deleted, change the previous node’s next pointer to the next pointer of the node to be deleted.
 		- Dispose of the current node to be deleted.
+	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Delete singly linked list***
 	- This works by storing the current node in some temporary variable and freeing the current node. After freeing the current node, go to the next node with a temporary variable and repeat this process for all nodes.
+	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
