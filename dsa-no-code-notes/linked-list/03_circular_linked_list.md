@@ -42,4 +42,4 @@
 		- Update the tail node’s previous node pointer to point to head.
 		- Dispose of the tail node.
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last but one node.
-	- **Space Complexity**: 
+	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` since only pointers are updated, and no extra space is required.
