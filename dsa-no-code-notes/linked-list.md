@@ -44,6 +44,9 @@
 
 	In simpler terms, the HEAD provides access to the linked list, and the nodes are connected one after another, with the final node marking the list's end with a `NULL` link.
 	![image](images/ll-1.png)
+
+### Traversing in Singly Linked List
+- 
 ### Insertion in Singly Linked List
 - ***Insertion at the beginning***
 	- Create new node
