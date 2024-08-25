@@ -27,16 +27,15 @@
 		- Update right pointer of last node to point to new node.
 		  ![image](images/ll-18.png)
 		- **TIME COMPLEXITY**: O(n) - To insert a node at the end, you need to traverse the entire list, which takes O(n) time, where n is the number of nodes in the list.
-		- **SPACE COMPLEXITY**:
+		- **SPACE COMPLEXITY**: O(1) - Only constant space is required for the new node, so the space complexity remains O(1).
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
 		  ![image](images/ll-19.png)
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
 		  ![image](images/ll-20.png)
-		- **TIME COMPLEXITY**:
-		- **SPACE COMPLEXITY**:
-
+		- **TIME COMPLEXITY**: - O(n) - The worst-case scenario occurs when you need to insert the node towards the end of the list, which requires traversing the list up to that position, taking O(n) time.
+		- **SPACE COMPLEXITY**: O(1) - As with the other insertion operations, only constant space is needed for the new node, so the space complexity is O(1).
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
 	- In this case, the first node (current head node) is removed from the list. It can be done in two steps:
@@ -44,8 +43,8 @@
 		  ![image](images/ll-22.png)
 		- Now, move the head nodes pointer to the next node and change the heads left pointer to NULL and dispose of the temporary node.
 		  !![image](images/ll-23.png)
-		- **TIME COMPLEXITY**:
-		- **SPACE COMPLEXITY**:
+		- **TIME COMPLEXITY**: O(1) - Deleting the first node only involves updating the head pointer and disposing of the node, which takes constant time.
+		- **SPACE COMPLEXITY**: O(1) -  No additional space is needed aside from the existing nodes, so the space complexity is constant.
 - ***Deleting the Last Node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail first. This can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the tail and the other pointing to the node before the tail.
@@ -54,13 +53,13 @@
 		  ![image](images/ll-25.png)
 		- Dispose of the tail node.
 		  ![image](images/ll-26.png)
-		- **TIME COMPLEXITY**:
-		- **SPACE COMPLEXITY**:
+		- **TIME COMPLEXITY**: O(n) - To delete the last node, you need to traverse the list to find the previous node to the tail, which takes O(n) time.
+		- **SPACE COMPLEXITY**: O(1) - The operation requires constant space, as it only involves disposing of the last node.
 - ***Deleting an Intermediate Node***
 	- In this case, the node to be removed is _always located between_ two nodes, and the head and tail links are not updated. The removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while also traversing the list. Upon locating the node to be deleted, change the previous node’s next pointer to the next node of the node to be deleted.
 		  ![image](images/ll-27.png)
 		- Dispose of the current node to be deleted.
 		  ![image](images/ll-28.png)
-		- **TIME COMPLEXITY**:
-		- **SPACE COMPLEXITY**:
+		- **TIME COMPLEXITY**: O(n) - The time complexity is O(n) because you may need to traverse up to the middle of the list to locate the node to be deleted.
+		- **SPACE COMPLEXITY**: - O(1) - Only constant space is needed to hold references to the current and previous nodes, so the space complexity is O(1).
