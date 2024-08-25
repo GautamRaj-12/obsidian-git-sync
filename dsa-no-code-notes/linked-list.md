@@ -58,6 +58,8 @@
 	 ![image](images/ll-2.png)
 	- Update HEAD pointer to point to the new node.
 	 ![image](images/ll-3.png)
+	- **TIME COMPLEXITY**: O(n) for scanning the list of size n
+	- **SPACE COMPLEXITY**:O(1) for temporary variable
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
