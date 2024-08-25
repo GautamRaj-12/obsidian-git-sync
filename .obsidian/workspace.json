@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82db026131521a7a",
@@ -146,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "7e2c847f5313acc9",
   "lastOpenFiles": [
     "dsa-no-code-notes/operations-on-ds.md",
     "dsa-no-code-notes/linked-list.md",
