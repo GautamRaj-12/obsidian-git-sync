@@ -46,7 +46,9 @@
 	![image](images/ll-1.png)
 
 ### Traversing in Singly Linked List
-- 
+- Follow the pointers.
+- Display the contents of the nodes (or count) as they are traversed.
+- Stop when the next pointer points to NULL.
 ### Insertion in Singly Linked List
 - ***Insertion at the beginning***
 	- Create new node
