@@ -17,9 +17,9 @@
 ### Inserting in Circular Linked List
 - ***Inserting at the beginning***
 	- Create a new node and initially keep its next pointer pointing to itself.
-	 ![image](images/)
+	 ![image](images/ll-29.png)
 	- Update the next pointer of the new node with the head node and also traverse the list until the tail. That means in a circular list we should stop at the node which is its previous node in the list.
-	 ![[ll-30.png]]
+	  ![image](images/ll-30.png)
 	- Update the previous head node in the list to point to the new node.
 	 ![[ll-31.png]]
 	- Make the new node as the head.
