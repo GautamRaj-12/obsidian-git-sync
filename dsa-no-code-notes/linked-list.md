@@ -81,13 +81,17 @@
 		- Create a temporary node which will point to the same node as that of head.
 		  ![[Pasted image 20240825103818.png]]
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
+		  ![[Pasted image 20240825103834.png]]
 		- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
 		- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from the temporary node.
 - ***Deleting the last node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail. It can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the _tail_ node and the other pointing to the node _before_ the tail node.
+		  ![[Pasted image 20240825103902.png]]
 		- Update previous node’s next pointer with NULL.
+		  ![[Pasted image 20240825103916.png]]
 		- Dispose of the tail node.
+			  ![[Pasted image 20240825103925.png]]
 	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the node before the last node.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Deleting the intermediate node***
