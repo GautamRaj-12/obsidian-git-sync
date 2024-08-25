@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa-no-code-notes/linked-list.md",
+                "file": "dsa-no-code-notes/operations-on-ds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list.md",
+                "file": "dsa-no-code-notes/operations-on-ds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list.md",
+                "file": "dsa-no-code-notes/operations-on-ds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/linked-list.md"
+                "file": "dsa-no-code-notes/operations-on-ds.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "7e2c847f5313acc9",
   "lastOpenFiles": [
-    "fastapi-exploration/05_query_parameters.md",
     "dsa-no-code-notes/linked-list.md",
+    "dsa-no-code-notes/operations-on-ds.md",
+    "fastapi-exploration/05_query_parameters.md",
     "dsa-no-code-notes",
     "fastapi-exploration/01_fastapi_intro.md",
     "fastapi-exploration/images/image-8.png",
