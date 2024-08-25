@@ -11,8 +11,12 @@
             "id": "0aa4a277fb30e270",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -140,7 +148,43 @@
   },
   "active": "0aa4a277fb30e270",
   "lastOpenFiles": [
-    "docker/docker.md",
-    "docker"
+    "conflict-files-obsidian-git.md",
+    "dsa-no-code-notes/linked-list/images/ll-4.png",
+    "dsa-no-code-notes/linked-list/images/ll-9.png",
+    "dsa-no-code-notes/linked-list/images/ll-8.png",
+    "dsa-no-code-notes/linked-list/images/ll-7.png",
+    "dsa-no-code-notes/linked-list/images/ll-6.png",
+    "dsa-no-code-notes/linked-list/images/ll-5.png",
+    "dsa-no-code-notes/linked-list/images/ll-3.png",
+    "dsa-no-code-notes/linked-list/images/ll-28.png",
+    "dsa-no-code-notes/linked-list/images/ll-27.png",
+    "dsa-no-code-notes/linked-list/images/ll-26.png",
+    "dsa-no-code-notes/linked-list/images",
+    "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+    "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
+    "dsa-no-code-notes/operations-on-ds.md",
+    "dsa-no-code-notes/linked-list",
+    "dsa-no-code-notes",
+    "processors/cores and threads.md",
+    "processors",
+    "os/process vs thread.md",
+    "os",
+    "jetbrains/Tips and Tricks.md",
+    "jetbrains/images",
+    "jetbrains",
+    "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
+    "java-multithreading/02_process_and_thread.md",
+    "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+    "java-multithreading",
+    "fastapi-exploration/images",
+    "fastapi-exploration/05_query_parameters.md",
+    "fastapi-exploration/04_path_parameters.md",
+    "fastapi-exploration/02_installation_and_setup.md",
+    "fastapi-exploration/03_first_program_breakdown.md",
+    "fastapi-exploration/01_fastapi_intro.md",
+    "fastapi-exploration",
+    "Untitled.canvas",
+    "Readme.md",
+    "docker/docker.md"
   ]
 }
