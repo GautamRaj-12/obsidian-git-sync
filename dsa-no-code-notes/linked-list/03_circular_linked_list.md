@@ -8,4 +8,12 @@
 - The list starts with a special node called the **HEAD**, which points to the first node in the list. The **TAIL** or last node in the list, instead of pointing to `NULL`, points back to the HEAD node, forming a closed loop or circle.
 - In simpler terms, a circular linked list is like a singly linked list, but instead of the last node pointing to `NULL`, it wraps around and points back to the first node. This allows traversal to continue indefinitely around the list, with no distinct end.
 
-### Traversing
+### Traversing in Circular Linked List 
+- Start from the head of the list. - Follow the `next` pointers, visiting each node. 
+- Display the contents of the nodes (or count) as they are traversed. 
+- Stop when you return to the head node (to prevent infinite looping). 
+- **Time Complexity**: O(n) for scanning the list of size `n`
+- **Space Complexity**: O(1) for the temporary variable used to track the current node
+### Inserting in Circular Linked List
+
+### Deleting in Circular Linked List
