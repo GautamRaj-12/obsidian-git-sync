@@ -62,3 +62,5 @@
 	 ![image](images/ll-6.png)
 	- Position node’s next pointer now points to the new node.
 	 ![image](images/ll-7.png)
+## Deletion in Singly Linked List
+- ***Deleting***
