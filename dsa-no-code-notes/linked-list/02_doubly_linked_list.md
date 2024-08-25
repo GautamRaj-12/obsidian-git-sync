@@ -18,14 +18,15 @@
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
-		 ![[Pasted image 20240825120103.png]]
+		  ![[Pasted image 20240825120103.png]]
 		- Update right pointer of last node to point to new node.
-		 
 		  ![[Pasted image 20240825120116.png]]
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
+		  ![[Pasted image 20240825120158.png]]
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
+		  ![[Pasted image 20240825120213.png]]
 
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
