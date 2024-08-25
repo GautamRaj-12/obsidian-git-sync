@@ -97,9 +97,9 @@
 - ***Deleting the intermediate node***
 	- The node to be removed is _always located between_ two nodes. Head and tail links are not updated in this case. Such a removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while traversing the list. Once we find the node to be deleted, change the previous node’s next pointer to the next pointer of the node to be deleted.
-		 ![image](images/ll-8.png)
+		 ![image](images/ll-13.png)
 		- Dispose of the current node to be deleted.
-		 ![[ll-14.png]]
+		 ![image](images/ll-14.png)
 	- **TIME COMPLEXITY**: O(n) You need to traverse the list to find the node to be deleted.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Delete singly linked list***
