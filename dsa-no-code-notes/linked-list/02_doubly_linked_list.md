@@ -12,11 +12,16 @@
 - ***Insert a node at the beginning***
 	-  New node is inserted before the head node. Previous and next pointers need to be modified and it can be done in two steps:
 		- Update the right pointer of the new node to point to the current head node (dotted link in below figure) and also make left pointer of new node as NULL.
+		  ![[Pasted image 20240825120038.png]]
 		- Update head node’s left pointer to point to the new node and make new node as head.
+		  ![[Pasted image 20240825120050.png]]
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
+		 ![[Pasted image 20240825120103.png]]
 		- Update right pointer of last node to point to new node.
+		 
+		  ![[Pasted image 20240825120116.png]]
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
