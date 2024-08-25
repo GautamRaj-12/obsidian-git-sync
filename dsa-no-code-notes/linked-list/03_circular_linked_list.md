@@ -24,6 +24,8 @@
 	- Create a new node and initially keep its next pointer pointing to itself.
 	- Update the next pointer of the new node with the head node and also traverse the list to the tail. That means in a circular list we should stop at the node whose next node is head.
 	- Update the next pointer of the previous node to point to the new node and we get the list as shown below.
-- ***Inserting at a given position***
 
 ### Deleting in Circular Linked List
+- ***Delete the first node***
+	- 
+- ***Delete the last node***
