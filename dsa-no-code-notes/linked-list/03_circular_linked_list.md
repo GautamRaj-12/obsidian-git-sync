@@ -21,12 +21,16 @@
 	- Update the next pointer of the new node with the head node and also traverse the list until the tail. That means in a circular list we should stop at the node which is its previous node in the list.
 	 ![[Pasted image 20240825134809.png]]
 	- Update the previous head node in the list to point to the new node.
+	 ![[Pasted image 20240825134822.png]]
 	- Make the new node as the head.
+	 ![[Pasted image 20240825134831.png]]
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the tail node, which takes `O(n)` time.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` as no extra space is required other than the new node being inserted.
 - ***Inserting at the end***
 	- Create a new node and initially keep its next pointer pointing to itself.
+	 ![[Pasted image 20240825134849.png]]
 	- Update the next pointer of the new node with the head node and also traverse the list to the tail. That means in a circular list we should stop at the node whose next node is head.
+	 ![[Pasted image 20240825134859.png]]
 	- Update the next pointer of the previous node to point to the new node and we get the list as shown below.
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last node, which takes `O(n)` time.
 	- **Space Complexity**: **O(1)**:The space complexity is `O(1)` as no extra space is required other than the new node being inserted.
