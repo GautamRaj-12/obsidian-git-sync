@@ -11,8 +11,7 @@
   
    ![image](images/ll-21.png)
 
-### Traversing in Doubly Linked List -
-**Steps**: 
+### Traversing in Doubly Linked List
 - Start from the head of the list.
 - Follow the `next` pointers, visiting each node. 
 - Display the contents of the nodes (or count) as they are traversed. 

@@ -7,3 +7,5 @@
 
 - The list starts with a special node called the **HEAD**, which points to the first node in the list. The **TAIL** or last node in the list, instead of pointing to `NULL`, points back to the HEAD node, forming a closed loop or circle.
 - In simpler terms, a circular linked list is like a singly linked list, but instead of the last node pointing to `NULL`, it wraps around and points back to the first node. This allows traversal to continue indefinitely around the list, with no distinct end.
+
+### Traversing
