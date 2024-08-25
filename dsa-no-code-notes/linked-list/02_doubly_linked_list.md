@@ -21,3 +21,6 @@
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
+
+### Deleting in Doubly Linked List
+- ******
