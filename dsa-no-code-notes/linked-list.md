@@ -73,11 +73,15 @@
 	 ![image](images/ll-6.png)
 	- Position node’s next pointer now points to the new node.
 	 ![image](images/ll-7.png)
+	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 ## Deletion in Singly Linked List
 - ***Deleting the first node***
 	- First node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
+		- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Deleting the last node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail. It can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the _tail_ node and the other pointing to the node _before_ the tail node.
