@@ -17,11 +17,11 @@
 ### Inserting in Circular Linked List
 - ***Inserting at the beginning***
 	- Create a new node and initially keep its next pointer pointing to itself.
-	 ![[Pasted image 20240825134757.png]]
+	 ![[ll-29.png]]
 	- Update the next pointer of the new node with the head node and also traverse the list until the tail. That means in a circular list we should stop at the node which is its previous node in the list.
-	 ![[Pasted image 20240825134809.png]]
+	 ![[ll-30.png]]
 	- Update the previous head node in the list to point to the new node.
-	 ![[Pasted image 20240825134822.png]]
+	 ![[ll-31.png]]
 	- Make the new node as the head.
 	 ![[Pasted image 20240825134831.png]]
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the tail node, which takes `O(n)` time.
@@ -51,6 +51,8 @@
 		- Traverse the list and find the tail node and its previous node.
 		  ![[Pasted image 20240825135010.png]]
 		- Update the tail node’s previous node pointer to point to head.
+		  ![[Pasted image 20240825135022.png]]
 		- Dispose of the tail node.
+		  ![[Pasted image 20240825135037.png]]
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last but one node.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` since only pointers are updated, and no extra space is required.
