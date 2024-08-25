@@ -43,4 +43,5 @@
 	The list starts with a special node called the **HEAD**, which points to the first node in the list. Each node's next pointer directs to the subsequent node, forming a chain. The last node in this chain has its next pointer set to `NULL`, signifying the end of the list.
 
 	In simpler terms, the HEAD provides access to the linked list, and the nodes are connected one after another, with the final node marking the list's end with a `NULL` link.
-	![[ll-1.png]]
+	![image](images/ll-1.png)
+	
