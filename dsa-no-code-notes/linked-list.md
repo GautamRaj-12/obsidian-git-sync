@@ -56,4 +56,4 @@
 	- The new node points to NULL.
 	 ![image](images/ll-4.png)
 	- Last node's next pointer points to the new node
-	 
+	 ![image](images/ll-5.png)
