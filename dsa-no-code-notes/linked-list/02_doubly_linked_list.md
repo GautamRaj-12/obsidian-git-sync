@@ -10,5 +10,8 @@
 
 ### Inserting in Doubly Linked List
 - ***Insert a node at the beginning***
+	-  New node is inserted before the head node. Previous and next pointers need to be modified and it can be done in two steps:
+		- Update the right pointer of the new node to point to the current head node (dotted link in below figure) and also make left pointer of new node as NULL.
+		- 
 - ***Insert a node at the Ending***
-- -Ins
+- ***Insert a node at given position***
