@@ -71,3 +71,9 @@
 		  ![image](images/ll-28.png)
 		- **TIME COMPLEXITY**: O(n) - The time complexity is O(n) because you may need to traverse up to the middle of the list to locate the node to be deleted.
 		- **SPACE COMPLEXITY**: - O(1) - Only constant space is needed to hold references to the current and previous nodes, so the space complexity is O(1).
+- ***Deleting a Doubly Linked List*** 
+	- Start from the head of the list. 
+	- Use a temporary variable to store the current node. 
+	- Free the current node. - Move to the next node using the `next` pointer and repeat the process until all nodes are freed.
+	- **Time Complexity**: O(n) You need to traverse the entire list, freeing each node one by one.
+	- **Space Complexity**: O(1) The space required is constant, as no additional space is needed aside from the temporary variable used for traversal.
