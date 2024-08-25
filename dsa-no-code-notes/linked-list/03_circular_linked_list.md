@@ -27,5 +27,10 @@
 
 ### Deleting in Circular Linked List
 - ***Delete the first node***
-	- 
+	- The first node can be deleted by simply replacing the next field of the tail node with the next field of the first node. 
+		- Find the tail node of the linked list by traversing the list. Tail node is the previous node to the head node which we want to delete.
+		- Create a temporary node which will point to the head. Also, update the tail nodes next pointer to point to next node of head (as shown below).
+		- Now, move the head pointer to next node. Create a temporary node which will point to head. Also, update the tail nodes next pointer to point to next node of head (as shown below).
 - ***Delete the last node***
+	- The list has to be traversed to reach the last but one node. This has to be named as the tail node, and its next field has to point to the first node. 
+		- 
