@@ -63,4 +63,7 @@
 	- Position node’s next pointer now points to the new node.
 	 ![image](images/ll-7.png)
 ## Deletion in Singly Linked List
-- ***Deleting***
+- ***Deleting the first node***
+- ***Deleting the last node***
+- ***Deleting the intermediate node***
+- ***Delete singly linked list***
