@@ -54,5 +54,6 @@
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
+	 ![image](images/ll-4.png)
 	- Last node's next pointer points to the new node
-	 ![[ll-4.png]]
+	 
