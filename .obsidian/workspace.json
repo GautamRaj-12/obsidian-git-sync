@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked-list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked-list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked-list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked-list.md"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "919c1894aae6da89",
   "lastOpenFiles": [
+    "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
+    "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
     "dsa-no-code-notes/linked-list",
     "dsa-no-code-notes/linked-list/images/ll-8.png",
     "dsa-no-code-notes/linked-list/images/ll-6.png",
     "dsa-no-code-notes/linked-list/images/ll-10.png",
     "dsa-no-code-notes/linked-list/images/ll-9.png",
-    "dsa-no-code-notes/linked-list/01_singly_linked-list.md",
     "dsa-no-code-notes/linked-list/images/ll-14.png",
     "dsa-no-code-notes/linked-list/images/ll-13.png",
     "dsa-no-code-notes/linked-list/images/ll-12.png",
@@ -187,7 +188,6 @@
     "processors",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
-    "bg",
     "conflict-files-obsidian-git.md"
   ]
 }
