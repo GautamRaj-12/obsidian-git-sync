@@ -11,11 +11,9 @@
             "id": "919c1894aae6da89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
-                "mode": "source",
-                "source": false
+                "file": "ll-15.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+                "file": "ll-15.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+                "file": "ll-15.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
+                "file": "ll-15.png"
               }
             }
           }
@@ -148,14 +146,14 @@
   },
   "active": "919c1894aae6da89",
   "lastOpenFiles": [
-    "Pasted image 20240825120213.png",
-    "Pasted image 20240825120158.png",
-    "Pasted image 20240825120116.png",
-    "Pasted image 20240825120103.png",
-    "Pasted image 20240825120050.png",
-    "Pasted image 20240825120038.png",
-    "Untitled.md",
+    "ll-19.png",
+    "ll-17.png",
+    "ll-16.png",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+    "ll-20.png",
+    "ll-18.png",
+    "ll-15.png",
+    "Untitled.md",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
     "dsa-no-code-notes/linked-list",
@@ -163,7 +161,6 @@
     "dsa-no-code-notes/linked-list/images/ll-6.png",
     "dsa-no-code-notes/linked-list/images/ll-10.png",
     "dsa-no-code-notes/linked-list/images/ll-9.png",
-    "dsa-no-code-notes/linked-list/images/ll-14.png",
     "dsa-no-code-notes/linked-list/images",
     "fastapi-exploration/05_query_parameters.md",
     "dsa-no-code-notes",
