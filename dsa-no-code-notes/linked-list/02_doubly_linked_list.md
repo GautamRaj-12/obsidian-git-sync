@@ -8,6 +8,8 @@
 - The list starts with a special node called the **HEAD**, which points to the first node in the list. Each node's next pointer directs to the subsequent node, while the previous pointer directs to the preceding node, allowing traversal in both directions. The last node in this chain, called the **TAIL**, has its next pointer set to `NULL`, signifying the end of the list, and its previous pointer points to the preceding node.
 - In simpler terms, the HEAD provides access to the linked list, and the nodes are connected both forward and backward, with the final node marking the list's end with a `NULL` link in the next pointer and a reference to the previous node in the sequence.
 
+  ![[Pasted image 20240825120729.png]]
+
 ### Inserting in Doubly Linked List
 - ***Insert a node at the beginning***
 	-  New node is inserted before the head node. Previous and next pointers need to be modified and it can be done in two steps:
@@ -18,15 +20,15 @@
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
-		  ![[ll-17.png]]
+		  ![image](images/ll-17.png)
 		- Update right pointer of last node to point to new node.
-		  ![[ll-18.png]]
+		  ![image](images/ll-18.png)
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
 		- _New node_ right pointer points to the next node of the _position node_ where we want to insert the new node. Also, _new node_ left pointer points to the _position node_.
-		  ![[ll-19.png]]
+		  ![image](images/ll-19.png)
 		- Position node right pointer points to the new node and the _next node_ of position node left pointer points to new node.
-		  ![[ll-20.png]]
+		  ![image](images/ll-20.png)
 
 ### Deleting in Doubly Linked List
 - ***Deleting the First Node***
