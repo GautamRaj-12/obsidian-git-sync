@@ -49,6 +49,8 @@
 - Follow the pointers.
 - Display the contents of the nodes (or count) as they are traversed.
 - Stop when the next pointer points to NULL.
+- **TIME COMPLEXITY**:
+- **SPACE COMPLEXITY**
 ### Insertion in Singly Linked List
 - ***Insertion at the beginning***
 	- Create new node
