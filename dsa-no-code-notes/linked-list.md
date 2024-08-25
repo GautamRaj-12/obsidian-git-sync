@@ -64,6 +64,9 @@
 	 ![image](images/ll-7.png)
 ## Deletion in Singly Linked List
 - ***Deleting the first node***
+	- First node (current head node) is removed from the list. It can be done in two steps:
+		- Create a temporary node which will point to the same node as that of head.
+		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
 - ***Deleting the last node***
 - ***Deleting the intermediate node***
 - ***Delete singly linked list***
