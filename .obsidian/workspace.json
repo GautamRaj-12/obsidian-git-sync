@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94cc99acfb27a9e5",
+        "id": "e99fc33583201797",
         "type": "tabs",
         "children": [
           {
-            "id": "970b0003cd75a736",
+            "id": "1626313472c29930",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "970b0003cd75a736",
+  "active": "1626313472c29930",
   "lastOpenFiles": [
-    "Pasted image 20240825100819.png",
+    "dsa-no-code-notes/images/ll-2.png",
+    "dsa-no-code-notes/linked-list.md",
+    "dsa-no-code-notes/images/ll-3.png",
     "dsa-no-code-notes/images/ll-1.png",
     "dsa-no-code-notes/images",
-    "dsa-no-code-notes/linked-list.md",
     "dsa-no-code-notes/operations-on-ds.md",
     "fastapi-exploration/05_query_parameters.md",
     "dsa-no-code-notes",
@@ -165,11 +166,9 @@
     "docker/images/image-1.png",
     "fastapi-exploration/images/image-7.png",
     "fastapi-exploration/images/image-6.png",
-    "fastapi-exploration/images/image-5.png",
     "fastapi-exploration/04_path_parameters.md",
     "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/03_first_program_breakdown.md",
-    "fastapi-exploration/images/image-1.png",
     "jetbrains/Tips and Tricks.md",
     "images/Pasted.md",
     "images",

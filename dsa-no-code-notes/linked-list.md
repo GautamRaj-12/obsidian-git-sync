@@ -48,8 +48,9 @@
 - ***Insertion at the beginning***
 	- Create new node
 	- Update the pointer of new node, to point to the current HEAD
-	 ![[Pasted image 20240825100819.png]]
+	 ![](images/ll-2.png)
 	- Update HEAD pointer to point to the new node.
+	  ![[ll-3.png]]
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
