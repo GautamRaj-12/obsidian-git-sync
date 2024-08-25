@@ -11,6 +11,14 @@
   
    ![image](images/ll-21.png)
 
+### Traversing in Doubly Linked List -
+**Steps**: 
+- Start from the head of the list.
+- Follow the `next` pointers, visiting each node. 
+- Display the contents of the nodes (or count) as they are traversed. 
+- Stop when the `next` pointer points to `NULL`.
+- **Time Complexity**: O(n) for scanning the list of size `n` 
+- **Space Complexity**: O(1) for the temporary variable used to track the current node
 ### Inserting in Doubly Linked List
 - ***Insert a node at the beginning***
 	-  New node is inserted before the head node. Previous and next pointers need to be modified and it can be done in two steps:

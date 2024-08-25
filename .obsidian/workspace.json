@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/01_singly_linked_list.md"
+                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "52dc973111631acb",
   "lastOpenFiles": [
+    "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
     "conflict-files-obsidian-git.md",
     "dsa-no-code-notes/linked-list/images/ll-4.png",
@@ -161,7 +162,6 @@
     "dsa-no-code-notes/linked-list/images/ll-27.png",
     "dsa-no-code-notes/linked-list/images/ll-26.png",
     "dsa-no-code-notes/linked-list/images",
-    "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
     "dsa-no-code-notes/linked-list",
     "dsa-no-code-notes",
