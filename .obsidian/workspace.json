@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "963e820336eab4d3",
+        "id": "8b2fb8c79c852c93",
         "type": "tabs",
         "children": [
           {
-            "id": "eae93a02993e918d",
+            "id": "5890b3a9df6524e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ll-31.png"
+                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ll-31.png",
+                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ll-31.png",
+                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ll-31.png"
+                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md"
               }
             }
           }
@@ -144,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "5890b3a9df6524e8",
   "lastOpenFiles": [
-    "ll-30.png",
+    "dsa-no-code-notes/linked-list/images/ll-29.png",
+    "dsa-no-code-notes/linked-list/images/ll-40.png",
+    "dsa-no-code-notes/linked-list/images/ll-37.png",
+    "dsa-no-code-notes/linked-list/images/ll-36.png",
+    "dsa-no-code-notes/linked-list/images/ll-35.png",
+    "dsa-no-code-notes/linked-list/images/ll-31.png",
+    "dsa-no-code-notes/linked-list/images/ll-30.png",
     "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
-    "Pasted image 20240825135037.png",
-    "Pasted image 20240825135022.png",
-    "Pasted image 20240825135010.png",
-    "Pasted image 20240825134957.png",
-    "Pasted image 20240825134943.png",
-    "Pasted image 20240825134929.png",
-    "Pasted image 20240825134917.png",
-    "Pasted image 20240825134859.png",
-    "Pasted image 20240825134849.png",
-    "Pasted image 20240825134831.png",
+    "dsa-no-code-notes/linked-list/images/ll-41.png",
+    "dsa-no-code-notes/linked-list/images/ll-39.png",
+    "dsa-no-code-notes/linked-list/images/ll-38.png",
+    "dsa-no-code-notes/linked-list/images/ll-34.png",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "conflict-files-obsidian-git.md",
