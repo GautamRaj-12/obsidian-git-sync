@@ -43,7 +43,7 @@
 	The list starts with a special node called the **HEAD**, which points to the first node in the list. Each node's next pointer directs to the subsequent node, forming a chain. The last node in this chain has its next pointer set to `NULL`, signifying the end of the list.
 
 	In simpler terms, the HEAD provides access to the linked list, and the nodes are connected one after another, with the final node marking the list's end with a `NULL` link.
-	![image](images/ll-1.png)
+	![image](ll-1.png)
 
 ### Traversing in Singly Linked List
 - Follow the pointers.
@@ -55,51 +55,51 @@
 - ***Insertion at the beginning***
 	- Create new node
 	- Update the pointer of new node, to point to the current HEAD
-	 ![image](images/ll-2.png)
+	 ![image](ll-2.png)
 	- Update HEAD pointer to point to the new node.
-	 ![image](images/ll-3.png)
+	 ![image](ll-3.png)
 	- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
-	 ![image](images/ll-4.png)
+	 ![image](ll-4.png)
 	- Last node's next pointer points to the new node
-	 ![image](images/ll-5.png)
+	 ![image](ll-5.png)
 	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the last node (unless you maintain a tail pointer, in which case it would be O(1)).
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Insertion at a given position***
 	- If we want to add an element at position 3 then we stop at position 2. That means we traverse 2 nodes and insert the new node. For simplicity let us assume that the second node is called _position_ node. The new node points to the next node of the position where we want to add this node.
-	 ![image](images/ll-6.png)
+	 ![image](ll-6.png)
 	- Position node’s next pointer now points to the new node.
-	 ![image](images/ll-7.png)
+	 ![image](ll-7.png)
 	- **TIME COMPLEXITY**: O(n) In the worst case, you might need to traverse the entire list if you're inserting near the end.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 ## Deletion in Singly Linked List
 - ***Deleting the first node***
 	- First node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
-		  ![image](images/ll-8.png)
+		  ![image](ll-8.png)
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
-		  ![image](images/ll-9.png)
+		  ![image](ll-9.png)
 		- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
 		- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from the temporary node.
 - ***Deleting the last node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail. It can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the _tail_ node and the other pointing to the node _before_ the tail node.
-		  ![image](images/ll-10.png)
+		  ![image](ll-10.png)
 		- Update previous node’s next pointer with NULL.
-		  ![image](images/ll-11.png)
+		  ![image](ll-11.png)
 		- Dispose of the tail node.
-		  ![image](images/ll-12.png)
+		  ![image](ll-12.png)
 	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the node before the last node.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Deleting the intermediate node***
 	- The node to be removed is _always located between_ two nodes. Head and tail links are not updated in this case. Such a removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while traversing the list. Once we find the node to be deleted, change the previous node’s next pointer to the next pointer of the node to be deleted.
-		 ![image](images/ll-13.png)
+		 ![image](ll-13.png)
 		- Dispose of the current node to be deleted.
-		 ![image](images/ll-14.png)
+		 ![image](ll-14.png)
 	- **TIME COMPLEXITY**: O(n) You need to traverse the list to find the node to be deleted.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Delete singly linked list***
