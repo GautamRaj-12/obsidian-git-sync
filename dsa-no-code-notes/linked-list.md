@@ -49,8 +49,8 @@
 - Follow the pointers.
 - Display the contents of the nodes (or count) as they are traversed.
 - Stop when the next pointer points to NULL.
-- **TIME COMPLEXITY**:
-- **SPACE COMPLEXITY**
+- **TIME COMPLEXITY**: O(n) for scanning the list of size n
+- **SPACE COMPLEXITY**:O(1) for temporary variable
 ### Insertion in Singly Linked List
 - ***Insertion at the beginning***
 	- Create new node
