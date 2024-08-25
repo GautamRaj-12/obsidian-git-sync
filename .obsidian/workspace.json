@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d0277f598b8884e4",
+        "id": "bcb06e48b7651802",
         "type": "tabs",
         "children": [
           {
-            "id": "6068a722dba1aec7",
+            "id": "919c1894aae6da89",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "dsa-no-code-notes/images/Pasted image 20240825103902.png"
+                "file": "dsa-no-code-notes/linked-list.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/images/Pasted image 20240825103902.png",
+                "file": "dsa-no-code-notes/linked-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/images/Pasted image 20240825103902.png",
+                "file": "dsa-no-code-notes/linked-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/images/Pasted image 20240825103902.png"
+                "file": "dsa-no-code-notes/linked-list.md"
               }
             }
           }
@@ -144,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "919c1894aae6da89",
   "lastOpenFiles": [
-    "dsa-no-code-notes/images/ll-9.png",
     "dsa-no-code-notes/images/ll-8.png",
-    "dsa-no-code-notes/linked-list.md",
-    "dsa-no-code-notes/images/Pasted image 20240825104001.png",
-    "dsa-no-code-notes/images/Pasted image 20240825103949.png",
-    "dsa-no-code-notes/images/Pasted image 20240825103925.png",
-    "dsa-no-code-notes/images/Pasted image 20240825103916.png",
-    "dsa-no-code-notes/images/Pasted image 20240825103902.png",
-    "dsa-no-code-notes/images/ll-7.png",
     "dsa-no-code-notes/images/ll-6.png",
+    "dsa-no-code-notes/images/ll-10.png",
+    "dsa-no-code-notes/images/ll-9.png",
+    "dsa-no-code-notes/linked-list.md",
+    "dsa-no-code-notes/images/ll-14.png",
+    "dsa-no-code-notes/images/ll-13.png",
+    "dsa-no-code-notes/images/ll-12.png",
+    "dsa-no-code-notes/images/ll-11.png",
+    "dsa-no-code-notes/images/ll-7.png",
     "dsa-no-code-notes/images/ll-5.png",
     "dsa-no-code-notes/images",
     "dsa-no-code-notes/operations-on-ds.md",

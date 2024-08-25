@@ -79,7 +79,7 @@
 - ***Deleting the first node***
 	- First node (current head node) is removed from the list. It can be done in two steps:
 		- Create a temporary node which will point to the same node as that of head.
-		  ![[ll-8.png]]
+		  ![image](ima)
 		- Now, move the head nodes pointer to the next node and dispose of the temporary node.
 		  ![[ll-9.png]]
 		- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
@@ -87,19 +87,19 @@
 - ***Deleting the last node***
 	- This operation is a bit trickier than removing the first node, because the algorithm should find a node, which is previous to the tail. It can be done in three steps:
 		- Traverse the list and while traversing maintain the previous node address also. By the time we reach the end of the list, we will have two pointers, one pointing to the _tail_ node and the other pointing to the node _before_ the tail node.
-		  ![[Pasted image 20240825103902.png]]
+		  ![[ll-10.png]]
 		- Update previous node’s next pointer with NULL.
-		  ![[Pasted image 20240825103916.png]]
+		  ![[ll-11.png]]
 		- Dispose of the tail node.
-		  ![[Pasted image 20240825103925.png]]
+		  ![[ll-12.png]]
 	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the node before the last node.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Deleting the intermediate node***
 	- The node to be removed is _always located between_ two nodes. Head and tail links are not updated in this case. Such a removal can be done in two steps:
 		- Similar to the previous case, maintain the previous node while traversing the list. Once we find the node to be deleted, change the previous node’s next pointer to the next pointer of the node to be deleted.
-		 ![[Pasted image 20240825103949.png]]
+		 ![[ll-13.png]]
 		- Dispose of the current node to be deleted.
-		 ![[Pasted image 20240825104001.png]]
+		 ![[ll-14.png]]
 	- **TIME COMPLEXITY**: O(n) You need to traverse the list to find the node to be deleted.
 	- **SPACE COMPLEXITY**:O(1) The space required is constant, as no additional space is needed aside from maintaining the previous node pointer.
 - ***Delete singly linked list***
