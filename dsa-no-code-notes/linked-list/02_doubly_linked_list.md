@@ -18,15 +18,15 @@
 		  ![image](images/ll-15.png)
 		- Update head node’s left pointer to point to the new node and make new node as head.
 		  ![image](images/ll-16.png)
-		- **TIME COMPLEXITY**:
-		- **SPACE COMPLEXITY**:
+		- **TIME COMPLEXITY**: O(1)  - Inserting a node at the beginning only involves updating the pointers of the head and the new node, which takes constant time.
+		- **SPACE COMPLEXITY**: O(1) - No extra space is required other than the new node itself, so the space complexity is constant.
 - ***Insert a node at the Ending***
 	- In this case, traverse the list till the end and insert the new node.
 		- New node’s right pointer points to NULL and left pointer points to the end of the list.
 		  ![image](images/ll-17.png)
 		- Update right pointer of last node to point to new node.
 		  ![image](images/ll-18.png)
-		- **TIME COMPLEXITY**:
+		- **TIME COMPLEXITY**: O(n) - To insert a node at the end, you need to traverse the entire list, which takes O(n) time, where n is the number of nodes in the list.
 		- **SPACE COMPLEXITY**:
 - ***Insert a node at given position***
 	-  Traverse the list to the position node and insert the new node.
