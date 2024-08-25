@@ -36,4 +36,10 @@
 | **Deletion in Middle**              | `O(n)`                | `O(n)`, if array is not full (for shifting the elements) | `O(n)`                                                   |
 | **Wasted Space**                    | `O(n)` (for pointers) | `0`                                                      | `O(n)`                                                   |
 ## Singly Linked List
-- Singly Linked list consists of a number of nodes in which each node has a _next_ pointer to the following element. The link of the last node in the list is NULL, which indicates the end of the list. The HEAD points to the first node of the list
+- A singly linked list is a linear data structure composed of a sequence of nodes. Each node contains two key elements:
+	1. **Data**: The value or data the node holds.
+	2. **Next Pointer**: A reference to the next node in the sequence.
+
+The list starts with a special node called the **HEAD**, which points to the first node in the list. Each node's next pointer directs to the subsequent node, forming a chain. The last node in this chain has its next pointer set to `NULL`, signifying the end of the list.
+
+In simpler terms, the HEAD provides access to the linked list, and the nodes are connected one after another, with the final node marking the list's end with a `NULL` link.
