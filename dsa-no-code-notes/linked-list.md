@@ -58,14 +58,16 @@
 	 ![image](images/ll-2.png)
 	- Update HEAD pointer to point to the new node.
 	 ![image](images/ll-3.png)
-	- **TIME COMPLEXITY**: O(n) for scanning the list of size n
-	- **SPACE COMPLEXITY**:O(1) for temporary variable
+	- **TIME COMPLEXITY**: O(1) Only a few pointer updates are required, so this operation takes constant time.
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Insertion at the Ending***
 	- Create new node
 	- The new node points to NULL.
 	 ![image](images/ll-4.png)
 	- Last node's next pointer points to the new node
 	 ![image](images/ll-5.png)
+	- **TIME COMPLEXITY**: O(n) You need to traverse the entire list to find the last node (unless you maintain a tail pointer, in which case it would be O(1)).
+	- **SPACE COMPLEXITY**:O(1) The space required is constant, as only one new node is created.
 - ***Insertion at a given position***
 	- If we want to add an element at position 3 then we stop at position 2. That means we traverse 2 nodes and insert the new node. For simplicity let us assume that the second node is called _position_ node. The new node points to the next node of the position where we want to add this node.
 	 ![image](images/ll-6.png)
