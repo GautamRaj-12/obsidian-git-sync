@@ -8,4 +8,7 @@
 - Transitions wait until the change in a property occurs and then allows changes to take place over time.
 - Without a transition any changes in a property will take effect immediately.
 - Transitions should be used when properties are changed interactively
-	- Ex:
+	- Ex: Hovering and Focusing
+
+## 2. Animations
+- Animations however 
