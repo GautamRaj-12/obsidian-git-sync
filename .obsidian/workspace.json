@@ -11,11 +11,9 @@
             "id": "b396b1e235e454e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
-                "mode": "source",
-                "source": false
+                "file": "nets-1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
+                "file": "nets-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
+                "file": "nets-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md"
+                "file": "nets-1.png"
               }
             }
           }
@@ -146,22 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b396b1e235e454e3",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
-    "Pasted image 20240826171131.png",
-    "Pasted image 20240826170451.png",
-    "Pasted image 20240826165455.png",
-    "Pasted image 20240826165429.png",
-    "Pasted image 20240826164931.png",
-    "Pasted image 20240826164755.png",
-    "Pasted image 20240826164606.png",
-    "css-tailwind/css-animations.md",
+    "node-express-ts/images",
+    "node-express-ts/Untitled.md",
+    "nets-1.png",
+    "nets-4.png",
+    "nets-3.png",
+    "nets-2.png",
     "node-express-ts/node-express-ts setup.md",
+    "nets-7.png",
+    "nets-6.png",
+    "nets-5.png",
+    "css-tailwind/css-animations.md",
     "node-express-ts",
     "css-tailwind/images/2.gif",
     "css-tailwind/images/3.gif",
     "css-tailwind/images/4.gif",
-    "css-tailwind/images/1.gif",
     "css-tailwind/images",
     "Untitled.md",
     "css-tailwind",
@@ -193,7 +192,6 @@
     "processors/cores and threads.md",
     "os/process vs thread.md",
     "Readme.md",
-    "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
-    "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md"
+    "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md"
   ]
 }
