@@ -46,6 +46,23 @@
 	- `transition-duration`: It defines how long the transition effect should take to complete.
 	- `transition-timing-function`: It defines the acceleration curve for the transition. Common values: `ease`(default), `ease-in`,`ease-out`,`ease-in-out`,`linear`
 	- `transition-delay`:It defines the delay before the transition should take effect
-  ```
-  
-```
+  ```css
+    button{
+	  padding:18px 36px;
+	  font-size:2rem;
+	  background:#220011;
+	  outline:none;
+	  color:#f2f2f8;
+	  border:2px solid #EE0044;
+	  cursor:pointer;
+	  transition-property:transform;
+	  transition-duration:0.5s;
+	  transition-timing-function:ease;
+	  transition-delay:0s;
+	}
+
+	button:hover{
+	  transform:translateY(-10px)
+	}  
+	```
+	- Here, we apply transition on our transform property and duration is 0.5s which means the hovering happens over a span 
