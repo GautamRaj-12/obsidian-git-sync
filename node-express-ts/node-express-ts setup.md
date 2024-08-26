@@ -31,4 +31,5 @@
  13. Nodemon setup
 	 1. Install "nodemon"
 	 2. Install "ts-node" interpreter - Required for Nodemon
-	 3. In the package.json file type in the dev script :"nodemon "
+	 3. In the package.json file type in the dev script : ***"dev": "nodemon src/index.ts"***
+	 4. 
