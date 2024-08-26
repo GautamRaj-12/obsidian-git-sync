@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "63e9a8e9ce558c83",
+        "id": "a2c2e3a7aeee6e1c",
         "type": "tabs",
         "children": [
           {
-            "id": "b1fb475948d07bc4",
+            "id": "95923636ae260ee2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ]
@@ -138,19 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1fb475948d07bc4",
+  "active": "95923636ae260ee2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "images/ll-.md",
+    "images",
+    "dsa-no-code-notes/linked-list/images/ll-41.png",
+    "dsa-no-code-notes/linked-list/images/ll-40.png",
+    "dsa-no-code-notes/linked-list/images/ll-39.png",
+    "dsa-no-code-notes/linked-list/images/ll-38.png",
+    "dsa-no-code-notes/linked-list/images/ll-37.png",
+    "dsa-no-code-notes/linked-list/images/ll-36.png",
+    "dsa-no-code-notes/linked-list/images/ll-35.png",
+    "dsa-no-code-notes/linked-list/images/ll-34.png",
+    "dsa-no-code-notes/linked-list/images/ll-33.png",
+    "dsa-no-code-notes/linked-list/images/ll-32.png",
+    "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
-    "dsa-no-code-notes/linked-list/images/ll-22.png",
-    "dsa-no-code-notes/linked-list/images/ll-28.png",
-    "dsa-no-code-notes/linked-list/images/ll-27.png",
-    "dsa-no-code-notes/linked-list/images/ll-26.png",
-    "dsa-no-code-notes/linked-list/images/ll-25.png",
-    "dsa-no-code-notes/linked-list/images/ll-24.png",
-    "dsa-no-code-notes/linked-list/images/ll-23.png",
-    "Pasted image 20240825121031.png",
-    "Pasted image 20240825120749.png",
-    "dsa-no-code-notes/linked-list/images/ll-21.png",
     "Untitled.md",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
@@ -166,7 +178,6 @@
     "fastapi-exploration/03_first_program_breakdown.md",
     "jetbrains/Tips and Tricks.md",
     "images/Pasted.md",
-    "images",
     "fastapi-exploration/images",
     "fastapi-exploration",
     "Untitled.canvas",
@@ -180,7 +191,6 @@
     "Readme.md",
     "processors",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
-    "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md",
-    "conflict-files-obsidian-git.md"
+    "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md"
   ]
 }
