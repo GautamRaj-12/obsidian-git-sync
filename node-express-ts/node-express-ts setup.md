@@ -29,3 +29,5 @@
 12. Now we can build using "npm run build" and start using "npm run start"
      ![[Pasted image 20240826171131.png]]
  13. Nodemon setup
+	 1. Install nodemon
+	 2. 
