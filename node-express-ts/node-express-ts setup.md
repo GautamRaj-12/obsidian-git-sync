@@ -11,14 +11,14 @@
      ![image](images/nets-3.png)
      - It may happen that after installation, the types are still not reflected. In that case, go to command palette and restart TS server.
 7. Now let's try to run the index.ts file : `node src/index.ts`
-     ![image](images/nets-1.png)
+     ![image](images/nets-4.png)
 	- As we haven't defined "type"="module" in our package.json file, The ES6 import statement would not work and It might not work with ts anyway. So let's change the type first.
 	- Let's run it again
-	  ![[nets-5.png]]
+		 ![image](images/nets-5.png)
 	- There is again an error saying that *Unkown file extension ts.* That's because it needs a JS file, not a TS file.
 	- So we need to transpile our ts file.
 8. First of all we need *tsconfig.json* file. Create it using: `npx tsc --init`. It will create this file with default configuration.
-     ![[nets-6.png]]
+     ![image](images/nets-6.png)
 9. Within this huge file we need to do some changes.
 	1. Change the module to "ES6"
 	2. Un-comment "rootDir" and change the value to "./src" as all of our code is in src folder.
@@ -27,7 +27,8 @@
 10. Now we need to transpile. For that go  to package.json  and add build script - ***"build":"tsc --build"** 
 11. Then add the start script: ***"start":"node ./dist/index.js"***
 12. Now we can build using "npm run build" and start using "npm run start"
-     ![[nets-7.png]]
+     ![image](images/nets-7.png)
  13. Nodemon setup
+	 - `npm i -D nodemon`
 	 - Tried "ts-node" but it failed to run .ts file.
 	 - So for now, going with *"dev": "tsc && nodemon ./dist/index.js"* in my package.json
