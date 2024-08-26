@@ -43,6 +43,6 @@
   ![image](images/1.gif)
 - We can make the hover state happen over time by transition properties.
 	- `transition-property`: It defines which property the transition effect should apply to.
-	- `transition-duration`: It defines how long the transition effect should take
-	- `transition-timing-function`
+	- `transition-duration`: It defines how long the transition effect should take to complete.
+		- `transition-timing-function`: It defines the acceleration curve for the transition. Common values: `ease`, `ease-in`,`ease-out`,`ease-in-out
 	- `transition-delay`
