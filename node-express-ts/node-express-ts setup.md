@@ -10,4 +10,5 @@
 6. After installation 
      ![[Pasted image 20240826164931.png]]
      - It may happen that after installation, the types are still not reflected. In that case, go to command palette and restart TS server.
-7. 
+7. Now let's try to run the index.ts file : `node src/index.ts`
+	- As we haven't defined "type"="module" in our package.json file, 
