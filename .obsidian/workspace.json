@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e118c59ec08729",
+        "id": "a62feccc3a534744",
         "type": "tabs",
         "children": [
           {
-            "id": "b23022ee382fdf2a",
+            "id": "5922443341be961a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
+                "file": "css-tailwind/css-animations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "css-tailwind/css-animations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "css-tailwind/css-animations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "css-tailwind/css-animations.md"
               }
             }
           }
@@ -144,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "5922443341be961a",
   "lastOpenFiles": [
-    "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
     "Untitled.md",
-    "Untitled",
+    "css-tailwind/css-animations.md",
+    "css-tailwind",
+    "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
     "conflict-files-obsidian-git.md",
     "images/ll-.md",
