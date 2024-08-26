@@ -11,4 +11,5 @@
 	- Ex: Hovering and Focusing
 
 ## 2. Animations
-- Animations however 
+- Animations however provide keyframes for more control over the animation and allows us to create complex animations on a frame by frame basis.
+- Use animations when you want to create complex animations
