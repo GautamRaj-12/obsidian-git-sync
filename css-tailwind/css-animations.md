@@ -45,4 +45,4 @@
 	- `transition-property`: It defines which property the transition effect should apply to.
 	- `transition-duration`: It defines how long the transition effect should take to complete.
 	- `transition-timing-function`: It defines the acceleration curve for the transition. Common values: `ease`(default), `ease-in`,`ease-out`,`ease-in-out`,`linear`
-	- `transition-delay`:It defines the delay before the transi
+	- `transition-delay`:It defines the delay before the transition should take effect
