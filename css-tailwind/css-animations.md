@@ -153,7 +153,7 @@
 				  transform:translateY(-10px);
 				}
 			   ```
-		- multiple properties
+		- multiple properties(comma seo)
 			- `transition`:`<property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>`
 			 ```css
 				 button{
@@ -175,4 +175,21 @@
 			   ```
 		- all properties
 			- `transition`:`all <duration> <timing-function> <delay>`
-
+			```css
+			button{
+			  padding:18px 36px;
+			  font-size:2rem;
+			  background:#220011;
+			  outline:none;
+			  color:#f2f2f8;
+			  border:2px solid #EE0044;
+			  cursor:pointer;
+			  transition:all 0.3s linear;
+			}
+			
+			button:hover{
+			  transform:translateY(-10px);
+			  background-color:#f2f2f8;
+			  color:#EE0044;
+			}
+		   ```
