@@ -67,7 +67,44 @@
 	```
 	- Here, we apply transition on our transform property and duration is 0.5s which means the hovering happens over a span of 0.5 seconds and not immediately, delay is 0 as we want the transition to happen as soon as we hover over the button.
 	- And if we apply 1s delay, then the transition starts when we hover over the button for 1s
+	  ```css
+		button{
+		  padding:18px 36px;
+		  font-size:2rem;
+		  background:#220011;
+		  outline:none;
+		  color:#f2f2f8;
+		  border:2px solid #EE0044;
+		  cursor:pointer;
+		  transition-property:transform;
+		  transition-duration:0.5s;
+		  transition-timing-function:linear;
+		  transition-delay:1s;
+		}
+
+		button:hover{
+		  transform:translateY(-10px);
+		}
+		```
 	- We can apply transition on multiple properties like this. For ex: change in `transform`,`background-color` and `color`.
 	  ```css
-	    
+	    button{
+		  padding:18px 36px;
+		  font-size:2rem;
+		  background:#220011;
+		  outline:none;
+		  color:#f2f2f8;
+		  border:2px solid #EE0044;
+		  cursor:pointer;
+		  transition-property:transform background-color color;
+		  transition-duration:0.5s;
+		  transition-timing-function:linear;
+		  transition-delay:0s;
+		}
+		
+		button:hover{
+		  transform:translateY(-10px);
+		  background-color:#f2f2f8;
+		  color:#EE0044;
+		}
 		```
