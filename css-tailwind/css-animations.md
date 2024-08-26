@@ -120,13 +120,30 @@
 		- single property
 			- `transition`:`<property> <duration> <timing-function> <delay>`
 			 ```css
-``
+					button{
+					  padding:18px 36px;
+					  font-size:2rem;
+					  background:#220011;
+					  outline:none;
+					  color:#f2f2f8;
+					  border:2px solid #EE0044;
+					  cursor:pointer;
+					  transition:transform 0.5s ease 0s;
+					}
+					
+					button:hover{
+					  transform:translateY(-10px);
+					}	
+			   ```
+			- We can also omit the transition properties if we are using the default values.
+			 ```css
+				 
+			   ```
 		- multiple properties
 			- `transition`:`<property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>`
 		- all properties
 			- `transition`:`all <duration> <timing-function> <delay>`
 
-	- We can also omit the transition properties if we are using the default values.
 ```css
 	button{
 	  padding:18px 36px;
