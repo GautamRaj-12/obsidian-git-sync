@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bcb06e48b7651802",
+        "id": "63e9a8e9ce558c83",
         "type": "tabs",
         "children": [
           {
-            "id": "919c1894aae6da89",
+            "id": "b1fb475948d07bc4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa-no-code-notes/linked-list/02_doubly_linked_list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "919c1894aae6da89",
+  "active": "b1fb475948d07bc4",
   "lastOpenFiles": [
-    "dsa-no-code-notes/linked-list/images/ll-22.png",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
+    "dsa-no-code-notes/linked-list/images/ll-22.png",
     "dsa-no-code-notes/linked-list/images/ll-28.png",
     "dsa-no-code-notes/linked-list/images/ll-27.png",
     "dsa-no-code-notes/linked-list/images/ll-26.png",
