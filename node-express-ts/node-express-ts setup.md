@@ -18,4 +18,7 @@
 	- There is again an error saying that *Unkown file extension ts.* That's because it needs a JS file, not a TS file.
 	- So we need to transpile our ts file.
 8. First of all we need *tsconfig.json* file. Create it using: `npx tsc --init`. It will create this file with default configuration.
-9. Within this huge file we need to do some changes
+     ![[Pasted image 20240826170451.png]]
+9. Within this huge file we need to do some changes.
+	1. Change the module to "ES6"
+	2. Uncomment 
