@@ -42,7 +42,7 @@
 	
   ![image](images/1.gif)
 - We can make the hover state happen over time by transition properties.
-	- `transition-property`
-	- `transition-duration`
+	- `transition-property`: It defines which property the transition effect should apply to.
+	- `transition-duration`: It defines how long the transition effect should take
 	- `transition-timing-function`
 	- `transition-delay`
