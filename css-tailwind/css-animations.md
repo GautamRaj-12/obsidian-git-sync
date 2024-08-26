@@ -116,4 +116,4 @@
 		```
 	  
 	  ![image](images/4.gif)
-	  
+	- `transition` shorthand: Instead of writing all these transition properties separately, we can cea
