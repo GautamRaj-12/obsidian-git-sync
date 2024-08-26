@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b23022ee382fdf2a",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
+    "Untitled.md",
+    "Untitled",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
     "conflict-files-obsidian-git.md",
     "images/ll-.md",
@@ -162,8 +163,6 @@
     "dsa-no-code-notes/linked-list/images/ll-34.png",
     "dsa-no-code-notes/linked-list/images/ll-33.png",
     "dsa-no-code-notes/linked-list/images/ll-32.png",
-    "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
-    "Untitled.md",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
     "dsa-no-code-notes/linked-list",
@@ -189,7 +188,6 @@
     "os/process vs thread.md",
     "os",
     "Readme.md",
-    "processors",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md"
   ]
