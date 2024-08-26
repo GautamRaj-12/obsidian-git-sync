@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a9abdfbc6050e0e6",
+        "id": "5a015a8d97f6ccd6",
         "type": "tabs",
         "children": [
           {
-            "id": "b396b1e235e454e3",
+            "id": "7209f5ce61f70355",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "nets-1.png"
+                "file": "node-express-ts/node-express-ts setup.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nets-1.png",
+                "file": "node-express-ts/node-express-ts setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nets-1.png",
+                "file": "node-express-ts/node-express-ts setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nets-1.png"
+                "file": "node-express-ts/node-express-ts setup.md"
               }
             }
           }
@@ -144,18 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "7209f5ce61f70355",
   "lastOpenFiles": [
+    "node-express-ts/images/nets-1.png",
     "node-express-ts/images",
     "node-express-ts/Untitled.md",
-    "nets-1.png",
-    "nets-4.png",
-    "nets-3.png",
-    "nets-2.png",
+    "node-express-ts/images/nets-4.png",
+    "node-express-ts/images/nets-3.png",
+    "node-express-ts/images/nets-2.png",
     "node-express-ts/node-express-ts setup.md",
-    "nets-7.png",
-    "nets-6.png",
-    "nets-5.png",
+    "node-express-ts/images/nets-7.png",
+    "node-express-ts/images/nets-6.png",
+    "node-express-ts/images/nets-5.png",
     "css-tailwind/css-animations.md",
     "node-express-ts",
     "css-tailwind/images/2.gif",
@@ -188,7 +190,6 @@
     "Untitled.canvas",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
-    "java-multithreading",
     "processors/cores and threads.md",
     "os/process vs thread.md",
     "Readme.md",

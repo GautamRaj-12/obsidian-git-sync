@@ -2,16 +2,16 @@
 2. `npm i express`
 3. `npm i -D typescript`
 4. Create index.ts file. 
-	 ![[nets-1.png]]
+	 ![image](images/nets-1.png)
 	-  Here we can see that when I type app. Nothing is been suggested. When I hover over the app variable it shows of type *any* which should be of type express. So we need to install type definitions for express.
-	  ![[nets-2.png]]
+	  ![image](images/nets-2.png)
 5. `npm i -D @types/express` : This package contains type definitions for express
 	- Similarly, there are type definitions for most of the packages.
 6. After installation 
-     ![[nets-3.png]]
+     ![image](images/nets-3.png)
      - It may happen that after installation, the types are still not reflected. In that case, go to command palette and restart TS server.
 7. Now let's try to run the index.ts file : `node src/index.ts`
-     ![[nets-4.png]]
+     ![image](images/nets-1.png)
 	- As we haven't defined "type"="module" in our package.json file, The ES6 import statement would not work and It might not work with ts anyway. So let's change the type first.
 	- Let's run it again
 	  ![[nets-5.png]]
