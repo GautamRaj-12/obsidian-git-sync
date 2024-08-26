@@ -198,3 +198,8 @@
 
 ## Animations in Detail
 - First we need an element that we need to animate.
+  ```html
+  <h1 class="heading-1">Let's explore the world</h1>
+	```
+
+- To animate
