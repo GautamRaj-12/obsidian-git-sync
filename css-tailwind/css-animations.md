@@ -122,4 +122,7 @@
 		- multiple properties
 			- `transition`:`<property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>`
 		- all properties
-			- property> <duration> <timing-function> <delay>
+			- `transition`:`all <duration> <timing-function> <delay>`
+	```css
+		
+	```
