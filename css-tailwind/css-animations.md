@@ -135,7 +135,9 @@
 					  transform:translateY(-10px);
 					}	
 			   ```
+			   
 			- We can also omit the transition properties if we are using the default values.
+			- 
 			 ```css
 				 button{
 				  padding:18px 36px;
