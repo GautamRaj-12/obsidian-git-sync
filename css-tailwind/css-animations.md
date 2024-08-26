@@ -17,6 +17,10 @@
 
 ## Transitions in Detail
 - To create a transition, we first need a component that has change in property.
+- So, I have a button, it has some styles and a hover property.
+- When we hover over the button, we see that it happens immediately.
+  ```html
+	```
 
 
   ![image](images/1.gif)
