@@ -30,4 +30,4 @@
      ![[Pasted image 20240826171131.png]]
  13. Nodemon setup
 	 - Tried "ts-node" but it failed to run .ts file.
-	 - So for now, going with "dev": "tsc && nodemon ./dist/index.js" in my package.json
+	 - So for now, going with *"dev": "tsc && nodemon ./dist/index.js"* in my package.json
