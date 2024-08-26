@@ -163,7 +163,7 @@
 ![image](./images/image-17.png)
 
 ## Workflow with Docker
-### Overview
+
 - Development
 - Continuous Integration/Delivery
 - Deployment
@@ -172,6 +172,7 @@
  ![[Pasted image 20240826220403.png]]
 
 ### Developing with Containers
+
 ![[Pasted image 20240826220551.png]]
 
 
