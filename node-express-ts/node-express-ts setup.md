@@ -17,4 +17,4 @@
 	  ![[Pasted image 20240826165455.png]]
 	- There is again an error saying that *Unkown file extension ts.* That's because it needs a JS file, not a TS file.
 	- So we need to transpile our ts file.
-8. `npx tsc --init`
+8. First of all we need *tsconfig.json* file. Create it us`npx tsc --init`
