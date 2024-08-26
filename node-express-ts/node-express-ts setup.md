@@ -9,4 +9,5 @@
 	- Similarly, there are type definitions for most of the packages.
 6. After installation 
      ![[Pasted image 20240826164931.png]]
-     - It may happen that after installation, the types are still not reflected. In that case, go to command palette and restart TS server.,
+     - It may happen that after installation, the types are still not reflected. In that case, go to command palette and restart TS server.
+7. 
