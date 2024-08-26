@@ -136,7 +136,7 @@
 					}	
 			```
 
-		- We can also omit the transition properties if we are using default values/
+		- We can also omit the transition properties if we are using default values.
 
 			 ```css
 				 button{
