@@ -65,4 +65,4 @@
 	  transform:translateY(-10px)
 	}  
 	```
-	- Here, we apply transition on our transform property and duration is 0.5s which means the hovering happens over a span 
+	- Here, we apply transition on our transform property and duration is 0.5s which means the hovering happens over a span of 0.5 seconds and not immediately, delay is 0 as we want the transition to happen as soon as we hover over the button.
