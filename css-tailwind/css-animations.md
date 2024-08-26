@@ -153,7 +153,7 @@
 				  transform:translateY(-10px);
 				}
 			   ```
-		- multiple properties(comma seo)
+		- multiple properties(comma separated)
 			- `transition`:`<property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>`
 			 ```css
 				 button{
