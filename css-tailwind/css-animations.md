@@ -20,7 +20,24 @@
 - So, I have a button, it has some styles and a hover property.
 - When we hover over the button, we see that it happens immediately.
   ```html
+	  <button>Let's Go</button>
 	```
 
+	```css
+	button{
+	  padding:18px 36px;
+	  font-size:2rem;
+	  background:#220011;
+	  outline:none;
+	  color:#f2f2f8;
+	  border:2px solid #EE0044;
+	  cursor:pointer;
+	}
 
+	button:hover{
+	  transform:translateY(-10px)
+	}
+	```
+	
+	
   ![image](images/1.gif)
