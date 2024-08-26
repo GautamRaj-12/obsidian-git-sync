@@ -26,4 +26,6 @@
 	4. Change the following to leverage the effectiveness of typescript : *"noImplicitAny": true*, *"strictNullChecks": true,* *"strictFunctionTypes": true,*
 10. Now we need to transpile. For that go  to package.json  and add build script - ***"build":"tsc --build"** 
 11. Then add the start script: ***"start":"node ./dist/index.js"***
-12. Now we can build using "npm"
+12. Now we can build using "npm run build" and start using "npm run start"
+     ![[Pasted image 20240826171131.png]]
+    1
