@@ -23,3 +23,4 @@
 	1. Change the module to "ES6"
 	2. Un-comment "rootDir" and change the value to "./src" as all of our code is in src folder.
 	3. Un-comment "outDir" and change the value to "./dist" - Here all the transpiled code will be generated.
+	4. Change the following to leverage the effectiveness of typescript : *"noImplicitAny": true*, *"strictNullChecks": true,* 
