@@ -89,6 +89,9 @@
 		  transform:translateY(-10px);
 		}
 		```
+	  
+	  ![image](images/3.gif)
+	  	  
 	- We can apply transition on multiple properties like this. For ex: change in `transform`,`background-color` and `color`.
 	  ```css
 	    button{
@@ -111,3 +114,5 @@
 		  color:#EE0044;
 		}
 		```
+	  ![image](images/4.gif)
+	  
