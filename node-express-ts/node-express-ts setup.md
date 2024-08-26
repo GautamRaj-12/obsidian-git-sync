@@ -28,4 +28,4 @@
 11. Then add the start script: ***"start":"node ./dist/index.js"***
 12. Now we can build using "npm run build" and start using "npm run start"
      ![[Pasted image 20240826171131.png]]
-    1
+ 13. Nodemon setup
