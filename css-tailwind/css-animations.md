@@ -16,3 +16,4 @@
 - We can create stunning animations by combining both transitions and animations together.
 
 ## Transitions in Detail
+- To create a transition, we first need a component that has change in property.
