@@ -195,4 +195,6 @@
 			  color:#EE0044;
 			}
 		   ```
-2
+
+## Animations in Detail
+- First we need an element that we need to animate.
