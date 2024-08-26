@@ -14,3 +14,5 @@
 - Animations however provide keyframes for more control over the animation and allows us to create complex animations on a frame by frame basis.
 - Use animations when you want to create complex animations that just work without having to wait for properties that change interactively.
 - We can create stunning animations by combining both transitions and animations together.
+
+## Transitions in Detail
