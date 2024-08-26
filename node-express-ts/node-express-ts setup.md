@@ -29,5 +29,6 @@
 12. Now we can build using "npm run build" and start using "npm run start"
      ![[Pasted image 20240826171131.png]]
  13. Nodemon setup
-	 1. Install nodemon
-	 2. 
+	 1. Install "nodemon"
+	 2. Install "ts-node" interpreter - Required for Nodemon
+	 3. In the package.json file type in the dev script :"nodemon "
