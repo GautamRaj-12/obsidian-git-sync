@@ -17,3 +17,5 @@
 
 ## Transitions in Detail
 - To create a transition, we first need a component that has change in property.
+
+  ![image](images/1.gif)

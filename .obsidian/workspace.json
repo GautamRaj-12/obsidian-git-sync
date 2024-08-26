@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "5922443341be961a",
   "lastOpenFiles": [
+    "css-tailwind/images/1.gif",
+    "css-tailwind/css-animations.md",
     "css-tailwind/images",
     "Untitled.md",
-    "css-tailwind/css-animations.md",
     "css-tailwind",
     "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
     "dsa-no-code-notes/linked-list/02_doubly_linked_list.md",
@@ -166,7 +167,6 @@
     "dsa-no-code-notes/linked-list/images/ll-35.png",
     "dsa-no-code-notes/linked-list/images/ll-34.png",
     "dsa-no-code-notes/linked-list/images/ll-33.png",
-    "dsa-no-code-notes/linked-list/images/ll-32.png",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
     "dsa-no-code-notes/linked-list",
@@ -190,7 +190,6 @@
     "docker/images",
     "processors/cores and threads.md",
     "os/process vs thread.md",
-    "os",
     "Readme.md",
     "bg/Chapter 2 - Sankhya Yoga – The Path of Knowledge.md",
     "bg/Chapter 1 - THE DESPONDENCY OF ARJUNA.md"
