@@ -117,4 +117,9 @@
 	  
 	  ![image](images/4.gif)
 	- `transition` shorthand: Instead of writing all these transition properties separately, we can use the shorthand property.
-		- `transition`:`<propert> <duration> <timing-functio`
+		- single property
+			- `transition`:`<property> <duration> <timing-function> <delay>`
+		- multiple properties
+			- `transition`:`<property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>, property> <duration> <timing-function> <delay>`
+		- all properties
+			- property> <duration> <timing-function> <delay>
