@@ -41,4 +41,8 @@
 	
 	
   ![image](images/1.gif)
-- We can make the hover state happen over time by
+- We can make the hover state happen over time by transition properties.
+	- `transition-property`
+	- `transition-duration`
+	- `transition-timing-function`
+	- `transition-delay`
