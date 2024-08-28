@@ -13,3 +13,5 @@
   ![image](images/image-9.png)
 
 - Using Destructuring
+
+  ![image](images/image-10.png)
