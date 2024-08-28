@@ -3,4 +3,6 @@
 	 ![[Pasted image 20240828112927.png]]
 	 ![[Pasted image 20240828113018.png]]
 - Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props parameter. Because it is of any type.
-     
+     ![[Pasted image 20240828113310.png]]
+     ![[Pasted image 20240828113334.png]]
+- We are using typescript to avoid these. We don'
