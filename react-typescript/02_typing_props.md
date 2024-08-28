@@ -19,3 +19,6 @@
 - Now if we pass a number or any other data type other than TS will show error that you can't do that.
   ![image](images/image-6.png)
   ![image](images/image-7.png)
+
+- ***type***:While building apps
+- ***interface***:while building libraries
