@@ -7,3 +7,5 @@
      ![[Pasted image 20240828113334.png]]
 - We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
 - So, let's define type for our props.
+- ***`Greet.tsx`***
+  ![[Pasted image 20240828114332.png]]
