@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d79b291d2483090",
+        "id": "3e7dd436f1f40fc4",
         "type": "tabs",
         "children": [
           {
-            "id": "57c28078a0cc416d",
+            "id": "16bc3d8be296d9ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57c28078a0cc416d",
+  "active": "16bc3d8be296d9ae",
   "lastOpenFiles": [
-    "Pasted image 20240826220551.png",
-    "Pasted image 20240826220403.png",
+    "docker/images/image-19.png",
+    "docker/docker.md",
+    "docker/images/image-18.png",
     "css-tailwind/css-animations.md",
     "node-express-ts/images/nets-1.png",
     "node-express-ts/images",
@@ -163,7 +164,6 @@
     "node-express-ts/images/nets-5.png",
     "node-express-ts",
     "css-tailwind/images/2.gif",
-    "css-tailwind/images/3.gif",
     "css-tailwind/images",
     "Untitled.md",
     "css-tailwind",
@@ -180,7 +180,6 @@
     "dsa-no-code-notes",
     "fastapi-exploration/01_fastapi_intro.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
-    "docker/docker.md",
     "fastapi-exploration/04_path_parameters.md",
     "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/03_first_program_breakdown.md",

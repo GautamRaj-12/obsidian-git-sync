@@ -169,11 +169,11 @@
 - Deployment
 
 ### Overview
- ![[Pasted image 20240826220403.png]]
+![](images/image-18.)
 
 ### Developing with Containers
 
-![[Pasted image 20240826220551.png]]
+![[image-19.png]]
 
 
  
