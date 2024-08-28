@@ -11,9 +11,11 @@
             "id": "bd6ecb2b80ff9217",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "react-typescript/images/image-1.png"
+                "file": "react-typescript/02_typing_props.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-typescript/images/image-1.png",
+                "file": "react-typescript/02_typing_props.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-typescript/images/image-1.png",
+                "file": "react-typescript/02_typing_props.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-typescript/images/image-1.png"
+                "file": "react-typescript/02_typing_props.md"
               }
             }
           }
@@ -144,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "bd6ecb2b80ff9217",
   "lastOpenFiles": [
+    "react-typescript/images/image-1.png",
     "react-typescript/images/image-3.png",
     "react-typescript/images/image-2.png",
-    "react-typescript/images/image-1.png",
     "react-typescript/images",
     "react-typescript/02_typing_props.md",
     "react-typescript/images/image-7.png",
