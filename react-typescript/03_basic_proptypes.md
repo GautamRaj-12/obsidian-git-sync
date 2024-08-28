@@ -4,7 +4,8 @@
 - **boolean**
 
 - ***`App.tsx`***
-  ![[Pasted image 20240828121429.png]]
+
+
 
 - ***`Greet.tsx`***
-  
+  ![[react-typescript/images/image-9.png]]
