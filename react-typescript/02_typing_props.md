@@ -4,11 +4,11 @@
 	![image](images/image-2.png)
 - Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props argument. Because it is of 'any' type.
     ![image](images/image-3.png)
-     ![[react-typescript/images/image-4.png]]
+     ![image](images/image-4.png)
 - We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
 - So, let's define type for our props.
 - ***`Greet.tsx`***
-  ![[react-typescript/images/image-5.png]]
+  ![image](images/image-5.png)
 - Now if we pass a number or any other data type other than TS will show error that you can't do that.
-  ![[react-typescript/images/image-6.png]]
-  ![[react-typescript/images/image-7.png]]
+  ![image](images/image-6.png)
+  ![image](images/image-7.png)
