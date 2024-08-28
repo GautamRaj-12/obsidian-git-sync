@@ -169,11 +169,11 @@
 - Deployment
 
 ### Overview
-![](images/image-18.)
+![image](images/image-18.png)
 
 ### Developing with Containers
 
-![[image-19.png]]
+![image](images/image-19.png)
 
 
  
