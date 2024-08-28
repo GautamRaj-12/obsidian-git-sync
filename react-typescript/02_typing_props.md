@@ -10,4 +10,4 @@
 - ***`Greet.tsx`***
   ![[Pasted image 20240828114332.png]]
 - Now if we pass a number or any other data type other than TS will show error that you can't do that.
--
+  ![[Pasted image 20240828114501.png]]
