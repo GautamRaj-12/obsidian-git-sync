@@ -5,4 +5,4 @@
 - Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props parameter. Because it is of any type.
      ![[Pasted image 20240828113310.png]]
      ![[Pasted image 20240828113334.png]]
-- We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there wil
+- We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
