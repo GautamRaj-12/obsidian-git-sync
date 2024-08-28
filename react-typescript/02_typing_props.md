@@ -2,4 +2,5 @@
 	-  In this we are trying to render Greet component with name prop but as we have not defined that Greet will accept props, We get red squiggly line.
 	 ![[Pasted image 20240828112927.png]]
 	 ![[Pasted image 20240828113018.png]]
-- Now, in ***`Greet.tsx`*** we define props. Now  
+- Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props parameter. Because it is of any type.
+     
