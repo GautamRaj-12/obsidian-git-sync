@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec4ff90bbe799dbb",
+        "id": "9adea0d7ed4f4b65",
         "type": "tabs",
         "children": [
           {
-            "id": "bd6ecb2b80ff9217",
+            "id": "831648f5c20a93db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
+                "file": "react-typescript/03_basic_proptypes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
+                "file": "react-typescript/03_basic_proptypes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
+                "file": "react-typescript/03_basic_proptypes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-typescript/02_typing_props.md"
+                "file": "react-typescript/03_basic_proptypes.md"
               }
             }
           }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd6ecb2b80ff9217",
+  "active": "831648f5c20a93db",
   "lastOpenFiles": [
+    "react-typescript/03_basic_proptypes.md",
+    "react-typescript/02_typing_props.md",
     "react-typescript/images/image-1.png",
     "react-typescript/images/image-3.png",
     "react-typescript/images/image-2.png",
     "react-typescript/images",
-    "react-typescript/02_typing_props.md",
     "react-typescript/images/image-7.png",
     "react-typescript/images/image-6.png",
     "react-typescript/images/image-5.png",
