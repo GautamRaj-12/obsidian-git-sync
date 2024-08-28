@@ -11,3 +11,5 @@
 
 
   ![image](images/image-9.png)
+
+- Using Destructuring
