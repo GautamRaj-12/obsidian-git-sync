@@ -8,5 +8,7 @@
 ## Add typescript to existing CRA project
 - `npm i --save typescript @types/node @types/react @types/react-dom @types/jest`
 ## VITE
-- `npm create vite@latest .`
-- 
+- `npm create vite@latest .` - Current Directory 
+- `npm create vite@latest <project_name>`
+	- A menu will appear, select React + Typescript
+- `npm create vite`
