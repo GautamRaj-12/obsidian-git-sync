@@ -1,2 +1,2 @@
 - ***`App.tsx`***
-	- 
+	-  In this we are trying to render Greet component with name prop but as we have not defined 
