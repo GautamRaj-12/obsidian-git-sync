@@ -11,4 +11,4 @@
 - `npm create vite@latest .` - Current Directory 
 - `npm create vite@latest <project_name>`
 	- A menu will appear, select React + Typescript
-- `npm create vite`
+- `npm create vite@latest <project_name> -- --template react-ts`
