@@ -11,11 +11,9 @@
             "id": "bd6ecb2b80ff9217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240828112927.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
+                "file": "Pasted image 20240828112927.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-typescript/02_typing_props.md",
+                "file": "Pasted image 20240828112927.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-typescript/02_typing_props.md"
+                "file": "Pasted image 20240828112927.png"
               }
             }
           }
@@ -146,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd6ecb2b80ff9217",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "react-typescript/images",
+    "react-typescript/02_typing_props.md",
     "Pasted image 20240828114958.png",
     "Pasted image 20240828114501.png",
     "Pasted image 20240828114332.png",
@@ -158,11 +158,9 @@
     "Pasted image 20240828112943.png",
     "Pasted image 20240828112927.png",
     "react-typescript/01_introduction.md",
-    "react-typescript/02_typing_props.md",
     "react-typescript",
     "docker/docker.md",
     "docker/images/image-19.png",
-    "docker/images/image-18.png",
     "css-tailwind/css-animations.md",
     "node-express-ts/images",
     "node-express-ts/Untitled.md",
