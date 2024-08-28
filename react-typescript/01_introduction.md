@@ -5,4 +5,8 @@
 
 ## CRA with typescript
 - `npx create-react-app my-app --template typescript`
-## Add typescript to existing cra project
+## Add typescript to existing CRA project
+- `npm i --save typescript @types/node @types/react @types/react-dom @types/jest`
+## VITE
+- `npm create vite@latest .`
+- 
