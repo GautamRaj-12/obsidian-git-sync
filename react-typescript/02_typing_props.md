@@ -11,7 +11,9 @@
      
 - We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
 - So, let's define type for our props.
+
 - ***`Greet.tsx`***
+
   ![image](images/image-5.png)
   
 - Now if we pass a number or any other data type other than TS will show error that you can't do that.
