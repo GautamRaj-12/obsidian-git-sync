@@ -6,4 +6,4 @@
      ![[Pasted image 20240828113310.png]]
      ![[Pasted image 20240828113334.png]]
 - We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
-- It is not going to stop rendering, so, if even if we pass any number, it will be render 10. Imagine r
+- It is not going to stop rendering, so, if even if we pass any number, it will be render 10. Imagine reading "Welcome 10 , You have 10 unread message."
