@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240828112927.png"
+                "file": "react-typescript/images/image-1.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240828112927.png",
+                "file": "react-typescript/images/image-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240828112927.png",
+                "file": "react-typescript/images/image-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240828112927.png"
+                "file": "react-typescript/images/image-1.png"
               }
             }
           }
@@ -146,17 +146,17 @@
   },
   "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "react-typescript/images/image-3.png",
+    "react-typescript/images/image-2.png",
+    "react-typescript/images/image-1.png",
     "react-typescript/images",
     "react-typescript/02_typing_props.md",
-    "Pasted image 20240828114958.png",
-    "Pasted image 20240828114501.png",
-    "Pasted image 20240828114332.png",
-    "Pasted image 20240828113334.png",
-    "Pasted image 20240828113310.png",
+    "react-typescript/images/image-7.png",
+    "react-typescript/images/image-6.png",
+    "react-typescript/images/image-5.png",
+    "react-typescript/images/image-4.png",
     "Pasted image 20240828113252.png",
-    "Pasted image 20240828113018.png",
     "Pasted image 20240828112943.png",
-    "Pasted image 20240828112927.png",
     "react-typescript/01_introduction.md",
     "react-typescript",
     "docker/docker.md",
@@ -187,7 +187,6 @@
     "fastapi-exploration/03_first_program_breakdown.md",
     "jetbrains/Tips and Tricks.md",
     "images/Pasted.md",
-    "fastapi-exploration/images",
     "Untitled.canvas",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",

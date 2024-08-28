@@ -1,14 +1,14 @@
 - ***`App.tsx`*** and ***`Greet.tsx`***
 	-  In this we are trying to render Greet component with name prop but as we have not defined that Greet will accept props, We get red squiggly line.
-	 ![[Pasted image 20240828112927.png]]
-	 ![[Pasted image 20240828113018.png]]
+	 ![[react-typescript/images/image-1.png]]
+	 ![[react-typescript/images/image-2.png]]
 - Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props argument. Because it is of 'any' type.
-     ![[Pasted image 20240828113310.png]]
-     ![[Pasted image 20240828113334.png]]
+     ![[react-typescript/images/image-3.png]]
+     ![[react-typescript/images/image-4.png]]
 - We are using typescript to avoid these. We don't want a component to accept 'any' type. Then there will be no difference between JS and TS.
 - So, let's define type for our props.
 - ***`Greet.tsx`***
-  ![[Pasted image 20240828114332.png]]
+  ![[react-typescript/images/image-5.png]]
 - Now if we pass a number or any other data type other than TS will show error that you can't do that.
-  ![[Pasted image 20240828114501.png]]
-  ![[Pasted image 20240828114958.png]]
+  ![[react-typescript/images/image-6.png]]
+  ![[react-typescript/images/image-7.png]]
