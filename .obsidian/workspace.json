@@ -11,8 +11,12 @@
             "id": "0e0915367e47bdaf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "java-oops/oops.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "java-oops/oops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "java-oops/oops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "java-oops/oops.md"
+              }
             }
           }
         ]
@@ -140,6 +148,8 @@
   },
   "active": "0e0915367e47bdaf",
   "lastOpenFiles": [
+    "java-oops/oops.md",
+    "java-oops",
     "react-native/03_file_structure.md",
     "react-native/02_creating_and_running_a_program.md",
     "react-native/01_introduction_and_installation.md",
@@ -177,7 +187,6 @@
     "images",
     "dsa-no-code-notes/linked-list/01_singly_linked_list.md",
     "dsa-no-code-notes/operations-on-ds.md",
-    "dsa-no-code-notes/linked-list",
     "fastapi-exploration/05_query_parameters.md",
     "fastapi-exploration/01_fastapi_intro.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
@@ -185,7 +194,6 @@
     "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/03_first_program_breakdown.md",
     "jetbrains/Tips and Tricks.md",
-    "images/Pasted.md",
     "Untitled.canvas"
   ]
 }
