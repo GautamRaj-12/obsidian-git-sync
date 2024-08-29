@@ -14,4 +14,7 @@
 		- has-a
 
 ## Introduction
-- OOPs mean Object Oriente
+- OOPs mean Object Oriented Programming
+- Here Object means real world entity like Car, Bike, ATM etc.
+- Every real world entity has: properties and behavior(functionality)
+## Procedural Programming vs 
