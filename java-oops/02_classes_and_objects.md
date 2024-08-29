@@ -1,3 +1,8 @@
 ## Class
 - A class is a collection of Objects.
-- It is not a real world entity
+- It is not a real world entity. It is just a template or blueprint or prototype for creating Objects.
+- It does not occupy memory.
+- A class can include :
+	- fields and variables
+	- methods
+	- constructor
