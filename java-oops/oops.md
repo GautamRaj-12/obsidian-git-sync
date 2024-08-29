@@ -21,4 +21,9 @@
 ### Procedural Programming
 1. Programming is divided into parts called functions.
 2. Does not provide a proper way to hide data, gives importance to function and data moves freely.
-3. Overloading is no
+3. Overloading is not possible
+4. Inheritance is not possible
+5. Code re-usability is not present
+6. Ex: Pascal, C, Fortran
+### OOPS
+1. Program is di
