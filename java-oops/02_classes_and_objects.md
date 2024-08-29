@@ -12,4 +12,6 @@
 
 ## Class
 - It is a blueprint for creating an Object.
-- To create and Object
+- To create and Object,  a Class is required.
+- From one class, we can create multiple objects.
+- To create a class, we use the keyword "class"
