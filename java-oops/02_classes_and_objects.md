@@ -28,4 +28,8 @@
 	3. Using ` clone`
 	4. Using `deserialization`
 	5. Using  `factory` methods
-	-
+- Using `new` keyword
+	1. Declaration
+		- De
+	2. Instantiation
+	3. Initialization
