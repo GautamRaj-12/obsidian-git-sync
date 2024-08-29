@@ -12,3 +12,4 @@
   ```java
 		access-modifier class ClassName{}  
     ```
+- By default the access modifier is default.
