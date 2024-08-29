@@ -13,3 +13,10 @@
 		access-modifier class ClassName{}  
     ```
 - By default the access modifier is default.
+
+## Object
+- An object is an instance of a class.
+- It is a real world entity.
+- It occupies memory.
+- It consists of
+	- Identity
