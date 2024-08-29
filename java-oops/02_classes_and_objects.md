@@ -53,4 +53,5 @@
 		 Vehicle car = new Vehicle()
 	   ```
 - We can call the methods and attributes using the object using dot operator.
-- 
+	- `car.noOfWheels`
+	- `car.drive()`
