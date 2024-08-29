@@ -19,4 +19,6 @@
 - It is a real world entity.
 - It occupies memory.
 - It consists of
-	- Identity
+	- Identity (name)
+	- State/Attribute
+	- Behaviors : methods
