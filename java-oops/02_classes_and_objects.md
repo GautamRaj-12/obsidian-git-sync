@@ -140,4 +140,4 @@ public class VehicleMain {
 	- It is a block similar to method having same name as that of a class name.
 	- It does not have any return type, not even void.
 	- The only modifiers applicable for constructors: *public*,*private*,*default*,*protected*
-	- It executes automatically when
+	- It executes automatically when we create an object.
