@@ -30,6 +30,9 @@
 	5. Using  `factory` methods
 - Using `new` keyword
 	1. Declaration
-		- De
-	2. Instantiation
-	3. Initialization
+		- Declaring a variable with an Object type
+		- It does not create an object.
+			- Vehicle car;
+	1. Instantiation
+		- 
+	2. Initialization
