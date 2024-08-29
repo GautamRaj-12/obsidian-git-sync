@@ -32,9 +32,11 @@
 	1. Declaration
 		- Declaring a variable with an Object type
 		- It does not create an object.
-			- `Vehicle car`;
-	1. Instantiation
+			- `Vehicle car;`
+	2. Instantiation
 		- This is when memory is allocated for an Object.
 		- The `new` keyword is used to create an object.
 		- A reference to the Object that was created is returned from the new keyword
-	1. Initialization
+			- `Car = new`
+	3. Initialization
+		 - The `new` keyword is
