@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/oops.md",
+                "file": "java-oops/02_classes_and_objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/oops.md",
+                "file": "java-oops/02_classes_and_objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/oops.md",
+                "file": "java-oops/02_classes_and_objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/oops.md"
+                "file": "java-oops/02_classes_and_objects.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "0e0915367e47bdaf",
   "lastOpenFiles": [
-    "java-oops/oops.md",
+    "java-oops/01_introduction_to_oops.md",
+    "java-oops/02_classes_and_objects.md",
     "java-oops",
     "react-native/03_file_structure.md",
     "react-native/02_creating_and_running_a_program.md",
@@ -193,7 +194,6 @@
     "fastapi-exploration/04_path_parameters.md",
     "fastapi-exploration/02_installation_and_setup.md",
     "fastapi-exploration/03_first_program_breakdown.md",
-    "jetbrains/Tips and Tricks.md",
     "Untitled.canvas"
   ]
 }
