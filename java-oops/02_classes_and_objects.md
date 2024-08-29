@@ -22,7 +22,7 @@
 	- Identity (name)
 	- State/Attribute : properties/variables
 	- Behaviors : methods
-- An obje 
+- All the objects share the attributes and behavior of the class.
 - Syntax for creating an object
 	1. Using `new`
 	2. Using `newInstance`
@@ -42,3 +42,4 @@
 	3. Initialization
 		 - The `new` keyword is followed by a call to a constructor. This call initializes the Object.
 		 - In this, the values are put in the memory that was allocated.
+			 - `Car = new Vechicle()`
