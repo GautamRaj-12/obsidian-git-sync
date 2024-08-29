@@ -23,6 +23,9 @@
 	- State/Attribute : properties/variables
 	- Behaviors : methods
 - Syntax for creating an object
-	1. Using `new` keyword
-	2. Using `newInstance` keyword
+	1. Using `new`
+	2. Using `newInstance`
 	3. Using ` clone`
+	4. Using `deserialization`
+	5. Using  `factory` methods
+	-
