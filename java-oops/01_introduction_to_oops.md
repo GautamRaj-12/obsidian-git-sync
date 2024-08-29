@@ -1,7 +1,8 @@
 ## Introduction
 - OOPs mean Object Oriented Programming System/Structure.
 - It is a programming paradigm or methodology.
-	- **Paradigm**
+	- **Paradigm** can be termed as method to solve some problem or do some task.
+	- **Programming Paradigm**: It is an approach to solve problem using some programming language or also we can say it is a method to solve
 - Here Object means real world entity like Car, Bike, ATM etc.
 - Every real world entity has: properties and behavior(functionality)
 ## Procedural Programming vs OOPS
