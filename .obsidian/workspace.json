@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react-native/Untitled.md",
+                "file": "react-native/03_file_structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-native/Untitled.md",
+                "file": "react-native/03_file_structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react-native/Untitled.md",
+                "file": "react-native/03_file_structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-native/Untitled.md"
+                "file": "react-native/03_file_structure.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "0e0915367e47bdaf",
   "lastOpenFiles": [
     "react-native/02_creating_and_running_a_program.md",
-    "react-native/Untitled.md",
+    "react-native/03_file_structure.md",
     "react-native/01_introduction_and_installation.md",
     "everyday-utils/everyday-utils.md",
     "react-native",
