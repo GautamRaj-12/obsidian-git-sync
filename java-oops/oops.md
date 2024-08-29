@@ -17,4 +17,8 @@
 - OOPs mean Object Oriented Programming
 - Here Object means real world entity like Car, Bike, ATM etc.
 - Every real world entity has: properties and behavior(functionality)
-## Procedural Programming vs 
+## Procedural Programming vs OOPS
+### Procedural Programming
+1. Programming is divided into parts called functions.
+2. Does not provide a proper way to hide data, gives importance to function and data moves freely.
+3. Overloading is no
