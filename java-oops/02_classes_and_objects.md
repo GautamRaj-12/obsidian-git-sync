@@ -20,5 +20,9 @@
 - It occupies memory.
 - It consists of
 	- Identity (name)
-	- State/Attribute
+	- State/Attribute : properties/variables
 	- Behaviors : methods
+- Syntax for creating an object
+	1. Using `new` keyword
+	2. Using `newInstance` keyword
+	3. Using ` clone`
