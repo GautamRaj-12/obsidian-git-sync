@@ -78,7 +78,7 @@
 	public class VehicleMain {  
 	    public static void main(String[] args) {  
 	        Car c1 = new Car();
-	        // Initialization using 
+	        // Initialization using reference variable
 	        c1.typeOfCar="Jeep";  
 	        c1.model = "Thar";  
 	        c1.year = 2008;  
@@ -86,7 +86,9 @@
 	  
 	        System.out.println("-----Car Information-----");  
 	        System.out.println("Type: "+c1.typeOfCar+","+"Model: "+c1.model+","+"Year: "+c1.year+","+"Color: "+c1.color);  
+	        // Calling methods using object
 	        System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
 	    }  
 	}
 	 ```
+2. ***By Methods***
