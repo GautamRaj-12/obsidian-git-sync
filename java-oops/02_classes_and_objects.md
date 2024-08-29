@@ -43,3 +43,8 @@
 		 - The `new` keyword is followed by a call to a constructor. This call initializes the Object.
 		 - In this, the values are put in the memory that was allocated.
 			 - `Car = new Vechicle()`
+	- In Two Lines
+	 ```java
+		 Vehicle car 
+		 carnew Vehicle()
+	   ```
