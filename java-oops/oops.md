@@ -26,4 +26,9 @@
 5. Code re-usability is not present
 6. Ex: Pascal, C, Fortran
 ### OOPS
-1. Program is di
+1. Program is divided into Objects.
+2. Objects provide data hiding, gives importance to data.
+3. Overloading is Possible.
+4. Inheritance is Possible.
+5. Code re-usability is present.
+6. Ex: Java, C#, Python, C++ etc.
