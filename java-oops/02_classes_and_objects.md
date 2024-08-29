@@ -46,5 +46,11 @@
 	- In Two Lines
 	 ```java
 		 Vehicle car 
-		 carnew Vehicle()
+		 car = new Vehicle()
 	   ```
+	- In Single
+	 ```java
+		 Vehicle car = new Vehicle()
+	   ```
+- We can call the methods and attributes using the object using dot operator.
+- 
