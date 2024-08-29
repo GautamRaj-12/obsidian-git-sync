@@ -91,7 +91,8 @@ public class VehicleMain {
 	}  
 }
 	 ```
-2. ***By Methods***
+	 - This method is not so good. For ex. Let's say we have to create 5 objects. Then we have to repeat the initializatoo
+1. ***By Methods***
 ``` java
 package oops;  
   
