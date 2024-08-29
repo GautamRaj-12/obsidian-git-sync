@@ -57,3 +57,36 @@
 	- `car.drive()`
 
 ### Initialization of an Object
+1. ***By Reference Variable***
+   ```java
+     package oops;  
+  
+	class Car{  
+	  
+	    // attributes  
+	    String typeOfCar;  
+	    String model;  
+	    int year;  
+	    String color;  
+	  
+	    // methods  
+	    int calculateAge(int y){  
+	        return (2024-y);  
+	    }  
+	}  
+	  
+	public class VehicleMain {  
+	    public static void main(String[] args) {  
+	        Car c1 = new Car();
+	        // Initialization using 
+	        c1.typeOfCar="Jeep";  
+	        c1.model = "Thar";  
+	        c1.year = 2008;  
+	        c1.color = "Black";  
+	  
+	        System.out.println("-----Car Information-----");  
+	        System.out.println("Type: "+c1.typeOfCar+","+"Model: "+c1.model+","+"Year: "+c1.year+","+"Color: "+c1.color);  
+	        System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
+	    }  
+	}
+	 ```
