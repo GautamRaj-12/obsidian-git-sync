@@ -22,6 +22,7 @@
 	- Identity (name)
 	- State/Attribute : properties/variables
 	- Behaviors : methods
+- An obje 
 - Syntax for creating an object
 	1. Using `new`
 	2. Using `newInstance`
@@ -39,4 +40,5 @@
 		- A reference to the Object that was created is returned from the new keyword
 			- `Car = new`
 	3. Initialization
-		 - The `new` keyword is
+		 - The `new` keyword is followed by a call to a constructor. This call initializes the Object.
+		 - In this, the values are put in the memory that was allocated.
