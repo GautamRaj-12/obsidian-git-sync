@@ -58,6 +58,7 @@
 
 ### Initialization of an Object
 1. ***By Reference Variable***
+
    ```java
 package oops;  
 
@@ -91,8 +92,11 @@ public class VehicleMain {
 	}  
 }
 	 ```
-	 - This method is not so good. For ex. Let's say we have to create 5 objects. Then we have to repeat the initializatoo
-1. ***By Methods***
+	 
+	 - This method is not so good. For ex. Let's say we have to create 5 objects. Then we have to repeat the initialization 5 times. So we can create a method for this.
+	
+2. ***By Methods***
+
 ``` java
 package oops;  
   
@@ -131,3 +135,5 @@ public class VehicleMain {
     }  
 }
 ```
+
+##
