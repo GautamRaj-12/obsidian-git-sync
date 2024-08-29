@@ -5,4 +5,10 @@
 - A class can include :
 	- fields and variables
 	- methods
-	- constructor
+	- constructors
+	- blocks
+	- nested class
+- Syntax:
+  ```java
+		access-modifier class ClassName{}  
+    ```
