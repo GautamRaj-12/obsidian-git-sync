@@ -59,36 +59,74 @@
 ### Initialization of an Object
 1. ***By Reference Variable***
    ```java
-     package oops;  
+package oops;  
+
+class Car{  
   
-	class Car{  
-	  
-	    // attributes  
-	    String typeOfCar;  
-	    String model;  
-	    int year;  
-	    String color;  
-	  
-	    // methods  
-	    int calculateAge(int y){  
-	        return (2024-y);  
-	    }  
+	// attributes  
+	String typeOfCar;  
+	String model;  
+	int year;  
+	String color;  
+  
+	// methods  
+	int calculateAge(int y){  
+		return (2024-y);  
 	}  
-	  
-	public class VehicleMain {  
-	    public static void main(String[] args) {  
-	        Car c1 = new Car();
-	        // Initialization using reference variable
-	        c1.typeOfCar="Jeep";  
-	        c1.model = "Thar";  
-	        c1.year = 2008;  
-	        c1.color = "Black";  
-	  
-	        System.out.println("-----Car Information-----");  
-	        System.out.println("Type: "+c1.typeOfCar+","+"Model: "+c1.model+","+"Year: "+c1.year+","+"Color: "+c1.color);  
-	        // Calling methods using object
-	        System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
-	    }  
-	}
+}  
+  
+public class VehicleMain {  
+	public static void main(String[] args) {  
+		Car c1 = new Car();
+		// Initialization using reference variable
+		c1.typeOfCar="Jeep";  
+		c1.model = "Thar";  
+		c1.year = 2008;  
+		c1.color = "Black";  
+  
+		System.out.println("-----Car Information-----");  
+		System.out.println("Type: "+c1.typeOfCar+","+"Model: "+c1.model+","+"Year: "+c1.year+","+"Color: "+c1.color);  
+		// Calling methods using object
+		System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
+	}  
+}
 	 ```
 2. ***By Methods***
+``` java
+package oops;  
+  
+class Car{  
+  
+    // attributes  
+    String typeOfCar;  
+    String model;  
+    int year;  
+    String color;  
+  
+    // methods  
+    void initializeObject(String t,String m, int y, String c){  
+        typeOfCar = t;  
+        model = m;  
+        year = y;  
+        color = c;  
+    }  
+    void display(){  
+        System.out.println("-----Car Information-----");  
+        System.out.println("Type: "+typeOfCar+","+"Model: "+model+","+"Year: "+year+","+"Color: "+color);  
+    }  
+    int calculateAge(int y){  
+        return (2024-y);  
+    }  
+}  
+  
+public class VehicleMain {  
+    public static void main(String[] args) {  
+        Car c1 = new Car();  
+        // initialization using method  
+        c1.initializeObject("Jeep","Thar",2008,"Black");  
+        // calling display method  
+        c1.display();  
+        System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
+    }  
+}
+```
