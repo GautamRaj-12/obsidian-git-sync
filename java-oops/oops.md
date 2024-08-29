@@ -6,4 +6,12 @@
 	3. Inheritance
 		1. Single
 		2. Multiple etc
-	4. 
+	4. Polymorphism
+		1. Static
+		2. Dynamic
+	5. Relationship
+		- is-a
+		- has-a
+
+## Introduction
+- OOPs mean Object Oriente
