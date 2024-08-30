@@ -179,9 +179,9 @@ public class VehicleMain {
 		 ```
 		 
 		- As we can see Admission Number is initialized as 0. Two students having same Admission Number is not what we want.
-		- The first way we tried to initialize object was the reference variable way, but in that we saw, that if we are having multiple objects, we need to write too many repetitive statements.
-		- The second way was using methods, but methods also require us to call them.
-		- But with constructor there is no need to call. It automatically assigns the value.
+		- Initially, we used reference variables to set the values of an object's attributes. However, this approach becomes cumbersome and repetitive when dealing with multiple objects, as it requires writing the same code repeatedly for each object.
+		- The next approach involved using methods to initialize object attributes. While this reduces repetition, it still requires explicitly calling the method for each object, adding to the manual effort.
+		- Constructors offer a more efficient solution. Unlike methods, constructors automatically initialize the object's attributes at the time of creation, eliminating the need for explicit method calls and streamlining the object creation process.
 
 		  ```java
 			package oops;
