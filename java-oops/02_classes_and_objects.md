@@ -139,6 +139,7 @@ public class VehicleMain {
 3. ***By Constructors***
 	- It is a block similar to method having same name as that of a class name.
 	- It does not have any return type, not even void.
+	- It is used to initialize an object and 
 	- The only modifiers applicable for constructors: *public*,*private*,*default*,*protected*
 	- It executes automatically when we create an object.
 	- Two ways to call constructor
