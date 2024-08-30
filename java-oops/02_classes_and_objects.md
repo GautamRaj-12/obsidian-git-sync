@@ -147,4 +147,27 @@ public class VehicleMain {
 		- `Test t = new Test()`
 		- `new Test()` (No need to create reference variable)
 	- Need for constructors
-		- 
+		- Without Constructor, when we create objects, default values are assigned which might become problematic.
+		 ```java
+			 package oops;  
+  
+class Student{  
+  
+    // attributes  
+    String name;  
+    int admNo;  
+  
+    void display(){  
+        System.out.println("Name: "+name+","+"Admission No: "+admNo);  
+    }  
+}  
+  
+public class VehicleMain {  
+    public static void main(String[] args) {  
+        Student s1 = new Student();  
+        Student s2 = new Student();  
+        s1.display();  
+        s2.display();  
+    }  
+}
+           ```
