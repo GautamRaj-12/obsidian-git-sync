@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "680e922c4d1ea235",
+        "id": "59438844a7c050ea",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5e76b6091bc334",
+            "id": "f9e7d8a1bd5db7b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node-express-ts/node-express-ts setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "node-express-ts/node-express-ts setup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd5e76b6091bc334",
+  "active": "f9e7d8a1bd5db7b3",
   "lastOpenFiles": [
+    "java-oops/02_classes_objects_constructors.md",
+    "node-express-ts/node-express-ts setup.md",
     "everyday-utils/everyday-utils.md",
     "conflict-files-obsidian-git.md",
     "react-typescript/images/image-9.png",
@@ -165,10 +159,8 @@
     "react-typescript/02_typing_props.md",
     "react-typescript/01_introduction.md",
     "react-typescript",
-    "node-express-ts/node-express-ts setup.md",
     "node-express-ts/images",
     "node-express-ts",
-    "java-oops/02_classes_objects_constructors.md",
     "java-oops/01_introduction_to_oops.md",
     "java-oops",
     "everyday-utils",
