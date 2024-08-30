@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3f24b8dcd79938dc",
+        "id": "552282380ae2711d",
         "type": "tabs",
         "children": [
           {
-            "id": "dcd628221e8b8522",
+            "id": "f90522a59c51732f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dcd628221e8b8522",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
     "images/ll-.md",
     "dsa-no-code-notes/linked-list/03_circular_linked_list.md",
