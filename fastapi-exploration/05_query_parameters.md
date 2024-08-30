@@ -24,12 +24,12 @@
 
 	- When we go to the URL (Not specifying the query parameters): `http://127.0.0.1:8000/blog/14`
 	- Output:
-	  ![image](images/image-5.png)
+	  ![image](fastapi-exploration/images/image-5.png)
 	  - It shows error as in the function we have defined query parameters, but in the URL we are not sending any.
 	  - So by default the query parameters are required.
 	  - When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
 	  - Output:
-		 ![image](images/image-6.png)
+		 ![image](fastapi-exploration/images/image-6.png)
 		- *If we omit either of the two parameters, there will be an error as both are required.*
 		- One thing to notice in `{"published":"false"}` is that false is a string and similarly limit is a string also. So, if we try to do any condition check using it, then it will not produce the desired result. So it is always good to specify the data type.
 	
@@ -40,7 +40,7 @@
 		return {"id":id,"limit":limit,"published":published}
 		```
 	- When we go to the URL (Specifying the query parameters): `http://127.0.0.1:8000/blog/14?limit=10&published=false`
-	 ![image](images/image-7.png)
+	 ![image](fastapi-exploration/images/image-7.png)
 	- Now limit is an integer and published is a boolean.
 
 - **Defining Query Parameters (With Default Value)**

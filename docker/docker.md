@@ -161,3 +161,19 @@
 		- Open's containers terminal
 
 ![image](./images/image-17.png)
+
+## Workflow with Docker
+
+- Development
+- Continuous Integration/Delivery
+- Deployment
+
+### Overview
+![image](images/image-18.png)
+
+### Developing with Containers
+
+![image](images/image-19.png)
+
+
+ 

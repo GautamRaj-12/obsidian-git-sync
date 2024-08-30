@@ -50,15 +50,15 @@ def second():
 	- `uvicorn main:app --reload` - It will run on `http://127.0.0.1:8000/`
 	- `uvicorn main:app --port 4000 --reload` - Changed Port - It will run on `http://127.0.0.1:4000/`
 - Output
-  ![image](images/image-1.png)
+  ![image](fastapi-exploration/images/image-1.png)
 - API DOCS
 	- Now go to `http://127.0.0.1:8000/docs`
 		- We will see an interactive API documentation automatically generated.
-		  ![image](images/image-3.png)
+		  ![image](fastapi-exploration/images/image-3.png)
 		- Then click on the "Execute" button, the user interface will communicate with your API, send the parameters, get the results and show them on the screen
-			![image](images/image-4.png)
+			![image](fastapi-exploration/images/image-4.png)
 	- Another doc `http://127.0.0.1:8000/redoc`
-		 ![image](images/image-2.png)
+		 ![image](fastapi-exploration/images/image-2.png)
 ## Dependencies
 - Fast api depends on
 	- Pydantic
