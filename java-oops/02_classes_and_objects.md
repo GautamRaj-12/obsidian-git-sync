@@ -141,3 +141,7 @@ public class VehicleMain {
 	- It does not have any return type, not even void.
 	- The only modifiers applicable for constructors: *public*,*private*,*default*,*protected*
 	- It executes automatically when we create an object.
+	- Two ways to call constructor
+		- `Test t = new Test()`
+		- `new Test()` (No need to create reference variable)
+	- Need for construct
