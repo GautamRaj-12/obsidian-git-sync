@@ -1,6 +1,6 @@
 ## Blog
 - https://notebook-template.webflow.io/
-- https://diary-tnc.webflow.io/
-- https://diary-dark-tnc.webflow.io/
-- https://nexgen-blog.webflow.io/
-- 
+- https://diary-tnc.webflow.io/ - Liked the overall structure
+- https://diary-dark-tnc.webflow.io/ - Liked the overall structure
+- https://nexgen-blog.webflow.io/ - Liked the Posts section
+- https://osaka-template.webflow.io/ - Liked the header section
