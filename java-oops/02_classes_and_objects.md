@@ -211,3 +211,34 @@ public class VehicleMain {
 				}
 			}
 		  ```
+  
+        - We can create the above program in a different way. Like this:
+		  
+		  ```java
+		    package oops;
+
+			class Student{
+
+				// attributes
+				String name;
+				int admNo;
+
+				// constructor
+				Student(String name, int admNo){
+					this.name = name;
+					this.admNo = admNo;
+				}
+				void display(){
+					System.out.println("Name: "+this.name+","+"Admission No: "+this.admNo);
+				}
+			}
+
+			public class VehicleMain {
+				public static void main(String[] args) {
+					Student s1 = new Student("Shubham",1001);
+					Student s2 = new Student("Shubham",1002);
+					s1.display();
+					s2.display();
+				}
+			}
+		  ```
