@@ -1,5 +1,6 @@
 ## Blog
 - https://notebook-template.webflow.io/
+- https://diary-tnc.webflow.io/
 - https://diary-dark-tnc.webflow.io/
 - https://nexgen-blog.webflow.io/
 - 
