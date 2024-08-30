@@ -170,9 +170,13 @@ public class VehicleMain {
 			        s2.display();  
 			    }  
 			}
-           ```
+        ```
         - Output
 	     ```
 		     Name: null,Admission No: 0
 			 Name: null,Admission No: 0
 		 ```
+		- As we can see Admission No is initialized as 0. Two students having same Admission No is not what we want.
+		- The first way we tried to initialize object was the reference variable way, but in that we saw, that if we are having multiple objects, we need to write too many repetitive statements.
+		- The second way was using methods, but methods also require us to call them.
+		- But with constructor there is no need to call. It automatically assigns the value.
