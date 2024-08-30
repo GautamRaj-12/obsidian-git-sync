@@ -14,4 +14,4 @@
 - bg - `#176bb5`
 - dark-text - `#176bb5`
 - light-text- `#49e287`
-- 
+- other - `#69c8f8`
