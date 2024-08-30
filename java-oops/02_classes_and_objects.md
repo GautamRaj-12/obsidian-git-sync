@@ -252,11 +252,11 @@ public class VehicleMain {
           - **Assignment with this**: The this keyword is used to distinguish between the instance variables and the constructor parameters. this.name refers to the instance variable, while name refers to the parameter.
           - **Display Method**: The display method also uses this.name and this.admNo, making it clear that the instance variables are being accessed.
        - ***Why the second approach is better?***
-         - Clarity and Readability:
-           - Avoids Ambiguity: By using the this keyword, the code clearly distinguishes between instance variables and parameters or local variables that have the same name. This makes the code easier to understand, especially for other developers who might work on it in the future.
-           - Consistency: Using this consistently can improve the readability of the code. It makes it immediately apparent that a variable belongs to the instance of the class, rather than being a local variable or parameter
-         - Best Practice:
-           - Standard Practice: It is a common best practice in object-oriented programming to use the same names for parameters as the instance variables, relying on the this keyword to differentiate them. This reduces the cognitive load on developers, as they don’t need to invent new names for parameters and can focus on the logic of the code.
-         - Reduces Potential Bugs:
-          - Eliminates Mistakes: When working with larger classes or more complex code, using this reduces the likelihood of mistakenly assigning a value to the wrong variable. Without this, it's easy to inadvertently introduce bugs, especially in scenarios where the variable names are similar or identical.
+         - **Clarity and Readability**:
+           - **Avoids Ambiguity**: By using the this keyword, the code clearly distinguishes between instance variables and parameters or local variables that have the same name. This makes the code easier to understand, especially for other developers who might work on it in the future.
+           - **Consistency**: Using this consistently can improve the readability of the code. It makes it immediately apparent that a variable belongs to the instance of the class, rather than being a local variable or parameter
+         - **Best Practice**:
+           - **Standard Practice**: It is a common best practice in object-oriented programming to use the same names for parameters as the instance variables, relying on the this keyword to differentiate them. This reduces the cognitive load on developers, as they don’t need to invent new names for parameters and can focus on the logic of the code.
+         - **Reduces Potential Bugs**:
+           - **Eliminates Mistakes**: When working with larger classes or more complex code, using this reduces the likelihood of mistakenly assigning a value to the wrong variable. Without this, it's easy to inadvertently introduce bugs, especially in scenarios where the variable names are similar or identical.
 
