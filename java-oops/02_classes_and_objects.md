@@ -151,23 +151,28 @@ public class VehicleMain {
 		 ```java
 			 package oops;  
   
-class Student{  
-  
-    // attributes  
-    String name;  
-    int admNo;  
-  
-    void display(){  
-        System.out.println("Name: "+name+","+"Admission No: "+admNo);  
-    }  
-}  
-  
-public class VehicleMain {  
-    public static void main(String[] args) {  
-        Student s1 = new Student();  
-        Student s2 = new Student();  
-        s1.display();  
-        s2.display();  
-    }  
-}
+			class Student{  
+			  
+			    // attributes  
+			    String name;  
+			    int admNo;  
+			  
+			    void display(){  
+			        System.out.println("Name: "+name+","+"Admission No: "+admNo);  
+			    }  
+			}  
+			  
+			public class VehicleMain {  
+			    public static void main(String[] args) {  
+			        Student s1 = new Student();  
+			        Student s2 = new Student();  
+			        s1.display();  
+			        s2.display();  
+			    }  
+			}
            ```
+        - Output
+	     ```
+		     Name: null,Admission No: 0
+			 Name: null,Admission No: 0
+		   ```
