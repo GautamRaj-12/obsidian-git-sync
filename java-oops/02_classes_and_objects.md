@@ -260,3 +260,87 @@ public class VehicleMain {
          - **Reduces Potential Bugs**:
            - **Eliminates Mistakes**: When working with larger classes or more complex code, using this reduces the likelihood of mistakenly assigning a value to the wrong variable. Without this, it's easy to inadvertently introduce bugs, especially in scenarios where the variable names are similar or identical.
 
+## Types of Constructors
+
+```java
+package oops;
+
+class Student{
+
+    // attributes
+    String name;
+    int admNo;
+    
+    void display(){
+        System.out.println("Name: "+this.name+","+"Admission No: "+this.admNo);
+    }
+}
+
+public class VehicleMain {
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        Student s2 = new Student();
+        s1.display();
+        s2.display();
+    }
+}
+
+```
+
+```java
+package oops;
+
+class Student{
+
+    // attributes
+    String name;
+    int admNo;
+
+    // constructor
+    Student(){
+    }
+    void display(){
+        System.out.println("Name: "+this.name+","+"Admission No: "+this.admNo);
+    }
+}
+
+public class VehicleMain {
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        Student s2 = new Student();
+        s1.display();
+        s2.display();
+    }
+}
+
+```
+
+```java
+package oops;
+
+class Student{
+
+    // attributes
+    String name;
+    int admNo;
+
+    // constructor
+    Student(String name, int admNo){
+        this.name = name;
+        this.admNo = admNo;
+    }
+    void display(){
+        System.out.println("Name: "+this.name+","+"Admission No: "+this.admNo);
+    }
+}
+
+public class VehicleMain {
+    public static void main(String[] args) {
+        Student s1 = new Student("Shubham",1001);
+        Student s2 = new Student("Shubham",1002);
+        s1.display();
+        s2.display();
+    }
+}
+
+```
