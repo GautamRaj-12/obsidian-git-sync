@@ -262,6 +262,13 @@ public class VehicleMain {
 
 ## Types of Constructors
 
+### 1. Default Constructor
+- A default constructor is a constructor that is automatically provided by the Java compiler if no other constructors are defined in the class. It initializes the object with default values: null for objects and 0 for numeric types.
+- Characteristics:
+  - Implicitly provided if no constructors are defined
+  - Has no parameters.
+  - Assigns default values to the object’s attributes.
+
 ```java
 package oops;
 
@@ -286,6 +293,16 @@ public class VehicleMain {
 }
 
 ```
+- In the Example:
+  - Since no constructor is defined in the Student class, the Java compiler provides a default constructor.
+  - When Student s1 = new Student(); is called, the default constructor initializes name to null and admNo to 0.
+
+### 2. No-Argument Constructor
+- A no-argument constructor is explicitly defined by the programmer. It is similar to the default constructor, but it is written by the developer to potentially include custom initialization code.
+- Characteristics:
+  - Explicitly defined by the programmer.
+  - Takes no parameters.
+  - Can be used to initialize the object with custom default values or to perform specific actions during object creation.
 
 ```java
 package oops;
@@ -314,6 +331,16 @@ public class VehicleMain {
 }
 
 ```
+- In the Example:
+    - The Student class includes an explicitly defined no-argument constructor, Student(){}, which doesn't do anything in this case.
+    - Like the default constructor, it initializes the object, but since no code is provided in the constructor, the attributes name and admNo remain null and 0, respectively.
+
+### Parameterized Constructor
+- A parameterized constructor is one that accepts arguments to initialize the object's attributes with specific values at the time of object creation.
+- Characteristics:
+  - Takes one or more parameters.
+  - Used to initialize an object with specific values, allowing for greater control over the object’s state at the time of creation.
+  - It can be overloaded to provide multiple ways to create objects with different sets of parameters.
 
 ```java
 package oops;
@@ -344,3 +371,6 @@ public class VehicleMain {
 }
 
 ```
+- In the Example:
+  - The Student class includes a parameterized constructor Student(String name, int admNo).
+  - When Student s1 = new Student("Shubham",1001); is called, the name and admNo attributes are initialized with the values "Shubham" and 1001, respectively.
