@@ -11,6 +11,7 @@
 - https://flowbite.webflow.io/ - Nice colors and structure
 
 ## Color combo that you can never be wrong with
-- bg - #176bb5
-- dark-text - #176bb5 
+- bg - `#176bb5`
+- dark-text - `#176bb5`
+- light-text- `#49e287`
 - 
