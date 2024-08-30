@@ -181,3 +181,31 @@ public class VehicleMain {
 		- The first way we tried to initialize object was the reference variable way, but in that we saw, that if we are having multiple objects, we need to write too many repetitive statements.
 		- The second way was using methods, but methods also require us to call them.
 		- But with constructor there is no need to call. It automatically assigns the value.
+		  ```java
+			package oops;
+
+			class Student{
+
+				// attributes
+				String name;
+				int admNo;
+
+				// constructor
+				Student(String n, int a){
+					name = n;
+					admNo = a;
+				}
+				void display(){
+					System.out.println("Name: "+name+","+"Admission No: "+admNo);
+				}
+			}
+
+			public class VehicleMain {
+				public static void main(String[] args) {
+					Student s1 = new Student("Shubham",1001);
+					Student s2 = new Student("Shubham",1002);
+					s1.display();
+					s2.display();
+				}
+			}
+		  ```
