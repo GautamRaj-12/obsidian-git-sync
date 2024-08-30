@@ -242,3 +242,14 @@ public class VehicleMain {
 				}
 			}
 		  ```
+  
+        - ***In the first approach***
+          - **Constructor Parameters**: The parameters n and a are used to pass the values to the instance variables name and admNo.
+          - **Assignment**: Inside the constructor, the instance variables name and admNo are directly assigned the values of n and a.
+          - **Display Method**: The display method directly accesses the instance variables name and admNo.
+        - ***In the second approach***
+          - **Constructor Parameters**: The constructor uses name and admNo as parameter names, which are the same as the instance variable names.
+          - **Assignment with this**: The this keyword is used to distinguish between the instance variables and the constructor parameters. this.name refers to the instance variable, while name refers to the parameter.
+          - **Display Method**: The display method also uses this.name and this.admNo, making it clear that the instance variables are being accessed.
+       - ***Why the second approach is better?***
+
