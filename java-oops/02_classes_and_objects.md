@@ -47,11 +47,12 @@
 	 ```java
 		 Vehicle car 
 		 car = new Vehicle()
-	   ```
+	 ```
 	- In Single
+  
 	 ```java
 		 Vehicle car = new Vehicle()
-	   ```
+	 ```
 - We can call the methods and attributes using the object using dot operator.
 	- `car.noOfWheels`
 	- `car.drive()`
@@ -59,7 +60,7 @@
 ### Initialization of an Object
 1. ***By Reference Variable***
 
-   ```java
+```java
 package oops;  
 
 class Car{  
@@ -91,11 +92,11 @@ public class VehicleMain {
 		System.out.println("Age of the car: "+c1.calculateAge(c1.year));  
 	}  
 }
-	 ```
+```
 	 
-	 - This method is not so good. For ex. Let's say we have to create 5 objects. Then we have to repeat the initialization 5 times. So we can create a method for this.
+   - This method is not so good. For ex. Let's say we have to create 5 objects. Then we have to repeat the initialization 5 times. So we can create a method for this.
 	
-2. ***By Methods***
+1. ***By Methods***
 
 ``` java
 package oops;  
