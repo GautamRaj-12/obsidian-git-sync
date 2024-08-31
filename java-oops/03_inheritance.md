@@ -26,5 +26,5 @@
 - Below does not take part in inheritance:
 	- ***Constructors***:A subclass inherits all the members (fields,methods, and nested classes) from its super class. Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass.
 	- ***Private Members***: A subclass  does not inherit the private members of its parent class. However, if the superclass has public or protected methods(like getters and setters) for accessing its private fields, these can also be used by the subclass.
-- There can only be one super class, not more than that, because java does not support mu
+- There can only be one super class, not more than that, because java does not support multiple inheritance.
 	
