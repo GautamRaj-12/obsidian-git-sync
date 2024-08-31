@@ -203,3 +203,87 @@ This example illustrates how multilevel inheritance builds on a base class, addi
 
 ### Hierarchical Inheritance
 
+## Explanation of Hierarchical Inheritance
+
+### Key Concepts
+
+#### Base Class - `User`
+
+- **Description**: The root class providing common properties and methods for all types of users.
+- **Attributes**:
+  - `name`
+  - `email`
+- **Methods**:
+  - `setDetails(String n, String e)`
+  - `displayIntro()`
+  - `seeContent()`
+  - `watchFreeVideos()`
+
+#### Subclasses Extending `User`
+
+- **Description**: Multiple subclasses inherit from the `User` class, forming a hierarchy where these subclasses share features from the base class and can introduce their own specific features.
+
+##### Subclass - `PrimeUser`
+
+- **Inherits from**: `User`
+- **Additional Attributes**:
+  - `subscription`
+  - `months`
+- **Additional Methods**:
+  - `initData(int s, int m)`
+  - `watchPremiumVideos()`
+- **Overridden Methods**:
+  - `displayIntro()`: Customized to reflect prime user status.
+
+##### Subclass - `ProUser`
+
+- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
+- **Overridden Methods**:
+  - `displayIntro()`: Customized to reflect pro user status and device access.
+- **Additional Methods**: No new methods introduced.
+
+##### Subclass - `VipUser`
+
+- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
+- **Overridden Methods**:
+  - `displayIntro()`: Customized to reflect VIP user status and device access.
+- **Additional Methods**:
+  - `watchLocationRestrictedContent()`: Introduced for VIP users.
+
+### How Hierarchical Inheritance Works
+
+#### Class Hierarchy
+
+- **Hierarchy**:
+  - `User` → `PrimeUser` → `ProUser`
+  - `User` → `PrimeUser` → `VipUser`
+- Both `ProUser` and `VipUser` extend `PrimeUser`, and `PrimeUser` extends `User`. This allows both `ProUser` and `VipUser` to access features from both `User` and `PrimeUser`.
+
+#### Method Overriding
+
+- Each subclass can override methods from its parent class to provide specific implementations:
+  - `PrimeUser` overrides `displayIntro()` from `User`.
+  - `ProUser` and `VipUser` further override `displayIntro()` from `PrimeUser`.
+
+#### Access to Methods
+
+- **`ProUser` Object**: 
+  - Can use methods from `User` and `PrimeUser` and has additional features introduced in `ProUser`.
+- **`VipUser` Object**: 
+  - Can use methods from `User`, `PrimeUser`, and additional features introduced in `VipUser`.
+
+### Summary of Execution Flow
+
+- **`User` Object (`u1`)**:
+  - Accesses common user features but not specific features from `PrimeUser`, `ProUser`, or `VipUser`.
+  
+- **`PrimeUser` Object (`pu1`)**:
+  - Accesses all features from `User` and additional prime features. Cannot access features specific to `ProUser` or `VipUser`.
+  
+- **`ProUser` Object (`p1`)**:
+  - Accesses all features from `User` and `PrimeUser`, with additional features specific to `ProUser`.
+  
+- **`VipUser` Object (`v1`)**:
+  - Accesses all features from `User`, `PrimeUser`, and additional features specific to `VipUser`.
+
+This example illustrates hierarchical inheritance by showing how multiple subclasses inherit from a single base class and build upon its features, each adding or modifying functionality specific to different user types.
