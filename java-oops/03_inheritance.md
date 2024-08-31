@@ -419,36 +419,36 @@ public class AmazonPrimeHierarchicalInheritance {
 
 	- **Description**: Multiple subclasses inherit from the `User` class, forming a hierarchy where these subclasses share features from the base class and can introduce their own specific features.
 
-### Subclass - `PrimeUser`
+- **Subclass - `PrimeUser`**
+	
+	- **Inherits from**: `User`
+	- **Additional Attributes**:
+	  - `subscription`
+	  - `months`
+	- **Additional Methods**:
+	  - `initData(int s, int m)`
+	  - `watchPremiumVideos()`
+	- **Overridden Methods**:
+	  - `displayIntro()`: Customized to reflect prime user status.
 
-- **Inherits from**: `User`
-- **Additional Attributes**:
-  - `subscription`
-  - `months`
-- **Additional Methods**:
-  - `initData(int s, int m)`
-  - `watchPremiumVideos()`
-- **Overridden Methods**:
-  - `displayIntro()`: Customized to reflect prime user status.
+- **Subclass - `ProUser`**
 
-##### Subclass - `ProUser`
+	- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
+	- **Overridden Methods**:
+	  - `displayIntro()`: Customized to reflect pro user status and device access.
+	- **Additional Methods**: No new methods introduced.
 
-- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
-- **Overridden Methods**:
-  - `displayIntro()`: Customized to reflect pro user status and device access.
-- **Additional Methods**: No new methods introduced.
+- **Subclass - `VipUser`**
 
-##### Subclass - `VipUser`
+	- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
+	- **Overridden Methods**:
+	  - `displayIntro()`: Customized to reflect VIP user status and device access.
+	- **Additional Methods**:
+	  - `watchLocationRestrictedContent()`: Introduced for VIP users.
 
-- **Inherits from**: `PrimeUser` (which indirectly inherits from `User`)
-- **Overridden Methods**:
-  - `displayIntro()`: Customized to reflect VIP user status and device access.
-- **Additional Methods**:
-  - `watchLocationRestrictedContent()`: Introduced for VIP users.
+-  **How Hierarchical Inheritance Works**
 
-### How Hierarchical Inheritance Works
-
-#### Class Hierarchy
+	-  **Class Hierarchy**
 
 - **Hierarchy**:
   - `User` → `PrimeUser` → `ProUser`
