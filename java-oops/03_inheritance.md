@@ -28,7 +28,7 @@
 	- ***Private Members***: A subclass  does not inherit the private members of its parent class. However, if the superclass has public or protected methods(like getters and setters) for accessing its private fields, these can also be used by the subclass.
 - There can only be one super class, not more than that, because java does not support multiple inheritance.
 
-### Single Inheritance
+## Single Inheritance
 ```java
 package oops.single_inheritance;  
   
@@ -93,9 +93,10 @@ public class AmazonPrimeSingleInheritance {
     }  
 }
 ```
-# Understanding Inheritance with Java Example
 
-## Key Concepts in Inheritance
+### Understanding Inheritance with Java Example
+
+### Key Concepts in Inheritance
 
 1. **Inheritance**:
    - Inheritance is a mechanism where a new class (subclass) inherits properties and behaviors (fields and methods) from an existing class (base class or superclass). This allows for code reuse and the creation of a hierarchical relationship between classes.
