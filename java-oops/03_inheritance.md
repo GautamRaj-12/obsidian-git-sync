@@ -18,3 +18,6 @@
 3. **Hierarchical Inheritance**:In hierarchical inheritance, one class is inherited by many sub classes.
 4. **Multiple Inheritance**: ***NOT SUPPORTED IN JAVA***: In multiple inheritance, one class extends more than one class.
 5.  **Hybrid Inheritance**: ***NOT SUPPORTED IN JAVA***: In hybrid inheritance, a combination of any two inheritances is used.
+## Points to Remember
+- Inheritance is achieved by using `extends` keyword.
+- Every class has a super or say parent class i.e. Object Class ()
