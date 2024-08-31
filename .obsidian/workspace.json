@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md"
+                "file": "java-oops/03_inheritance.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "7ada8707892fe03e",
   "lastOpenFiles": [
+    "java-oops/02_classes_objects_constructors.md",
     "java-oops/01_introduction_to_oops.md",
     "java-oops/03_inheritance.md",
     "designs/designs.md",
     "designs",
     "java-oops/02_classes_and_objects.md",
-    "java-oops/02_classes_objects_constructors.md",
     "java-oops",
     "react-native/03_file_structure.md",
     "react-native/02_creating_and_running_a_program.md",
