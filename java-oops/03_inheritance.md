@@ -23,3 +23,5 @@
 - Every class has a super or say parent class.
 	- If we create a class that does not extends any class. Then by default it extends **Object Class.**
 	- So **Object Class** is a parent class of all classes in Java.
+- Below does not take part in inheritance:
+	- ***Constructors***:A subclass inherits
