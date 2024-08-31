@@ -130,3 +130,76 @@ This example encapsulates how inheritance allows the creation of more specialize
 ```java
 
 ```
+# Understanding Multilevel Inheritance with Java Example
+
+## Key Concepts
+
+1. **Base Class - `User`**:
+   - The foundational class that provides common properties and methods for all users.
+   - **Attributes**:
+     - `name`
+     - `email`
+   - **Methods**:
+     - `setDetails(String n, String e)`
+     - `displayIntro()`
+     - `seeContent()`
+     - `watchFreeVideos()`
+
+2. **Intermediate Class - `PrimeUser`**:
+   - Extends `User`, inheriting all properties and methods from `User`.
+   - **Additional Attributes**:
+     - `subscription`
+     - `months`
+   - **Additional Methods**:
+     - `initData(int s, int m)`
+     - `watchPremiumVideos()`
+   - **Overridden Methods**:
+     - `displayIntro()`: Provides specific information for prime users.
+
+3. **Derived Class - `VipUser`**:
+   - Extends `PrimeUser`, making it a subclass of both `PrimeUser` and `User`.
+   - **Additional Methods**:
+     - `watchLocationRestrictedContent()`
+   - **Overridden Methods**:
+     - `displayIntro()`: Provides specific information for VIP users.
+
+## How Multilevel Inheritance Works
+
+- **Class Hierarchy**:
+  - The inheritance chain is:
+    - `User` → `PrimeUser` → `VipUser`
+  - `VipUser` inherits from `PrimeUser`, which inherits from `User`. This chain allows `VipUser` to access methods from both `PrimeUser` and `User`.
+
+- **Method Overriding**:
+  - Each class in the hierarchy can override methods from its parent class:
+    - `PrimeUser` overrides `displayIntro()` from `User`.
+    - `VipUser` further overrides `displayIntro()` to provide VIP-specific details.
+
+- **Access to Methods**:
+  - A `VipUser` object (`v1`) can call methods from all three classes:
+    - **From `User`**:
+      - `setDetails()`
+      - `seeContent()`
+      - `watchFreeVideos()`
+    - **From `PrimeUser`**:
+      - `displayIntro()`
+      - `watchPremiumVideos()`
+    - **From `VipUser`**:
+      - `watchLocationRestrictedContent()`
+  - A `User` object cannot access methods specific to `PrimeUser` or `VipUser`.
+
+## Summary of the Execution Flow
+
+- **User Object (`u1`)**:
+  - Created to access common user features. It cannot access methods specific to `PrimeUser` or `VipUser`.
+
+- **PrimeUser Object (`pu1`)**:
+  - Created with additional prime features. It can access all `User` and `PrimeUser` methods but not those specific to `VipUser`.
+
+- **VipUser Object (`v1`)**:
+  - Created with features from `User`, `PrimeUser`, and additional VIP features. Demonstrates the full extent of multilevel inheritance by accessing all methods from the hierarchy.
+
+This example illustrates how multilevel inheritance builds on a base class, adding complexity and functionality through intermediate and derived classes, promoting code reuse and hierarchical organization.
+
+### Hierarchical Inheritance
+
