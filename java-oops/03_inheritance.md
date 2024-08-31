@@ -11,3 +11,6 @@
 	- It promotes runtime polymorphism by allowing method overriding.
 ## Disadvantages of Inheritance
 - Using inheritance the parent and the child class gets tightly coupled.
+
+## Types of Inheritance
+1. **Single Inheritance**: In single inheritance, one class extends another class
