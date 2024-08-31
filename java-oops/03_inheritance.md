@@ -8,4 +8,6 @@
 	- Sparrow `IS-A` Bird
 ## Advantages of Inheritance
 - Code Re-usability
-	- It promotes runtime polymorphism by a
+	- It promotes runtime polymorphism by allowing method overriding.
+## Disadvantages of Inheritance
+- Using inheritance the parent and the child class gets tightly coupled.
