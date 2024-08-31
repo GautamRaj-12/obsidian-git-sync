@@ -16,4 +16,5 @@
 1. **Single Inheritance**: In single inheritance, one class extends another class(one class only).
 2. **Multilevel Inheritance**: In multilevel inheritance, one class can inherit from a derived class. Hence the derived class becomes the base class for a new class.
 3. **Hierarchical Inheritance**:In hierarchical inheritance, one class is inherited by many sub classes.
-4. **Multiple Inheritance**: ***NOT SUPPORT***
+4. **Multiple Inheritance**: ***NOT SUPPORTED IN JAVA***: In multiple inheritance, one class extends more than one class.
+5. **Hybrid Inheritance**: ***NOT SUPPORTED IN JAVA***: I
