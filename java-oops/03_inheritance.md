@@ -4,4 +4,8 @@
 - It represents the `IS-A` relationship which is also known as a parent-child relationship. For ex: 
 	- Dog `IS-A` Animal
 	- Car `IS-A` Vehicle
-	- 
+	- Surgeon `IS-A` Doctor
+	- Sparrow `IS-A` Bird
+## Advantages of Inheritance
+- Code Re-usability
+	- It promotes runtime polymorphism by a
