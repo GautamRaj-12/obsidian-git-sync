@@ -27,4 +27,47 @@
 	- ***Constructors***:A subclass inherits all the members (fields,methods, and nested classes) from its super class. Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass.
 	- ***Private Members***: A subclass  does not inherit the private members of its parent class. However, if the superclass has public or protected methods(like getters and setters) for accessing its private fields, these can also be used by the subclass.
 - There can only be one super class, not more than that, because java does not support multiple inheritance.
-	
+
+### Single Inheritance
+```java
+package oops;  
+  
+//Base Class - User  
+class User {  
+    String name;  
+    String email;  
+  
+    void seeContent(){  
+        System.out.println("You can browse the contents");  
+    }  
+    void watchFreeVideos() {  
+        System.out.println("You can watch free videos");  
+    }  
+}  
+  
+//Sub Class - PrimeUser extends User  
+class PrimeUser extends User{  
+    int subscription;  
+    int months;  
+    PrimeUser(int subscription,int months){  
+        this.subscription = subscription;  
+        this.months = months;  
+    }  
+    void watchPremiumVideos(){  
+        System.out.println("You can watch premium videos, You are subscribed at $ "+this.subscription+" for "+months+" months");  
+    }  
+}  
+public class AmazonPrime {  
+    public static void main(String[] args) {  
+        PrimeUser pu1 = new PrimeUser(99,6);  
+        pu1.seeContent();  
+        pu1.watchPremiumVideos();  
+        pu1.watchPremiumVideos();  
+  
+        User u1 = new User();  
+        // u1.watchPremiumVideos(); // ERROR  
+    }  
+}
+```
+
+### Multile
