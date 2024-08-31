@@ -107,20 +107,20 @@ public class AmazonPrimeSingleInheritance {
 3. **Derived Class (Sub Class)**:
    - The `PrimeUser` class is the derived class that extends the `User` class. It inherits all the properties and behaviors of the `User` class and also introduces additional attributes (`subscription`, `months`) and behaviors (`initData`, `watchPremiumVideos`).
 
-## How Inheritance Works in the Example
+### How Inheritance Works in the Example
 
 - **Accessing Inherited Methods**:
   - The `PrimeUser` class automatically has access to the methods defined in the `User` class, such as `setDetails`, `displayIntro`, `seeContent`, and `watchFreeVideos`.
   - In the `main` method, when an object of `PrimeUser` (i.e., `pu1`) is created, it can call these inherited methods directly.
 
 - **Overriding Methods**:
-  - The `PrimeUser` class overrides the `displayIntro` method of the `User` class. Method overriding allows the subclass to provide a specific implementation for a method that is already defined in its superclass.
+  - The `PrimeUser` class overrides the `displayIntro` method of the `User` class. ***Method overriding*** allows the subclass to provide a specific implementation for a method that is already defined in its superclass.
   - When `pu1.displayIntro()` is called, the `displayIntro` method in the `PrimeUser` class is executed instead of the one in the `User` class. This allows `PrimeUser` to customize the introduction message for prime users.
 
 - **New Methods in Subclass**:
   - The `PrimeUser` class adds a new method, `watchPremiumVideos`, which is not available in the `User` class. This method allows prime users to watch premium videos, reflecting the additional privileges of a prime user.
 
-## Important Observations
+### Important Observations
 
 - **Code Reusability**:
   - By using inheritance, the `PrimeUser` class doesn't need to redefine the common behaviors (`setDetails`, `seeContent`, `watchFreeVideos`). This promotes code reuse and makes the code more maintainable.
