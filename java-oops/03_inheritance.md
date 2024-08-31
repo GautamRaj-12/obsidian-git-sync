@@ -25,4 +25,4 @@
 	- So **Object Class** is a parent class of all classes in Java.
 - Below does not take part in inheritance:
 	- ***Constructors***:A subclass inherits all the members (fields,methods, and nested classes) from its super class. Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass.
-	- ***Private Members***: A subclass  does not inherit the private mem
+		- ***Private Members***: A subclass  does not inherit the private members of its parent class. However, if the superclass has public or protected methods(like getters and setters)
