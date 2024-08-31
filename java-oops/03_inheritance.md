@@ -8,7 +8,7 @@
 	- Sparrow `IS-A` Bird
 ## Advantages of Inheritance
 - Code Re-usability
-	- It promotes runtime polymorphism by allowing method overriding.
+- It promotes runtime polymorphism by allowing method overriding.
 ## Disadvantages of Inheritance
 - Using inheritance the parent and the child class gets tightly coupled.
 
@@ -17,4 +17,4 @@
 2. **Multilevel Inheritance**: In multilevel inheritance, one class can inherit from a derived class. Hence the derived class becomes the base class for a new class.
 3. **Hierarchical Inheritance**:In hierarchical inheritance, one class is inherited by many sub classes.
 4. **Multiple Inheritance**: ***NOT SUPPORTED IN JAVA***: In multiple inheritance, one class extends more than one class.
-5. **Hybrid Inheritance**: ***NOT SUPPORTED IN JAVA***: I
+5.  **Hybrid Inheritance**: ***NOT SUPPORTED IN JAVA***: In hybrid inheritance, a combination of any two inheritances is used.
