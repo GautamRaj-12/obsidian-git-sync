@@ -13,4 +13,5 @@
 - Using inheritance the parent and the child class gets tightly coupled.
 
 ## Types of Inheritance
-1. **Single Inheritance**: In single inheritance, one class extends another class
+1. **Single Inheritance**: In single inheritance, one class extends another class(one class only).
+2. **Multilevel Inheritance**: In multilevel inheritance, one class can inherit from a derived class. Hence the derived class becomes
