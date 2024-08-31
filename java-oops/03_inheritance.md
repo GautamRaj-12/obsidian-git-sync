@@ -20,4 +20,6 @@
 5.  **Hybrid Inheritance**: ***NOT SUPPORTED IN JAVA***: In hybrid inheritance, a combination of any two inheritances is used.
 ## Points to Remember
 - Inheritance is achieved by using `extends` keyword.
-- Every class has a super or say parent class i.e. Object Class ()
+- Every class has a super or say parent class.
+	- If we create a class that does not extends any class. Then by default it extends **Object Class.**
+	- So **Object Class** is a parent class of all classes in Java.
