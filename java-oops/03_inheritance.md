@@ -128,7 +128,7 @@ public class AmazonPrimeSingleInheritance {
 - **Error on Accessing Subclass-Specific Methods via Superclass Object**:
   - The code `u1.watchPremiumVideos()` is commented out because it would result in a compilation error. This is because `u1` is an object of the `User` class, and the `User` class does not have a `watchPremiumVideos` method. The method is specific to the `PrimeUser` class, illustrating that subclass-specific methods are not accessible through a superclass reference.
 
-## Summary of the Execution Flow
+### Summary of the Execution Flow
 
 - A `User` object (`u1`) is created, and basic user details are set. The user can see content and watch free videos, but not premium videos.
 - A `PrimeUser` object (`pu1`) is created, which has all the capabilities of a regular user plus the ability to watch premium videos. The prime user can also see content and watch free videos, but they receive a different introduction and additional privileges.
@@ -138,11 +138,92 @@ This example encapsulates how inheritance allows the creation of more specialize
 
 ### Multilevel Inheritance
 ```java
-
+package oops.multi_level_inheritance;  
+//Base Class - User  
+class User {  
+    String name;  
+    String email;  
+  
+    void setDetails(String n,String e){  
+        name = n;  
+        email= e;  
+    }  
+    void displayIntro(){  
+        System.out.println("You are NOT A PRIME user");  
+        System.out.println("Name: "+name+", Email: "+email);  
+    }  
+    void seeContent(){  
+        System.out.println("You can browse the contents");  
+    }  
+    void watchFreeVideos() {  
+        System.out.println("You can watch free videos");  
+    }  
+}  
+  
+//Sub Class - PrimeUser extends User - Single Inheritance  
+class PrimeUser extends User {  
+    int subscription;  
+    int months;  
+  
+    void initData(int s, int m){  
+        subscription = s;  
+        months = m;  
+    }  
+    void displayIntro(){  
+        System.out.println("You are a PRIME user");  
+        System.out.println("Name: "+name+", Email: "+email);  
+    }  
+    void watchPremiumVideos(){  
+        System.out.println("You can watch premium videos, You are subscribed at $ "+subscription+" for "+months+" months");  
+    }  
+}  
+  
+// Sub Class - VipUser extends User - MultiLevel Inheritance  
+class VipUser extends PrimeUser{  
+    void displayIntro(){  
+        System.out.println("You are a VIP user");  
+        System.out.println("Name: "+name+", Email: "+email);  
+    }  
+    void watchLocationRestrictedContent(){  
+        System.out.println("You can watch location restricted content");  
+    }  
+}  
+  
+public class AmazonPrimeMultiLevelInheritance {  
+    public static void main(String[] args) {  
+  
+        System.out.println("----------------------------------------------------------");  
+        User u1 = new User();  
+        u1.setDetails("Dennis","dennis@gmail.com");  
+        u1.displayIntro();  
+        u1.seeContent();  
+        u1.watchFreeVideos();  
+        // u1.watchPremiumVideos(); // ERROR  
+  
+        System.out.println("----------------------------------------------------------");  
+        PrimeUser pu1 = new PrimeUser();  
+        pu1.initData(299,3);  
+        pu1.setDetails("John","john@gmail.com");  
+        pu1.displayIntro();  
+        pu1.seeContent();  
+        pu1.watchFreeVideos();  
+        pu1.watchPremiumVideos();  
+  
+        System.out.println("----------------------------------------------------------");  
+        VipUser v1 = new VipUser();  
+        v1.initData(1000,6);  
+        v1.setDetails("Marcus","marcus@gmail.com");  
+        v1.displayIntro();  
+        v1.seeContent();  
+        v1.watchFreeVideos();  
+        v1.watchPremiumVideos();  
+        v1.watchLocationRestrictedContent();  
+    }  
+}
 ```
-# Understanding Multilevel Inheritance with Java Example
+### Understanding Multilevel Inheritance with Java Example
 
-## Key Concepts
+### Key Concepts
 
 1. **Base Class - `User`**:
    - The foundational class that provides common properties and methods for all users.
@@ -173,7 +254,7 @@ This example encapsulates how inheritance allows the creation of more specialize
    - **Overridden Methods**:
      - `displayIntro()`: Provides specific information for VIP users.
 
-## How Multilevel Inheritance Works
+### How Multilevel Inheritance Works
 
 - **Class Hierarchy**:
   - The inheritance chain is:
@@ -198,7 +279,7 @@ This example encapsulates how inheritance allows the creation of more specialize
       - `watchLocationRestrictedContent()`
   - A `User` object cannot access methods specific to `PrimeUser` or `VipUser`.
 
-## Summary of the Execution Flow
+### Summary of the Execution Flow
 
 - **User Object (`u1`)**:
   - Created to access common user features. It cannot access methods specific to `PrimeUser` or `VipUser`.
