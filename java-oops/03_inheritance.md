@@ -84,6 +84,47 @@ public class AmazonPrime {
     }  
 }
 ```
+# Understanding Inheritance with Java Example
+
+## Key Concepts in Inheritance
+
+1. **Inheritance**:
+   - Inheritance is a mechanism where a new class (subclass) inherits properties and behaviors (fields and methods) from an existing class (base class or superclass). This allows for code reuse and the creation of a hierarchical relationship between classes.
+
+2. **Base Class (Super Class)**:
+   - The `User` class is the base class in this example. It defines common attributes (`name`, `email`) and behaviors (methods like `setDetails`, `displayIntro`, `seeContent`, and `watchFreeVideos`) that are applicable to all users.
+
+3. **Derived Class (Sub Class)**:
+   - The `PrimeUser` class is the derived class that extends the `User` class. It inherits all the properties and behaviors of the `User` class and also introduces additional attributes (`subscription`, `months`) and behaviors (`initData`, `watchPremiumVideos`).
+
+## How Inheritance Works in the Example
+
+- **Accessing Inherited Methods**:
+  - The `PrimeUser` class automatically has access to the methods defined in the `User` class, such as `setDetails`, `displayIntro`, `seeContent`, and `watchFreeVideos`.
+  - In the `main` method, when an object of `PrimeUser` (i.e., `pu1`) is created, it can call these inherited methods directly.
+
+- **Overriding Methods**:
+  - The `PrimeUser` class overrides the `displayIntro` method of the `User` class. Method overriding allows the subclass to provide a specific implementation for a method that is already defined in its superclass.
+  - When `pu1.displayIntro()` is called, the `displayIntro` method in the `PrimeUser` class is executed instead of the one in the `User` class. This allows `PrimeUser` to customize the introduction message for prime users.
+
+- **New Methods in Subclass**:
+  - The `PrimeUser` class adds a new method, `watchPremiumVideos`, which is not available in the `User` class. This method allows prime users to watch premium videos, reflecting the additional privileges of a prime user.
+
+## Important Observations
+
+- **Code Reusability**:
+  - By using inheritance, the `PrimeUser` class doesn't need to redefine the common behaviors (`setDetails`, `seeContent`, `watchFreeVideos`). This promotes code reuse and makes the code more maintainable.
+
+- **Error on Accessing Subclass-Specific Methods via Superclass Object**:
+  - The code `u1.watchPremiumVideos()` is commented out because it would result in a compilation error. This is because `u1` is an object of the `User` class, and the `User` class does not have a `watchPremiumVideos` method. The method is specific to the `PrimeUser` class, illustrating that subclass-specific methods are not accessible through a superclass reference.
+
+## Summary of the Execution Flow
+
+- A `User` object (`u1`) is created, and basic user details are set. The user can see content and watch free videos, but not premium videos.
+- A `PrimeUser` object (`pu1`) is created, which has all the capabilities of a regular user plus the ability to watch premium videos. The prime user can also see content and watch free videos, but they receive a different introduction and additional privileges.
+
+This example encapsulates how inheritance allows the creation of more specialized classes (like `PrimeUser`) from a general class (`User`) while reusing existing code and enhancing functionality where needed.
+
 
 ### Multilevel Inheritance
 ```java
