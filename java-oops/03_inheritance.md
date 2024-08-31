@@ -24,4 +24,5 @@
 	- If we create a class that does not extends any class. Then by default it extends **Object Class.**
 	- So **Object Class** is a parent class of all classes in Java.
 - Below does not take part in inheritance:
-	- ***Constructors***:A subclass inherits all the members (fields,methods, and nested classes) from its super class. Constructors
+	- ***Constructors***:A subclass inherits all the members (fields,methods, and nested classes) from its super class. Constructors are not members, so they are not inherited by subclasses, but the constructor of the superclass can be invoked from the subclass.
+	- ***Private Members***: A subclass  does not inherit the private mem
