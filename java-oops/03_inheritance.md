@@ -403,23 +403,23 @@ public class AmazonPrimeHierarchicalInheritance {
 
 ### Key Concepts
 
-#### Base Class - `User`
+- **Base Class - `User`**
 
-- **Description**: The root class providing common properties and methods for all types of users.
-- **Attributes**:
-  - `name`
-  - `email`
-- **Methods**:
-  - `setDetails(String n, String e)`
-  - `displayIntro()`
-  - `seeContent()`
-  - `watchFreeVideos()`
+	- **Description**: The root class providing common properties and methods for all types of users.
+	- **Attributes**:
+	  - `name`
+	  - `email`
+	- **Methods**:
+	  - `setDetails(String n, String e)`
+	  - `displayIntro()`
+	  - `seeContent()`
+	  - `watchFreeVideos()`
 
-#### Subclasses Extending `User`
+- Subclasses Extending `User`
 
 - **Description**: Multiple subclasses inherit from the `User` class, forming a hierarchy where these subclasses share features from the base class and can introduce their own specific features.
 
-##### Subclass - `PrimeUser`
+### Subclass - `PrimeUser`
 
 - **Inherits from**: `User`
 - **Additional Attributes**:
