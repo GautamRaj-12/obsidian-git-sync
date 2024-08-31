@@ -415,9 +415,9 @@ public class AmazonPrimeHierarchicalInheritance {
 	  - `seeContent()`
 	  - `watchFreeVideos()`
 
-- Subclasses Extending `User`
+- **Subclasses Extending `User`**
 
-- **Description**: Multiple subclasses inherit from the `User` class, forming a hierarchy where these subclasses share features from the base class and can introduce their own specific features.
+	- **Description**: Multiple subclasses inherit from the `User` class, forming a hierarchy where these subclasses share features from the base class and can introduce their own specific features.
 
 ### Subclass - `PrimeUser`
 
