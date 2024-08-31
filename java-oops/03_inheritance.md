@@ -449,24 +449,21 @@ public class AmazonPrimeHierarchicalInheritance {
 -  **How Hierarchical Inheritance Works**
 
 	-  **Class Hierarchy**
+		- **Hierarchy**:
+		  - `User` → `PrimeUser` → `ProUser`
+		  - `User` → `PrimeUser` → `VipUser`
+		- Both `ProUser` and `VipUser` extend `PrimeUser`, and `PrimeUser` extends `User`. This allows both `ProUser` and `VipUser` to access features from both `User` and `PrimeUser`.
 
-- **Hierarchy**:
-  - `User` → `PrimeUser` → `ProUser`
-  - `User` → `PrimeUser` → `VipUser`
-- Both `ProUser` and `VipUser` extend `PrimeUser`, and `PrimeUser` extends `User`. This allows both `ProUser` and `VipUser` to access features from both `User` and `PrimeUser`.
+	- **Method Overriding**
+		- Each subclass can override methods from its parent class to provide specific implementations:
+		  - `PrimeUser` overrides `displayIntro()` from `User`.
+		  - `ProUser` and `VipUser` further override `displayIntro()` from `PrimeUser`.
 
-#### Method Overriding
-
-- Each subclass can override methods from its parent class to provide specific implementations:
-  - `PrimeUser` overrides `displayIntro()` from `User`.
-  - `ProUser` and `VipUser` further override `displayIntro()` from `PrimeUser`.
-
-#### Access to Methods
-
-- **`ProUser` Object**: 
-  - Can use methods from `User` and `PrimeUser` and has additional features introduced in `ProUser`.
-- **`VipUser` Object**: 
-  - Can use methods from `User`, `PrimeUser`, and additional features introduced in `VipUser`.
+	- **Access to Methods**
+		- **`ProUser` Object**: 
+		  - Can use methods from `User` and `PrimeUser` and has additional features introduced in `ProUser`.
+		- **`VipUser` Object**: 
+		  - Can use methods from `User`, `PrimeUser`, and additional features introduced in `VipUser`.
 
 ### Summary of Execution Flow
 
