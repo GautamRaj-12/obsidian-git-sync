@@ -58,7 +58,7 @@ class PrimeUser extends User{
         subscription = s;  
         months = m;  
     }  
-    // Ov
+    // Method Overriding
     void displayIntro(){  
         System.out.println("You are a PRIME user");  
     }  
