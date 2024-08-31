@@ -37,6 +37,9 @@ class User {
     String name;  
     String email;  
   
+    void displayIntro(){  
+        System.out.println("You are NOT A PRIME user");  
+    }  
     void seeContent(){  
         System.out.println("You can browse the contents");  
     }  
@@ -49,22 +52,34 @@ class User {
 class PrimeUser extends User{  
     int subscription;  
     int months;  
-    PrimeUser(int subscription,int months){  
-        this.subscription = subscription;  
-        this.months = months;  
+    String intro;  
+  
+    void initData(int s, int m){  
+        subscription = s;  
+        months = m;  
+    }  
+    // Ov
+    void displayIntro(){  
+        System.out.println("You are a PRIME user");  
     }  
     void watchPremiumVideos(){  
-        System.out.println("You can watch premium videos, You are subscribed at $ "+this.subscription+" for "+months+" months");  
+        System.out.println("You can watch premium videos, You are subscribed at $ "+subscription+" for "+months+" months");  
     }  
 }  
+  
 public class AmazonPrime {  
     public static void main(String[] args) {  
-        PrimeUser pu1 = new PrimeUser(99,6);  
+        PrimeUser pu1 = new PrimeUser();  
+        pu1.initData(299,3);  
+        pu1.displayIntro();  
         pu1.seeContent();  
+        pu1.watchFreeVideos();  
         pu1.watchPremiumVideos();  
-        pu1.watchPremiumVideos();  
-  
+        System.out.println("----------------------------------------------------------");  
         User u1 = new User();  
+        u1.displayIntro();  
+        u1.seeContent();  
+        u1.watchFreeVideos();  
         // u1.watchPremiumVideos(); // ERROR  
     }  
 }
