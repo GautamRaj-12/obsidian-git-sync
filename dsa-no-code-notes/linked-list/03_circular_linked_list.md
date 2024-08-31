@@ -51,8 +51,8 @@
 		- Traverse the list and find the tail node and its previous node.
 		   ![image](images/ll-39.png)
 		- Update the tail node’s previous node pointer to point to head.
-		   ![image](images/ll-.png)
+		   ![image](images/ll-40.png)
 		- Dispose of the tail node.
-		  ![[ll-41.png]]
+		   ![image](images/ll-41.png)
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last but one node.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` since only pointers are updated, and no extra space is required.
