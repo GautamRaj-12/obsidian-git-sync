@@ -6,5 +6,6 @@
 - [x] Creating a simple tour model
 - [x] Creating documents and Testing the model
 - [x] MVC Architecture
-- [ ] 
+- [x] Refactoring for MVC
+- [x] Another way of creating documents
 
