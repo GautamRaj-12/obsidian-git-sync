@@ -1,5 +1,7 @@
 ## 8. Using Mongodb with Mongoose
 
-[] Intro
-
+- [x] Intro
+- [x] Connecting DB with Express using Mongoose
+- [x] What is Mongoose
+- [ ] Creating a sinple
 
