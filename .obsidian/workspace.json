@@ -11,8 +11,12 @@
             "id": "1bb963edfefbd044",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "everyday-utils/Error Handling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-notes/linked-list/03_circular_linked_list.md",
+                "file": "everyday-utils/Error Handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-notes/linked-list/03_circular_linked_list.md",
+                "file": "everyday-utils/Error Handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-notes/linked-list/03_circular_linked_list.md"
+                "file": "everyday-utils/Error Handling.md"
               }
             }
           }
@@ -142,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "1bb963edfefbd044",
   "lastOpenFiles": [
+    "everyday-utils/everyday-utils.md",
+    "everyday-utils/Error Handling.md",
+    "dsa-notes/linked-list/03_circular_linked_list.md",
     "dsa-notes/linked-list/02_doubly_linked_list.md",
     "dsa-notes/linked-list/01_singly_linked_list.md",
     "dsa-notes/operations-on-ds.md",
@@ -159,7 +166,6 @@
     "react-native/03_file_structure.md",
     "react-native/02_creating_and_running_a_program.md",
     "react-native/01_introduction_and_installation.md",
-    "everyday-utils/everyday-utils.md",
     "react-native",
     "everyday-utils",
     "node-express-ts/node-express-ts setup.md",
@@ -185,11 +191,9 @@
     "node-express-ts",
     "css-tailwind/images",
     "Untitled.md",
-    "dsa-notes/linked-list/03_circular_linked_list.md",
     "conflict-files-obsidian-git.md",
     "images/ll-.md",
     "fastapi-exploration/05_query_parameters.md",
-    "fastapi-exploration/01_fastapi_intro.md",
     "Untitled.canvas"
   ]
 }
