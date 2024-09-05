@@ -69,7 +69,35 @@ try {
 console.log("This line will execute because the error was handled");
 ```
 
-- ***Error Instance Propertoes***
+- ***Error Instance Properties***
+
+```js
+let person = null;
+
+try {
+  console.log(person.name); // This will throw an error, but it will be caught
+} catch (error) {
+  console.error("An error occurred: " + error.name); // Error is handled here
+    console.error("An error occurred: " + error.message)
+    console.error("An error occurred: " + error.stack)
+    console.error("An error occurred: " + error)
+}
+
+console.log("This line will execute because the error was handled");
+```
+
+```shell
+- An error occurred: TypeError
+(anonymous) @ VM364:6
+- VM364:7 An error occurred: Cannot read properties of null (reading 'name')
+(anonymous) @ VM364:7
+VM364:8 An error occurred: TypeError: Cannot read properties of null (reading 'name')
+    at <anonymous>:4:22
+(anonymous) @ VM364:8
+VM364:9 An error occurred: TypeError: Cannot read properties of null (reading 'name')
+(anonymous) @ VM364:9
+VM364:12 
+```
 ### Practical Example - ATM Withdrawal (Without Error Handling)
 ```js
 function withdrawMoney(balance, amount) {
