@@ -5,4 +5,11 @@
   ![image](images/image-1.png)
 ## Types of OS
 - **Batch OS**
-- **Time Shari**
+- **Time Sharing OS**
+- **Distributed OS**
+- **Network OS**
+- **Real Time OS**
+- **Multi Programming/Tasking OS**
+
+## Functions of OS
+- 
