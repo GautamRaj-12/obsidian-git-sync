@@ -11,7 +11,7 @@ class LinkedList {
   }
 
   // Function to add a new node at the end of the list
-  add(data) {
+  insertAtEnd(data) {
     const newNode = new Node(data);
     if (!this.head) {
       // If the list is empty, make the new node the head
@@ -44,7 +44,7 @@ const L = new LinkedList();
 const arr = [2, 5, 8, 7];
 
 // Adding all elements of the array to the linked list
-arr.forEach((num) => L.add(num));
+arr.forEach((num) => L.insertAtEnd(num));
 
 // Printing the linked list
 L.printList();
