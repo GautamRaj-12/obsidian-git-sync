@@ -8,11 +8,15 @@ class LinkedList {
   constructor() {
     this.head = null;
   }
+  add(data) {
+    const newNode = new Node(data);
+  }
 }
+
+const L1 = new LinkedList();
 const arr = [2, 5, 8, 7];
-const y = new Node(arr[0]);
-console.log(y.data);
-console.log(y.next);
+
+arr.forEach((num) => L1.add(num));
 
 // add an element at the end of the list
 // insert element at a position index
