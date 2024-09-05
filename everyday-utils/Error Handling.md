@@ -78,7 +78,7 @@ VM33:2 Uncaught TypeError: Cannot read properties of null (reading 'name')
 ```
 
 - The `Error` object can also be used as a base object for user-defined exceptions.
-- Used when the error can happen
+-  It is useful when you want to signal errors due to logical issues rather than syntax or runtime failures.
 - The following code gives an user defined error.
 ```js
 let person = null;
