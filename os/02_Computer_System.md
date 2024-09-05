@@ -16,6 +16,8 @@
 ### System Call(Monitor Call)
 - Software may trigger an interrupt by executing a special operation called System Call.
 
+## 
 - When the CPU is interrupted, it stops what it is doing and immediately transfers execution to a ***fixed location***.
 - The fixed location usually contains the starting address where the service routine if the interrupt is located.
-- 
+- The Interrupt Service Routine Executes (ISR)
+- On Completion, the CPU resumes the interrupted computation.
