@@ -63,4 +63,5 @@ console.log("Program continues without crashing");
 ```
 
 ## Error object in JS
-- 
+- `Error` objects are thrown automatically when runtime errors occur.
+- The `Error` object can also be used as a base object for user-def
