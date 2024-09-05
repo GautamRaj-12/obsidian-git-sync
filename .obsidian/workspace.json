@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+                "file": "os/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+                "file": "os/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+                "file": "os/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-multithreading/01_multitasking_multiprocessing_multithreading.md"
+                "file": "os/Introduction.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "f1b185ff288e2ed5",
   "lastOpenFiles": [
-    "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
+    "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
+    "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "os/process vs thread.md",
     "os/images/image-1.png",
