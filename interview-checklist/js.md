@@ -23,5 +23,5 @@
 - [ ] Promises
 - [ ] async/await
 ## Extra
-- [ ] Error Handling, Error Objects, Error Types, Error Proper
- 
+- [ ] Error Handling, Error Objects, Error Types, Error Properties
+   
