@@ -14,4 +14,4 @@
 - The occurrence of an event is usually signalled by an Interrupt from Hardware or Software
 - Hardware may trigger an interrupt at any time by sending a signal to the CPU, usually by the way of the system bus.
 ### System Call(Monitor Call)
-- Software may 
+- Software may trigger an interrupt by executing a special operation called System Call.
