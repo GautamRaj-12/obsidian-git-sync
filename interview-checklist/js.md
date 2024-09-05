@@ -1,3 +1,8 @@
 - [ ] call stack
 - [ ] primitive types
-- [ ] implicit, expl
+- [ ] implicit, explicit, nominal, structuring, duck typing
+- [ ] == vs === vs typeof
+- [ ] function scope, block scope and lexical scope
+- [ ] expression vs statement
+- [ ] message queue and event loop
+- [ ] setTimeout, setInterval 
