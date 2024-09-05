@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "interview-checklist/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "interview-checklist/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "interview-checklist/js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "everyday-utils/Error Handling.md"
+                "file": "interview-checklist/js.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "1bc48db9642bfb37",
   "lastOpenFiles": [
+    "everyday-utils/Error Handling.md",
+    "interview-checklist/js.md",
+    "interview-checklist",
     "md/function_usefulness.md",
     "md/leetcode/remove_duplicates.pdf",
-    "everyday-utils/Error Handling.md",
     "md/BG/ch-2-the_sankhya_yoga_the_path_of_knowledge.md",
     "md/BG/ch-1-setting_the_stage.md",
     "md/BG",
@@ -176,7 +178,6 @@
     "md/r-programming/mcs229-pyq/j23-set1.pdf",
     "md/r-programming/mcs229-pyq/j23-set1.md",
     "md/r-programming/mcs229-pyq/images",
-    "md/r-programming/mcs229-pyq",
     "md/r-programming/mcsl229-lab-questions/images/q9.png",
     "md/r-programming/mcsl229-lab-questions/mcsl229-book.md",
     "md/r-programming/multiple_regression.md",
