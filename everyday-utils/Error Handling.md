@@ -1,4 +1,4 @@
-## JavaScript
+## Error Handling In JavaScript
 ### Program that crashes (without error handling)
 - This JavaScript code will crash when trying to access a property of `undefined`.
 ```javascript
