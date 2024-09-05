@@ -41,7 +41,8 @@ VM180:3 Uncaught Error: Name can't be null
 - **InternalError**: Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".
 
 ## Error Instance Properties
-- **Error message.** For user-created `Error` objects, this is the string provided as the constructor's first argument.
+- **message**:  Error message for user-created `Error` objects, this is the string provided as the constructor's first argument.
+- **name**: Represents the name for the type of error. For `Error.prototype.name`, the initial value is `"Error"`. Subclasses like [`TypeError`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError) and [`SyntaxError`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError) provide their own `name` properties.
 ## Error Handling In JavaScript
 ### Program that crashes (without error handling)
 - This JavaScript code will crash when trying to access a property of `undefined`.
