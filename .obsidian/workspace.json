@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ebf7ae31f006563",
+        "id": "81934ea769dab212",
         "type": "tabs",
         "children": [
           {
-            "id": "1bc48db9642bfb37",
+            "id": "f1b185ff288e2ed5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bc48db9642bfb37",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
-    "interview-checklist/nodejs.md",
+    "os/images/Pasted image 20240905170555.png",
     "os/Introduction.md",
+    "os/images",
+    "interview-checklist/nodejs.md",
     "interview-checklist/js.md",
     "everyday-utils/Error Handling.md",
     "interview-checklist",
@@ -179,8 +181,6 @@
     "md/r-programming/mcs229-pyq/j23-set2.md",
     "md/r-programming/mcs229-pyq/j23-set1.pdf",
     "md/r-programming/mcs229-pyq/j23-set1.md",
-    "md/r-programming/mcs229-pyq/images",
-    "md/r-programming/mcsl229-lab-questions/images/q9.png",
     "md/r-programming/mcsl229-lab-questions/mcsl229-book.md",
     "md/r-programming/multiple_regression.md",
     "md/r-programming/matrices.md",
@@ -193,7 +193,6 @@
     "md/functions_python.md",
     "md/QP.md",
     "md/I.6.P.3.Force.md",
-    "md/I.6.P.3.Force(QP).md",
     "Untitled.canvas"
   ]
 }
