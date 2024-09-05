@@ -148,9 +148,9 @@
   },
   "active": "f1b185ff288e2ed5",
   "lastOpenFiles": [
-    "os/images/image-2.png",
-    "os/02_Computer_System.md",
     "os/01_Introduction.md",
+    "os/02_Computer_System.md",
+    "os/images/image-2.png",
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
