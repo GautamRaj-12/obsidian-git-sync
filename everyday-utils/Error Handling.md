@@ -80,7 +80,13 @@ VM33:2 Uncaught TypeError: Cannot read properties of null (reading 'name')
 ```js
 let person = null;
 if(person===null){
-    throw new Error("Name can't be null")}
+    throw new Error("Name can't be null")
+}
 console.log(person);
 console.log("This line will not execute because of the crash");
+```
+
+```shell
+VM180:3 Uncaught Error: Name can't be null
+    at <anonymous>:3:11
 ```
