@@ -148,6 +148,12 @@
   },
   "active": "1bb963edfefbd044",
   "lastOpenFiles": [
+    "aws/readme.md",
+    "aws/04_budget.md",
+    "aws/01_introduction.md",
+    "aws/03_ec2.md",
+    "aws/02_aws_iam.md",
+    "aws",
     "everyday-utils/everyday-utils.md",
     "everyday-utils/Error Handling.md",
     "dsa-notes/linked-list/03_circular_linked_list.md",
@@ -187,13 +193,7 @@
     "docker/docker.md",
     "css-tailwind/css-animations.md",
     "node-express-ts/images",
-    "node-express-ts/Untitled.md",
     "node-express-ts",
-    "css-tailwind/images",
-    "Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "images/ll-.md",
-    "fastapi-exploration/05_query_parameters.md",
     "Untitled.canvas"
   ]
 }
