@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "interview-checklist/nodejs.md",
+                "file": "os/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "interview-checklist/nodejs.md",
+                "file": "os/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "interview-checklist/nodejs.md",
+                "file": "os/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "interview-checklist/nodejs.md"
+                "file": "os/Introduction.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "1bc48db9642bfb37",
   "lastOpenFiles": [
-    "interview-checklist/js.md",
     "interview-checklist/nodejs.md",
+    "os/Introduction.md",
+    "interview-checklist/js.md",
     "everyday-utils/Error Handling.md",
     "interview-checklist",
     "md/function_usefulness.md",
@@ -193,7 +194,6 @@
     "md/QP.md",
     "md/I.6.P.3.Force.md",
     "md/I.6.P.3.Force(QP).md",
-    "md/I.6.P.2.Measurement.md",
     "Untitled.canvas"
   ]
 }
