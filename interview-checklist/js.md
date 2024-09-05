@@ -5,4 +5,10 @@
 - [ ] function scope, block scope and lexical scope
 - [ ] expression vs statement
 - [ ] message queue and event loop
-- [ ] setTimeout, setInterval 
+- [ ] setTimeout, setInterval and requestAnimationFrame
+- [ ] JS Engines
+- [ ] DOM and Layout Trees
+- [ ] Factories and Classes
+- [ ] this, call, apply and bind
+- [ ] new, constructor, instance of and instances
+- [ ] proto
