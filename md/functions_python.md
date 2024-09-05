@@ -38,7 +38,7 @@ Outside Function
 2. All the code inside the function is executed.
 3. The control of the program jumps to the next statement after the function call.
 
-![alt text](image-2.png)
+![alt text](md/image-2.png)
 
 ## Arguments and Parameters
 

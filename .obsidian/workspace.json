@@ -148,8 +148,9 @@
   },
   "active": "f1b185ff288e2ed5",
   "lastOpenFiles": [
-    "os/01_Introduction.md",
+    "os/images/image-2.png",
     "os/02_Computer_System.md",
+    "os/01_Introduction.md",
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
@@ -178,7 +179,6 @@
     "md/r-programming/mcs229-pyq/images/j23-set2-q1.png",
     "md/r-programming/mcs229-pyq/images/j23-set1-q2.png",
     "md/r-programming/mcs229-pyq/images/j23-set1-q1.png",
-    "md/r-programming/mcs229-pyq/images/j23-set1-q1-1.png",
     "md/r-programming/mcs229-pyq/j23-set4.pdf",
     "md/r-programming/mcs229-pyq/j23-set4.md",
     "md/r-programming/mcs229-pyq/j23-set3.pdf",
@@ -193,7 +193,6 @@
     "md/r-programming/logistic_regression.md",
     "md/r-programming/linear_regression.md",
     "md/r-programming/chi_square_test.md",
-    "md/r-programming/charts.md",
     "Untitled.canvas"
   ]
 }

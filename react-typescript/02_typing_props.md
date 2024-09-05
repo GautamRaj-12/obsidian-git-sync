@@ -2,7 +2,7 @@
 	-  In this we are trying to render Greet component with name prop but as we have not defined that Greet will accept props, We get red squiggly line.
 
 	 ![image](react-typescript/images/image-1.png)
-	![image](images/image-2.png)
+	![image](react-typescript/images/image-2.png)
 	
 - Now, in ***`Greet.tsx`*** we define props. Now we get red squiggly line on props argument. Because it is of 'any' type.
 
