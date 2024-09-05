@@ -4,11 +4,11 @@
 - Ex:  Windows, Ubuntu(Linux), MacOs, iOs, Android
   ![image](images/image-1.png)
 
-## # Why Do We Need an Operating System?
+## Why Do We Need an Operating System?
 
 Operating Systems (OS) are essential because they act as intermediaries between users, applications, and the computer's hardware. Without an OS, a user would need to directly manage the hardware, which is highly complex and inefficient. The OS simplifies this process by providing a platform where applications can run and by managing hardware resources like memory, processors, and storage.
 
-## Simple Example: Running a Music Player on a Computer
+### Simple Example: Running a Music Player on a Computer
 
 Imagine you want to play a song using a music player application. The OS makes this possible in the following ways:
 
