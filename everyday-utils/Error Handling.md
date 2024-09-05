@@ -20,3 +20,5 @@ try {
 
 console.log("This line will execute because the error was handled");
 ```
+
+### Practical Example - ATM Withdrawal
