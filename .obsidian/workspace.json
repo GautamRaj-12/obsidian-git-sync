@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-notes/operations-on-ds.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-notes/operations-on-ds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
+                "file": "dsa-notes/operations-on-ds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md"
+                "file": "dsa-notes/operations-on-ds.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8739623a3cf2afaa",
   "lastOpenFiles": [
-    "dsa-notes/operations-on-ds.md",
     "dsa-notes/linked-list/01_singly_linked_list.md",
+    "dsa-notes/operations-on-ds.md",
     "course-tracker/Node Jonas' Course.md",
     "course-tracker",
     "java-oops/03_inheritance.md",
