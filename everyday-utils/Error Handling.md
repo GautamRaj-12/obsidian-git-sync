@@ -77,3 +77,10 @@ VM33:2 Uncaught TypeError: Cannot read properties of null (reading 'name')
 ```
 
 - The `Error` object can also be used as a base object for user-defined exceptions.
+```js
+let person = null;
+if(person===null){
+    throw new Error("Name can't be null")}
+console.log(person);
+console.log("This line will not execute because of the crash");
+```
