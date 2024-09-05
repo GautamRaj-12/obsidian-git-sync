@@ -69,6 +69,7 @@ try {
 console.log("This line will execute because the error was handled");
 ```
 
+- ***Error Instance Propertoes***
 ### Practical Example - ATM Withdrawal (Without Error Handling)
 ```js
 function withdrawMoney(balance, amount) {
