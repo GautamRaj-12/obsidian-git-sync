@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/function_usefulness.md",
+                "file": "md/functions_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/function_usefulness.md",
+                "file": "md/functions_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/function_usefulness.md",
+                "file": "md/functions_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/function_usefulness.md"
+                "file": "md/functions_python.md"
               }
             }
           }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "7ab49908623a1581",
   "lastOpenFiles": [
-    "md/functions_python.md",
     "md/function_usefulness.md",
+    "md/functions_python.md",
     "os/02_Computer_System.md",
     "os/01_Introduction.md",
     "os/images/image-2.png",
