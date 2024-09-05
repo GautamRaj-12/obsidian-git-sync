@@ -37,6 +37,51 @@ Imagine you want to play a song using a music player application. The OS makes t
 - You’d have to manually allocate memory, load the song from storage, send the correct signals to the sound card, and manage hardware connections like headphones — all of which would require advanced knowledge of the computer’s hardware.
 - An oversimplified example of how the code would look like
 ```asm
+; Set up a memory segment (e.g., segment 0x2000) for data
+MOV AX, 0x2000      ; Move segment address 0x2000 into AX register
+MOV DS, AX          ; Set DS (data segment) to this address
+
+MOV AH, 0x02        ; BIOS disk read function
+MOV AL, 0x01        ; Number of sectors to read (1 sector = 512 bytes)
+MOV CH, 0x00        ; Cylinder (track number) = 0
+MOV CL, 0x02        ; Sector number to read (start at sector 2)
+MOV DH, 0x00        ; Head number (side of disk) = 0
+MOV DL, 0x80        ; Drive number (first hard disk)
+MOV BX, 0x2000      ; Memory segment (to store the data)
+INT 13h             ; Call BIOS interrupt to read the disk
+
+JC disk_error       ; If the Carry flag is set, an error occurred
+
+; Disk read was successful, data is now in memory at address 0x2000:0000
+
+disk_error:
+    ; Error handling code (simplified)
+    MOV AH, 0x0E    ; BIOS Teletype Output
+    MOV AL, 'E'     ; Display error message
+    INT 10h         ; BIOS interrupt for displaying characters
+
+MOV DX, 0x220       ; Port address for sound card (e.g., Sound Blaster)
+MOV AL, 0x10        ; Command to initialize sound card
+OUT DX, AL          ; Send the command to the sound card
+
+MOV DX, 0x221       ; Data port for sound card buffer
+MOV SI, 0x2000      ; Load memory address of song data
+MOV CX, 512         ; Number of bytes to send (one sector)
+send_data:
+    MOV AL, [SI]    ; Load byte from memory into AL
+    OUT DX, AL      ; Output byte to sound card
+    INC SI          ; Move to next byte in memory
+    LOOP send_data  ; Repeat until all bytes are sent
+
+MOV DX, 0x123       ; Hypothetical port for checking headphone status
+IN AL, DX           ; Read status from port
+TEST AL, 0x01       ; Check if headphone bit is set
+JZ no_headphones    ; Jump if no headphones are connected
+
+; Headphones are connected, switch output
+
+no_headphones:
+    ; Do something else
 
 ```
 
