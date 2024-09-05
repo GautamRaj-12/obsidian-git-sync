@@ -96,4 +96,7 @@ VM180:3 Uncaught Error: Name can't be null
 
 ### Error Types in JS
 - **EvalError**
-- Ra
+- **RangeError**
+- **ReferenceErrror**
+- **SyntaxError**
+- **TypeErrr
