@@ -17,4 +17,8 @@
 - [ ] Pure functions, Side Effects and State Mutation
 - [ ] Closures
 - [ ] High Order Functions
-- [ ] Event Proagatio
+- [ ] Event Propagation
+- [ ] Promises
+- [ ] async/await
+
+ 
