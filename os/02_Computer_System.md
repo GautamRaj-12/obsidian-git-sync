@@ -10,4 +10,6 @@
 - It is stored in the ROM.
 - It must know how to load the OS and start executing that system.
 - It must locate and load into memory the OS kernel(main part of the OS).
-##
+### Interrupt
+- The occurrence of an event is usually signalled by an Interrupt from Hardware or Software
+- Hardware may trigger 
