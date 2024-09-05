@@ -12,4 +12,11 @@
 - **Multi Programming/Tasking OS**
 
 ## Functions of OS
-- 
+- It is an interface between User and Hardware
+- Allocation of Resources
+- Management of Memory, Security etc.
+
+## Goals of OS
+- Convenience
+- Efficiency
+- Both
