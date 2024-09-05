@@ -64,6 +64,7 @@ console.log("Program continues without crashing");
 
 ## Error object in JS
 - `Error` objects are thrown automatically when runtime errors occur.
+- Automatic runtime errors that occur due to system failures or incorrect code execution
 - The following code gives an error automatically: 
 ```js
 let person = null;
@@ -77,6 +78,7 @@ VM33:2 Uncaught TypeError: Cannot read properties of null (reading 'name')
 ```
 
 - The `Error` object can also be used as a base object for user-defined exceptions.
+- Used when the error can happen
 - The following code gives an user defined error.
 ```js
 let person = null;
