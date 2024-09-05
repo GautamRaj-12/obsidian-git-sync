@@ -40,6 +40,8 @@ VM180:3 Uncaught Error: Name can't be null
 - **AggregateError**: Creates an instance representing several errors wrapped in a single error when multiple errors need to be reported by an operation, for example by [`Promise.any()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/any).
 - **InternalError**: Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".
 
+## Error Instance Properties
+- **Error message.** For user-created `Error` objects, this is the string provided as the constructor's first argument.
 ## Error Handling In JavaScript
 ### Program that crashes (without error handling)
 - This JavaScript code will crash when trying to access a property of `undefined`.
@@ -103,4 +105,3 @@ withdrawMoney(accountBalance, 150); // This will be caught and handled
 
 console.log("Program continues without crashing");
 ```
-
