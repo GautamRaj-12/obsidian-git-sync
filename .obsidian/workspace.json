@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d046374d60c9b893",
+        "id": "826f65355a268d54",
         "type": "tabs",
         "children": [
           {
-            "id": "8739623a3cf2afaa",
+            "id": "1bb963edfefbd044",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa-notes/linked-list/03_circular_linked_list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
