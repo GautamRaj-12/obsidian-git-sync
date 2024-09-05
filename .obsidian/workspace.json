@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "os/Introduction.md",
+                "file": "os/02_Computer_System.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/Introduction.md",
+                "file": "os/02_Computer_System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "os/Introduction.md",
+                "file": "os/02_Computer_System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "os/Introduction.md"
+                "file": "os/02_Computer_System.md"
               }
             }
           }
@@ -148,13 +148,14 @@
   },
   "active": "f1b185ff288e2ed5",
   "lastOpenFiles": [
+    "os/01_Introduction.md",
+    "os/02_Computer_System.md",
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "os/process vs thread.md",
     "os/images/image-1.png",
-    "os/Introduction.md",
     "os/images",
     "interview-checklist/nodejs.md",
     "interview-checklist/js.md",
@@ -193,7 +194,6 @@
     "md/r-programming/linear_regression.md",
     "md/r-programming/chi_square_test.md",
     "md/r-programming/charts.md",
-    "md/r-programming/advance_analysis.md",
     "Untitled.canvas"
   ]
 }
