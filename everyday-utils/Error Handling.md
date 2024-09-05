@@ -95,8 +95,11 @@ VM180:3 Uncaught Error: Name can't be null
 ```
 
 ### Error Types in JS
-- **EvalError**
-- **RangeError**
+- **EvalError**: Creates an instance representing an error that occurs regarding the global function [`eval()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval)
+- **RangeError**: Creates an instance representing an error that occurs when a numeric variable or parameter is outside its valid range.
 - **ReferenceErrror**
 - **SyntaxError**
-- **TypeErrr
+- **TypeError**
+- **URIError**
+- **AggregateError**
+- **InternalError**
