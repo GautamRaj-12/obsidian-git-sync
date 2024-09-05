@@ -61,3 +61,6 @@ withdrawMoney(accountBalance, 150); // This will be caught and handled
 
 console.log("Program continues without crashing");
 ```
+
+## Error object in JS
+- 
