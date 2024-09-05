@@ -12,4 +12,6 @@
 - It must locate and load into memory the OS kernel(main part of the OS).
 ### Interrupt
 - The occurrence of an event is usually signalled by an Interrupt from Hardware or Software
-- Hardware may trigger 
+- Hardware may trigger an interrupt at any time by sending a signal to the CPU, usually by the way of the system bus.
+### System Call(Monitor Call)
+- Software may 
