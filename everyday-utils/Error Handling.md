@@ -21,4 +21,43 @@ try {
 console.log("This line will execute because the error was handled");
 ```
 
-### Practical Example - ATM Withdrawal
+### Practical Example - ATM Withdrawal (Without Error Handling)
+```js
+function withdrawMoney(balance, amount) {
+  if (amount > balance) {
+    throw new Error("Insufficient funds");
+  }
+
+  balance -= amount;
+  console.log(`Withdrawal successful! Remaining balance: $${balance}`);
+}
+
+let accountBalance = 100;
+
+console.log("Attempting to withdraw $150...");
+withdrawMoney(accountBalance, 150); // This will throw an error and crash
+console.log("This line will not execute");
+
+```
+
+### Practical Example - ATM Withdrawal (With Error Handling)
+``` js
+function withdrawMoney(balance, amount) {
+  try {
+    if (amount > balance) {
+      throw new Error("Insufficient funds");
+    }
+    balance -= amount;
+    console.log(`Withdrawal successful! Remaining balance: $${balance}`);
+  } catch (error) {
+    console.log(`Transaction failed: ${error.message}`);
+  }
+}
+
+let accountBalance = 100;
+
+console.log("Attempting to withdraw $150...");
+withdrawMoney(accountBalance, 150); // This will be caught and handled
+
+console.log("Program continues without crashing");
+```
