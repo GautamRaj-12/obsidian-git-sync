@@ -1,3 +1,5 @@
+## js(sumit_m)
+
 - [ ] call stack
 - [ ] primitive types
 - [ ] implicit, explicit, nominal, structuring, duck typing
@@ -20,5 +22,6 @@
 - [ ] Event Propagation
 - [ ] Promises
 - [ ] async/await
-
+## Extra
+- [ ] Error Handling, Error Objects, Error Types, Error Proper
  
