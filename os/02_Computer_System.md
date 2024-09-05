@@ -6,4 +6,8 @@
  - To ensure orderly access to the shared memory, a memory controller is provided whose function is to synchronize access to the memory.
 ## Some Important Terms
 ### Bootstrap Program
-- The initial program that runs when a compue
+- The initial program that runs when a computer is powered up or rebooted.
+- It is stored in the ROM.
+- It must know how to load the OS and start executing that system.
+- It must locate and load into memory the OS kernel(main part of the OS).
+##
