@@ -35,6 +35,7 @@ Imagine you want to play a song using a music player application. The OS makes t
 
 ## Without an OS
 - You’d have to manually allocate memory, load the song from storage, send the correct signals to the sound card, and manage hardware connections like headphones — all of which would require advanced knowledge of the computer’s hardware.
+- An oversi
 
 The OS abstracts these complexities, making it easy for you to simply click and play the song!
 
