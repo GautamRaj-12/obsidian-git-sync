@@ -11,4 +11,10 @@
 - [ ] Factories and Classes
 - [ ] this, call, apply and bind
 - [ ] new, constructor, instance of and instances
-- [ ] proto
+- [ ] prototype inheritance and prototype chain
+- [ ] Object.create and Object.assign
+- [ ] map, reduce, filter
+- [ ] Pure functions, Side Effects and State Mutation
+- [ ] Closures
+- [ ] High Order Functions
+- [ ] Event Proagatio
