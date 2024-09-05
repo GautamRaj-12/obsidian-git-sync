@@ -5,6 +5,10 @@ class Node {
   }
 }
 
+const arr = [2, 5, 8, 7];
+const y = new Node(arr[0]);
+console.log(y.data);
+
 // add an element at the end of the list
 // insert element at a position index
 // remove an element from the specified location
