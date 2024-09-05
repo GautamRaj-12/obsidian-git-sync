@@ -26,8 +26,7 @@ console.log("This line will not execute because of the crash");
 ```
 
 ```shell
-VM180:3 Uncaught Error: Name can't be null
-    at <anonymous>:3:11
+VM180:3 Uncaught Error: Name can't be null at <anonymous>:3:11
 ```
 
 ## Error Types in JS
@@ -87,16 +86,11 @@ console.log("This line will execute because the error was handled");
 ```
 
 ```shell
-- An error occurred: TypeError
-(anonymous) @ VM364:6
+- An error occurred: TypeError (anonymous) @ VM364:6
 - VM364:7 An error occurred: Cannot read properties of null (reading 'name')
 (anonymous) @ VM364:7
-VM364:8 An error occurred: TypeError: Cannot read properties of null (reading 'name')
-    at <anonymous>:4:22
-(anonymous) @ VM364:8
-VM364:9 An error occurred: TypeError: Cannot read properties of null (reading 'name')
-(anonymous) @ VM364:9
-VM364:12 
+- VM364:8 An error occurred: TypeError: Cannot read properties of null (reading 'name') at <anonymous>:4:22 (anonymous) @ VM364:8
+- VM364:9 An error occurred: TypeError: Cannot read properties of null (reading 'name') (anonymous) @ VM364:9
 ```
 ### Practical Example - ATM Withdrawal (Without Error Handling)
 ```js
