@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "826f65355a268d54",
+        "id": "5ebf7ae31f006563",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb963edfefbd044",
+            "id": "1bc48db9642bfb37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "1bc48db9642bfb37",
   "lastOpenFiles": [
+    "md/function_usefulness.md",
+    "md/leetcode/remove_duplicates.pdf",
+    "everyday-utils/Error Handling.md",
     "md/BG/ch-2-the_sankhya_yoga_the_path_of_knowledge.md",
     "md/BG/ch-1-setting_the_stage.md",
     "md/BG",
     "md/leetcode/two_sum.pdf",
     "md/leetcode/two_sum.md",
-    "md/leetcode/remove_duplicates.pdf",
     "md/leetcode/remove_duplicates.md",
     "md/leetcode",
     "md/r-programming/mcs229-pyq/images/j23-set4-q2.png",
@@ -186,14 +188,11 @@
     "md/r-programming/advance_analysis.md",
     "md/r-programming/01_introduction.md",
     "md/functions_python.md",
-    "md/function_usefulness.md",
     "md/QP.md",
     "md/I.6.P.3.Force.md",
     "md/I.6.P.3.Force(QP).md",
     "md/I.6.P.2.Measurement.md",
     "md/I.6.P.2.Measurement(QP).md",
-    "md/I.6.P.1.Matter.md",
-    "md/I.6.P.1.Matter(QP).md",
     "Untitled.canvas"
   ]
 }
