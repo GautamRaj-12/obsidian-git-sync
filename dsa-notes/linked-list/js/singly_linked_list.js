@@ -4,7 +4,11 @@ class Node {
     this.next = next;
   }
 }
-
+class LinkedList {
+  constructor() {
+    this.head = null;
+  }
+}
 const arr = [2, 5, 8, 7];
 const y = new Node(arr[0]);
 console.log(y.data);
