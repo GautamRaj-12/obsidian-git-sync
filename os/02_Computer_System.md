@@ -3,4 +3,4 @@
  ![image](images/image-2.png)
  - Each device controller is in charge of a specific type of device.
  - The CPU and the device controllers can execute concurrently, competing for memory cycles.
- - To 
+ - To ensure orderly access to the shared memory, a memory controller is provided whose function is to synchronize access to the memory.
