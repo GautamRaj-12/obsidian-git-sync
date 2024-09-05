@@ -93,3 +93,7 @@ console.log("This line will not execute because of the crash");
 VM180:3 Uncaught Error: Name can't be null
     at <anonymous>:3:11
 ```
+
+### Error Types in JS
+- **EvalError**
+- Ra
