@@ -11,8 +11,12 @@
             "id": "06ae0338812e5fd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "course-tracker/Discrete.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82db026131521a7a",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "course-tracker/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "course-tracker/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "course-tracker/Discrete.md"
+              }
             }
           }
         ]
@@ -141,6 +148,7 @@
   },
   "active": "06ae0338812e5fd7",
   "lastOpenFiles": [
+    "course-tracker/Discrete.md",
     "md/functions_python.md",
     "md/function_usefulness.md",
     "os/02_Computer_System.md",
@@ -186,7 +194,6 @@
     "md/r-programming/matrices.md",
     "md/r-programming/logistic_regression.md",
     "md/r-programming/linear_regression.md",
-    "md/r-programming/chi_square_test.md",
     "Untitled.canvas"
   ]
 }
