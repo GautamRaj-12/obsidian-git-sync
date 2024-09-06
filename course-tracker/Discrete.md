@@ -5,4 +5,7 @@
 - [ ] Logical Operators or Connectives
 - [ ] Properties of Basic Operators
 - [ ] Practice Questions on Minimization
-- [ ] GATE 
+- [ ] GATE Questions on Minimization
+- [ ] Derived Operators and Properties
+- [ ] Practice Question on Minimization
+- [ ] 
