@@ -1,3 +1,8 @@
 - [ ] How to Prepare Discrete
 - [ ] Introduction
-- [ ] Introduction to 
+- [ ] Introduction to Logic
+- [ ] Propositions
+- [ ] Logical Operators or Connectives
+- [ ] Properties of Basic Operators
+- [ ] Practice Questions on Minimization
+- [ ] GATE 
