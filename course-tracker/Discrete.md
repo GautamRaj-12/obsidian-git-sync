@@ -1,11 +1,15 @@
-- [ ] How to Prepare Discrete
-- [ ] Introduction
-- [ ] Introduction to Logic
-- [ ] Propositions
-- [ ] Logical Operators or Connectives
-- [ ] Properties of Basic Operators
-- [ ] Practice Questions on Minimization
-- [ ] GATE Questions on Minimization
-- [ ] Derived Operators and Properties
-- [ ] Practice Question on Minimization
-- [ ] 
+- [x] 1. How to Prepare Discrete
+- [x] 2. Introduction
+- [ ] 3. Introduction to Logic
+- [ ] 4. Propositions
+- [ ] 5. Logical Operators or Connectives
+- [ ] 6. Properties of Basic Operators
+- [ ] 7. Practice Questions on Minimization
+- [ ] 8. GATE Questions on Minimization
+- [ ] 9. Derived Operators and Properties
+- [ ] 10. Practice Question on Minimization
+- [ ] 11.
+- [ ] 12.
+- [ ] 13.
+- [ ] 14
+- [ 
