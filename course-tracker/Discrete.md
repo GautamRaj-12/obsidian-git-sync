@@ -2,7 +2,7 @@
 - [x] 2. Introduction
 - [x] 3. Introduction to Logic
 - [x] 4. Propositions
-- [ ] 5. Logical Operators or Connectives
+- [x] 5. Logical Operators or Connectives
 - [ ] 6. Properties of Basic Operators
 - [ ] 7. Practice Questions on Minimization
 - [ ] 8. GATE Questions on Minimization
