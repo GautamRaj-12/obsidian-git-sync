@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19122b7bf52baa5e",
+        "id": "fa883b3e66c974eb",
         "type": "tabs",
         "children": [
           {
-            "id": "7ab49908623a1581",
+            "id": "06ae0338812e5fd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "md/functions_python.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/functions_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/functions_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "md/functions_python.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,10 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ab49908623a1581",
+  "active": "06ae0338812e5fd7",
   "lastOpenFiles": [
-    "md/function_usefulness.md",
     "md/functions_python.md",
+    "md/function_usefulness.md",
     "os/02_Computer_System.md",
     "os/01_Introduction.md",
     "os/images/image-2.png",
