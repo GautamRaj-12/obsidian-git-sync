@@ -1,7 +1,7 @@
 - [x] 1. How to Prepare Discrete
 - [x] 2. Introduction
 - [x] 3. Introduction to Logic
-- [ ] 4. Propositions
+- [x] 4. Propositions
 - [ ] 5. Logical Operators or Connectives
 - [ ] 6. Properties of Basic Operators
 - [ ] 7. Practice Questions on Minimization
