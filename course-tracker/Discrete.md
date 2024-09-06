@@ -1,6 +1,6 @@
 - [x] 1. How to Prepare Discrete
 - [x] 2. Introduction
-- [ ] 3. Introduction to Logic
+- [x] 3. Introduction to Logic
 - [ ] 4. Propositions
 - [ ] 5. Logical Operators or Connectives
 - [ ] 6. Properties of Basic Operators
