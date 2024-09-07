@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
+                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
+                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
+                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md"
+                "file": "designs/01_ui_design_fundamentals/02_contrast.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "1703dd4c5e082e9d",
   "lastOpenFiles": [
+    "designs/01_ui_design_fundamentals/01_white_space.md",
+    "designs/01_ui_design_fundamentals/02_contrast.md",
     "designs/images/image-1.png",
     "designs/designs.md",
     "designs/images",
@@ -158,7 +160,6 @@
     "designs/images/image-4.png",
     "designs/images/image-3.png",
     "designs/images/image-2.png",
-    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
