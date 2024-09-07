@@ -11,11 +11,9 @@
             "id": "1703dd4c5e082e9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240907151115.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
+                "file": "Pasted image 20240907151115.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md",
+                "file": "Pasted image 20240907151115.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/01_white_space.md"
+                "file": "Pasted image 20240907151115.png"
               }
             }
           }
@@ -148,6 +146,7 @@
   },
   "active": "1703dd4c5e082e9d",
   "lastOpenFiles": [
+    "designs/01_ui_design_fundamentals/01_white_space.md",
     "Pasted image 20240907152901.png",
     "Pasted image 20240907152846.png",
     "Pasted image 20240907152742.png",
@@ -157,7 +156,6 @@
     "Pasted image 20240907151202.png",
     "Pasted image 20240907151115.png",
     "designs/designs.md",
-    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
@@ -185,7 +183,6 @@
     "md/leetcode/two_sum.md",
     "md/leetcode/remove_duplicates.md",
     "md/leetcode",
-    "md/r-programming/mcs229-pyq/images/j23-set4-q2.png",
     "md/r-programming/mcs229-pyq/j23-set4.pdf",
     "md/r-programming/mcs229-pyq/j23-set4.md",
     "md/r-programming/mcs229-pyq/j23-set3.pdf",
