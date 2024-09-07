@@ -18,5 +18,5 @@
 ### Number of Components
 - Everything outside of our whitespace can be considered as a component or a micro-component
 - Components will influence how you apply your white space.
-- If you have a phone, and you are seeing a splash page which has just a title and a button, you will be able to have lots of whitespace.
+- If you have a phone, and you are seeing a splash page which has just a title and a button, you will be able to have lots of whitespace. But suppose we have news type of website. It will b
 ![[Pasted image 20240907151506.png]]
