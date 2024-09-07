@@ -21,5 +21,6 @@
 - If you have a phone, and you are seeing a splash page which has just a title and a button, you will be able to have lots of whitespace. But suppose we have news type of website. It will be having lots of components, so less white space.
 ![[Pasted image 20240907151506.png]]
 ### Alignment
-- How you apply your space 
+- How you apply your space depends on alignment.
 ![[Pasted image 20240907152553.png]]
+![[Pasted image 20240907152650.png]]
