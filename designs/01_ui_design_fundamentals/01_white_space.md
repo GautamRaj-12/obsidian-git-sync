@@ -24,8 +24,9 @@
 - How you apply your space depends on alignment.
 ![image](designs/images/image-4.png)
 
-- In the following, the alignment is not correct bwte
+- In the following, the alignment is not correct between the line and the text in the bottom component.
 ![image](designs/images/image-5.png)
+- So we need to move the 'Book A Trip' button to the left to have proper alignment.
 ![image](designs/images/image-6.png)
 
 ### Consistency
