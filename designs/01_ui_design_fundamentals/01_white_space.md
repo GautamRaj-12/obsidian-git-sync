@@ -27,3 +27,5 @@
 ![[Pasted image 20240907152742.png]]
 
 ### Consistency
+![[Pasted image 20240907152846.png]]
+![[Pasted image 20240907152901.png]]
