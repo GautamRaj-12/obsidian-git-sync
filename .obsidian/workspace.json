@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
+                "file": "designs/designs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
+                "file": "designs/designs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/02_contrast.md",
+                "file": "designs/designs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "designs/01_ui_design_fundamentals/02_contrast.md"
+                "file": "designs/designs.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "1703dd4c5e082e9d",
   "lastOpenFiles": [
-    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/01_ui_design_fundamentals/02_contrast.md",
+    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/images/image-1.png",
     "designs/designs.md",
     "designs/images",
