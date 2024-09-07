@@ -24,3 +24,6 @@
 - How you apply your space depends on alignment.
 ![[Pasted image 20240907152553.png]]
 ![[Pasted image 20240907152650.png]]
+![[Pasted image 20240907152742.png]]
+
+### Consistency
