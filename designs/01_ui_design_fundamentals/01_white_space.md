@@ -30,6 +30,7 @@
 ![image](designs/images/image-6.png)
 
 ### Consistency
-- Suppose we want, the line with the button 'Book a trip' horizontally center 
+- Suppose we want, the line with the button 'Book a trip' horizontally center. 
 ![image](designs/images/image-7.png)
+- But as we can see the white space is nto 
 ![image](designs/images/image-8.png)
