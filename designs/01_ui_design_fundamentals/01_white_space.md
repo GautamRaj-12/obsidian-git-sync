@@ -16,5 +16,5 @@
 ### Space Availability
 - Depends on viewport width : On a phone there is less viewport width.
 ### Number of Components
-- 
+- Everything outside of our whitespace can be considered as a component or a micro-component
 ![[Pasted image 20240907151506.png]]
