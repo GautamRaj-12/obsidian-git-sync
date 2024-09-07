@@ -9,4 +9,10 @@
 
 ## White space should be applied based on four factors:
 - Space Availability
-- Number of 
+- Number of Components
+- Alignment 
+- Consistency
+
+### Space Availability
+- Depends on viewport width : On a phone t
+- 
