@@ -23,9 +23,11 @@
 ### Alignment
 - How you apply your space depends on alignment.
 ![image](designs/images/image-4.png)
+
+- In the following, the alignment is not correct bwte
 ![image](designs/images/image-5.png)
-![[designs/images/image-6.png]]
+![image](designs/images/image-6.png)
 
 ### Consistency
-![[designs/images/image-7.png]]
-![[designs/images/image-8.png]]
+![image](designs/images/image-7.png)
+![image](designs/images/image-8.png)
