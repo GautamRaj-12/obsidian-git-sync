@@ -5,7 +5,7 @@
 
 - ***`App.tsx`***
 
-  ![image](images/image-8.png)
+  ![image](react-typescript/images/image-8.png)
 
 - ***`Greet.tsx`***
 

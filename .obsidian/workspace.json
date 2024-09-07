@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240907151115.png"
+                "file": "designs/images/image-1.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240907151115.png",
+                "file": "designs/images/image-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240907151115.png",
+                "file": "designs/images/image-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240907151115.png"
+                "file": "designs/images/image-1.png"
               }
             }
           }
@@ -144,18 +144,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1703dd4c5e082e9d",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
-    "designs/01_ui_design_fundamentals/01_white_space.md",
-    "Pasted image 20240907152901.png",
-    "Pasted image 20240907152846.png",
-    "Pasted image 20240907152742.png",
-    "Pasted image 20240907152650.png",
-    "Pasted image 20240907152553.png",
-    "Pasted image 20240907151506.png",
-    "Pasted image 20240907151202.png",
-    "Pasted image 20240907151115.png",
     "designs/designs.md",
+    "designs/images",
+    "designs/images/image-8.png",
+    "designs/images/image-7.png",
+    "designs/images/image-6.png",
+    "designs/images/image-5.png",
+    "designs/images/image-4.png",
+    "designs/images/image-3.png",
+    "designs/images/image-2.png",
+    "designs/images/image-1.png",
+    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
@@ -187,7 +188,6 @@
     "md/r-programming/mcs229-pyq/j23-set4.md",
     "md/r-programming/mcs229-pyq/j23-set3.pdf",
     "md/r-programming/mcs229-pyq/j23-set3.md",
-    "md/r-programming/mcs229-pyq/j23-set2.pdf",
     "md/r-programming/mcs229-pyq/j23-set2.md",
     "md/r-programming/mcs229-pyq/j23-set1.md",
     "md/r-programming/mcsl229-lab-questions/mcsl229-book.md",

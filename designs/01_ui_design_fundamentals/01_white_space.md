@@ -1,11 +1,11 @@
 # White Space
 - The empty areas in a user interface.
-  ![[Pasted image 20240907151115.png]]
+  ![[designs/images/image-1.png]]
 
 ## Why is whitespace important?
 - If we get rid of the whitespace, The design falls in on itself.
 - So we need white spaces.
-![[Pasted image 20240907151202.png]]
+![[designs/images/image-2.png]]
 
 ## White space should be applied based on four factors:
 - Space Availability
@@ -19,13 +19,13 @@
 - Everything outside of our whitespace can be considered as a component or a micro-component
 - Components will influence how you apply your white space.
 - If you have a phone, and you are seeing a splash page which has just a title and a button, you will be able to have lots of whitespace. But suppose we have news type of website. It will be having lots of components, so less white space.
-![[Pasted image 20240907151506.png]]
+![[designs/images/image-3.png]]
 ### Alignment
 - How you apply your space depends on alignment.
-![[Pasted image 20240907152553.png]]
-![[Pasted image 20240907152650.png]]
-![[Pasted image 20240907152742.png]]
+![[designs/images/image-4.png]]
+![[designs/images/image-5.png]]
+![[designs/images/image-6.png]]
 
 ### Consistency
-![[Pasted image 20240907152846.png]]
-![[Pasted image 20240907152901.png]]
+![[designs/images/image-7.png]]
+![[designs/images/image-8.png]]
