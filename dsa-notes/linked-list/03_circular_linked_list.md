@@ -17,42 +17,42 @@
 ### Inserting in Circular Linked List
 - ***Inserting at the beginning***
 	- Create a new node and initially keep its next pointer pointing to itself.
-	 ![image](ll-29.png)
+	 ![image](images/ll-29.png)
 	- Update the next pointer of the new node with the head node and also traverse the list until the tail. That means in a circular list we should stop at the node which is its previous node in the list.
-	  ![image](ll-30.png)
+	  ![image](images/ll-30.png)
 	- Update the previous head node in the list to point to the new node.
-	  ![image](ll-31.png)
+	  ![image](images/ll-31.png)
 	- Make the new node as the head.
-	 ![image](ll-32.png)
+	 ![image](images/ll-32.png)
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the tail node, which takes `O(n)` time.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` as no extra space is required other than the new node being inserted.
 - ***Inserting at the end***
 	- Create a new node and initially keep its next pointer pointing to itself.
-	  ![image](ll-33.png)
+	  ![image](images/ll-33.png)
 	- Update the next pointer of the new node with the head node and also traverse the list to the tail. That means in a circular list we should stop at the node whose next node is head.
-	  ![image](ll-34.png)
+	  ![image](images/ll-34.png)
 	- Update the next pointer of the previous node to point to the new node and we get the list as shown below.
-	  ![image](ll-35.png)
+	  ![image](images/ll-35.png)
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last node, which takes `O(n)` time.
 	- **Space Complexity**: **O(1)**:The space complexity is `O(1)` as no extra space is required other than the new node being inserted.
 ### Deleting in Circular Linked List
 - ***Delete the first node***
 	- The first node can be deleted by simply replacing the next field of the tail node with the next field of the first node. 
 		- Find the tail node of the linked list by traversing the list. Tail node is the previous node to the head node which we want to delete.
-		  ![image](ll-36.png)
+		  ![image](images/ll-36.png)
 		- Create a temporary node which will point to the head. Also, update the tail nodes next pointer to point to next node of head (as shown below).
-		  ![image](ll-37.png)
+		  ![image](images/ll-37.png)
 		- Now, move the head pointer to next node. Create a temporary node which will point to head. Also, update the tail nodes next pointer to point to next node of head (as shown below).
-		  ![image](ll-38.png)
+		  ![image](images/ll-38.png)
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the tail node.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` since only a few pointers are updated without requiring extra space.
 - ***Delete the last node***
 	- The list has to be traversed to reach the last but one node. This has to be named as the tail node, and its next field has to point to the first node. 
 		- Traverse the list and find the tail node and its previous node.
-		   ![image](ll-39.png)
+		   ![image](images/ll-39.png)
 		- Update the tail node’s previous node pointer to point to head.
-		   ![image](ll-40.png)
+		   ![image](images/ll-40.png)
 		- Dispose of the tail node.
-		   ![image](ll-41.png)
+		   ![image](images/ll-41.png)
 	- **Time Complexity**: **O(n)**: The time complexity is `O(n)` because you need to traverse the list to find the last but one node.
 	- **Space Complexity**: **O(1)**: The space complexity is `O(1)` since only pointers are updated, and no extra space is required.
