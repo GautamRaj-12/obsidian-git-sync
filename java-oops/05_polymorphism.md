@@ -28,6 +28,6 @@
 - **Can we achieve method overloading by changing the return type of method only?**
 	- No, Because of ambiguity
 - **Can we overload main() method?**
-	- Yes, we can have any number of main methods in a class n
+	- Yes, we can have any number of main methods in a class by method overloading. This is because JVM always calls main() method which receives string array as arguments only.
 - **Method Overloading and Type Promotion**
 - **Different cases of Type Promotion**
