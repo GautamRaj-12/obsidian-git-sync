@@ -30,4 +30,6 @@
 - **Can we overload main() method?**
 	- Yes, we can have any number of main methods in a class by method overloading. This is because JVM always calls main() method which receives string array as arguments only.
 - **Method Overloading and Type Promotion**
+	- ***AUTOMATIC PROMOTION***
+		- One type is promoted to another 
 - **Different cases of Type Promotion**
