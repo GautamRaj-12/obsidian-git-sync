@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/05_polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/05_polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/05_polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/03_inheritance.md"
+                "file": "java-oops/05_polymorphism.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "00e46f843177f9fc",
   "lastOpenFiles": [
+    "java-oops/03_inheritance.md",
     "java-oops/05_polymorphism.md",
     "Pasted image 20240911182344.png",
-    "java-oops/03_inheritance.md",
     "java-oops/02_classes_objects_constructors.md",
     "java-oops/04_association.md",
     "java-oops/01_introduction_to_oops.md",
