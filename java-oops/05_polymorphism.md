@@ -12,4 +12,15 @@
 
 ## Method Overloading
 - Multiple methods with same name.
-- Both methods in same c
+- Both methods in same class.
+- Different Arguments (Any of the following)
+	- Numbers
+	- Sequence
+	- Type of Arguments
+## Method Overriding
+- Multiple methods with same name.
+- Both methods in same class.
+- Same Arguments (Any of the following)
+	- Numbers
+	- Sequence
+	- Type of Arguments
