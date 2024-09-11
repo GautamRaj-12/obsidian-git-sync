@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/02_classes_objects_constructors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/02_classes_objects_constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/03_inheritance.md",
+                "file": "java-oops/02_classes_objects_constructors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/03_inheritance.md"
+                "file": "java-oops/02_classes_objects_constructors.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "1703dd4c5e082e9d",
   "lastOpenFiles": [
-    "java-oops/02_classes_objects_constructors.md",
-    "java-oops/03_inheritance.md",
     "java-oops/01_introduction_to_oops.md",
+    "java-oops/03_inheritance.md",
+    "java-oops/02_classes_objects_constructors.md",
     "designs/designs.md",
     "designs/01_ui_design_fundamentals/02_contrast.md",
     "designs/01_ui_design_fundamentals/01_white_space.md",
