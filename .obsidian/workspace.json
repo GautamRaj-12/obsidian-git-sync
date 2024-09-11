@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md",
+                "file": "java-oops/03_inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/02_classes_objects_constructors.md"
+                "file": "java-oops/03_inheritance.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "1703dd4c5e082e9d",
   "lastOpenFiles": [
+    "java-oops/02_classes_objects_constructors.md",
     "java-oops/01_introduction_to_oops.md",
     "java-oops/03_inheritance.md",
     "designs/designs.md",
@@ -193,7 +194,6 @@
     "md/r-programming/mcs229-pyq/j23-set4.md",
     "md/r-programming/mcs229-pyq/j23-set3.pdf",
     "md/r-programming/mcs229-pyq/j23-set3.md",
-    "md/r-programming/mcs229-pyq/j23-set2.md",
     "Untitled.canvas"
   ]
 }
