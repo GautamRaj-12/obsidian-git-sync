@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "java-oops/03_inheritance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "java-oops/03_inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "java-oops/03_inheritance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/05_polymorphism.md"
+                "file": "java-oops/03_inheritance.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "00e46f843177f9fc",
   "lastOpenFiles": [
+    "java-oops/05_polymorphism.md",
     "Pasted image 20240911182344.png",
     "java-oops/03_inheritance.md",
     "java-oops/02_classes_objects_constructors.md",
     "java-oops/04_association.md",
-    "java-oops/05_polymorphism.md",
     "java-oops/01_introduction_to_oops.md",
     "designs/designs.md",
     "designs/01_ui_design_fundamentals/02_contrast.md",
@@ -179,7 +179,6 @@
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "java-multithreading/02_process_and_thread.md",
     "os/process vs thread.md",
-    "os/images/image-1.png",
     "os/images",
     "interview-checklist/nodejs.md",
     "interview-checklist/js.md",
