@@ -5,3 +5,6 @@
 
 ### Compile Time Polymorphism(Static Polymorphism)
 - To achieve it we use: ***METHOD OVERLOADING***
+- It is handled by compiler.
+### Run Time Polymorphism(Dynamic Polymorphism)
+- To achieve it we use: ***METHOD OVERRIDING***
