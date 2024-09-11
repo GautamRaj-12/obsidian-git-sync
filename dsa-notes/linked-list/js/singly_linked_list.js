@@ -45,7 +45,8 @@ class LinkedList {
     let current = this.head;
     let result = "";
     while (current) {
-      result += current.data + " -> ";
+      let nextData = current.next ? current.next.data : "null";
+      result += `Data:${current.data},Next:${nextData} -> `;
       current = current.next;
     }
     result += "null";
