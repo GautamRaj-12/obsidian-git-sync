@@ -38,7 +38,7 @@ Outside Function
 2. All the code inside the function is executed.
 3. The control of the program jumps to the next statement after the function call.
 
-![alt text](md/image-2.png)
+![alt text](images/image-2.png)
 
 ## Arguments and Parameters
 
@@ -58,7 +58,7 @@ def greeting(name):
 
 greeting("Hitman")
 ```
-![alt text](md/image-1.png)
+![alt text](/images/image-1.png)
 
 ***OUTPUT***
 ```
@@ -98,7 +98,7 @@ def difference(a,b):
 diff=difference(60,50)
 print("Difference: ",diff)
 ```
-![alt text](md/image-3.png)
+![alt text](md/images/image-3.png)
 
 ### returning multiple values
 

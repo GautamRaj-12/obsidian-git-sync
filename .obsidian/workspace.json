@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8a7b0cbd1b069b",
+        "id": "4dc653aaa8d4007a",
         "type": "tabs",
         "children": [
           {
-            "id": "eefac7cd078c43c7",
+            "id": "ccbda49285c8414c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "md/functions_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "md/functions_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "md/functions_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/01_typescript_basics.md"
+                "file": "md/functions_python.md"
               }
             }
           }
@@ -146,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "ccbda49285c8414c",
   "lastOpenFiles": [
+    "md/images/image.png",
+    "md/functions_python.md",
+    "md/images",
+    "typescript/01_typescript_basics.md",
     "typescript",
     "jetbrains/Tips and Tricks.md",
     "link.md",
-    "typescript/01_typescript_basics.md",
     "java-oops/05_polymorphism.md",
     "java-oops/03_inheritance.md",
     "Pasted image 20240911182344.png",
@@ -173,7 +176,6 @@
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
-    "md/functions_python.md",
     "md/function_usefulness.md",
     "os/02_Computer_System.md",
     "os/01_Introduction.md",
@@ -192,8 +194,6 @@
     "md/BG",
     "md/leetcode/two_sum.pdf",
     "md/leetcode",
-    "md/r-programming/mcs229-pyq/j23-set4.pdf",
-    "md/r-programming/mcs229-pyq/j23-set3.pdf",
     "Untitled.canvas"
   ]
 }
