@@ -94,7 +94,7 @@ console.log(username);
 	- **`outDir`**: Directory where JavaScript files will be compiled to.
 3. **Watching for Changes**:
 	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
-	- `tsc -w
+	- `tsc -w` : No need to specify files, It will watch all the files in the specified directory.
 ## Type Checking and Compilation
 1. **Static Type Checking**:
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
