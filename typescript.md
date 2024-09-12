@@ -86,4 +86,16 @@ console.log(username);
 3. **Watching for Changes**:
 	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
 	- `tsc -w
-## 
+## Type Checking and Compilation
+1. **Static Type Checking**:
+	-  TypeScript provides compile-time type checking, reducing runtime errors.
+	- Example:
+	```js
+	let a: number = 12;
+	let b: string = "6";
+	let c: number = 2;
+	
+	console.log(a / b); // Error: Cannot perform arithmetic operation with a number and string
+	console.log(c * b); // Error: Cannot perform arithmetic operation with a number and string
+	```
+2. ****
