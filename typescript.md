@@ -10,5 +10,10 @@
 1. **Prerequisites**:
 	- Basic understanding of JavaScript fundamentals.
 2. **Required Tools**:
-	- *Visual Studio Code**: [Download Visual Studio Code](https://code.visualstudio.com)
+	- **Visual Studio Code**: [Download Visual Studio Code](https://code.visualstudio.com)
 	- **Node.js & npm**: [Download Node.js (includes npm)](https://nodejs.org)
+3. **Installation**
+	- Install Typescript globally using npm
+	```js
+		
+	```
