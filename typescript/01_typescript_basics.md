@@ -117,5 +117,5 @@ console.log(username);
 	let b: string = "6";
 	let c: number = 2;
 	```
-1. **Handling Type Errors**:
+3. **Handling Type Errors**:
 	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
