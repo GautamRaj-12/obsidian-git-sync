@@ -48,13 +48,20 @@ console.log(username);
 5. **Compiling TypeScript**:
 	- Compile TypeScript file to JavaScript:
 	```bash
-	Sytsc <source> <destination>
+	tsc <source> <destination>
     ```
     - If destination not provided, then the ts source file's name is taken as the name of the js file
+	```bash
+	tsc main.ts main.js
+    ```
 
     - Alternatively, use the watch mode to automatically recompile:
 	```bash
 	tsc <filename> -w
+	```
+	
+	```bash
+	tsc main.ts -w
 	```
 
 ## Project Structure
