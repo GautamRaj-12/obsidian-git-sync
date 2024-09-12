@@ -20,6 +20,29 @@
 4. **Create Your First Typescript Project**
    - Create an `index.html` and a `main.ts` file in a project directory.
    - Example `index.html`:
-   ```
-   
+ ```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TypeScript Example</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <script src="js/main.js" defer></script>
+</body>
+</html>
+ ```
+ - Example `main.ts`:
+```js
+let username: string = "Dave";
+console.log(username);
 ```
+
+5. 
