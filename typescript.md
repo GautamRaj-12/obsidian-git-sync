@@ -46,4 +46,11 @@ console.log(username);
 ```
 
 5. **Compiling TypeScript**:
-	- 
+	- Compile TypeScript file to JavaScript:
+	```bash
+	tsc main.ts
+    ```
+    - Alternatively, use the watch mode to automatically recompile:
+	```bash
+	tsc -w
+	```
