@@ -52,7 +52,7 @@ console.log(username);
     ```
     - Alternatively, use the watch mode to automatically recompile:
 	```bash
-	tsc -w
+	tsc <filename -w
 	```
 
 ## Project Structure
