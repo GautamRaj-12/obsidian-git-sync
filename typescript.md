@@ -5,4 +5,10 @@
     - TypeScript compiles down to JavaScript and offers features like static type checking.
 - **Resources**:    
     - [TypeScript Official Website](https://www.typescriptlang.org)
-- 
+
+## Setting Up Typescript
+1. **Prerequisites**:
+	- Basic understanding of JavaScript fundamentals.
+2. **Required Tools**:
+	- *Visual Studio Code**: [Download Visual Studio Code](https://code.visualstudio.com)
+	- **Node.js & npm**: [Download Node.js (includes npm)](https://nodejs.org)
