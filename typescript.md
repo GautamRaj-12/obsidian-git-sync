@@ -14,6 +14,12 @@
 	- **Node.js & npm**: [Download Node.js (includes npm)](https://nodejs.org)
 3. **Installation**
 	- Install Typescript globally using npm
-	```js
-		
+	```bash
+	npm install -g typescript
 	```
+4. **Create Your First Typescript Project**
+   - Create an `index.html` and a `main.ts` file in a project directory.
+   - Example `index.html`:
+   ```
+   
+```
