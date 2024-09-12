@@ -54,3 +54,7 @@ console.log(username);
 	```bash
 	tsc -w
 	```
+
+## Project Structure
+1. **Organizing Files**:
+	
