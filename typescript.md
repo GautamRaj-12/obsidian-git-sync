@@ -45,4 +45,5 @@ let username: string = "Dave";
 console.log(username);
 ```
 
-5. 
+5. **Compiling TypeScript**:
+	- 
