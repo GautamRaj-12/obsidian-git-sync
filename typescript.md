@@ -57,4 +57,15 @@ console.log(username);
 
 ## Project Structure
 1. **Organizing Files**:
+	- **Source Folder**: Contains TypeScript files (`.ts`).
+	- **Build Folder**: Contains the compiled JavaScript files (`.js`), HTML, and CSS.
+	```bash
+	/src
+	  main.ts
+	  test.ts
+	/build
+	  /js
+	    main.js
+    index.html
+	```
 	
