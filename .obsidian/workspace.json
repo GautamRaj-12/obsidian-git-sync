@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript.md",
+                "file": "typescript/01_typescript_basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript.md",
+                "file": "typescript/01_typescript_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript.md",
+                "file": "typescript/01_typescript_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript.md"
+                "file": "typescript/01_typescript_basics.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eefac7cd078c43c7",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "typescript",
     "jetbrains/Tips and Tricks.md",
     "link.md",
-    "typescript.md",
+    "typescript/01_typescript_basics.md",
     "java-oops/05_polymorphism.md",
     "java-oops/03_inheritance.md",
     "Pasted image 20240911182344.png",
@@ -188,7 +189,6 @@
     "everyday-utils/Error Handling.md",
     "interview-checklist",
     "md/leetcode/remove_duplicates.pdf",
-    "md/BG/ch-2-the_sankhya_yoga_the_path_of_knowledge.md",
     "md/BG",
     "md/leetcode/two_sum.pdf",
     "md/leetcode",
