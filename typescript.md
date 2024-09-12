@@ -81,3 +81,9 @@ console.log(username);
 	  "include": ["src/**/*"]
 	}
 	```
+	- **`rootDir`**: Directory containing TypeScript files.
+	- **`outDir`**: Directory where JavaScript files will be compiled to.
+3. **Watching for Changes**:
+	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
+	- `tsc -w
+## 
