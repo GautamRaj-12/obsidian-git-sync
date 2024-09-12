@@ -1,6 +1,6 @@
 ## Introduction to TypeScript
 - **TypeScript Overview**:
-    - TypeScript is a strongly typed superset of JavaScript that provides better tooling and type safety.
+    - TypeScript is a *strongly typed superset of JavaScript* that provides better tooling and *type safety*.
     - It is developed by Microsoft, with Anders Hejlsberg being the creator, who also created C#.
     - TypeScript compiles down to JavaScript and offers features like static type checking.
 - **Resources**:    
@@ -104,7 +104,6 @@ console.log(username);
 	let a: number = 12;
 	let b: string = "6";
 	let c: number = 2;
-
 	```
 1. **Handling Type Errors**:
 	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
