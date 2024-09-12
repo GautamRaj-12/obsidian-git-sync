@@ -78,7 +78,8 @@ console.log(username);
     index.html
 	```
 2. **TypeScript Configuration (`tsconfig.json`)**:
-		- Create a `tsconfig.json` file using  ***tsc --init***  command to manage TypeScript project settings:
+	- Create a `tsconfig.json` file using  ***tsc --init***  command to manage TypeScript project settings:
+	- There will be so many properties. Many of them will be commented. Uncomment the f
 	```json
 	{
 	  "compilerOptions": {
@@ -93,7 +94,7 @@ console.log(username);
 	- **`rootDir`**: Directory containing TypeScript files.
 	- **`outDir`**: Directory where JavaScript files will be compiled to.
 	- `"include": ["src/**/*"]`: This is included so that it only compiles those files which are present inside the src directory and not anywhere else.
-	- If we delete a
+	- If we delete a `.ts` file, we need to manually delete the `.js` file.
 1. **Watching for Changes**:
 	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
 	- `tsc -w` : No need to specify files, It will watch all the files in the specified directory.
