@@ -78,7 +78,7 @@ console.log(username);
     index.html
 	```
 2. **TypeScript Configuration (`tsconfig.json`)**:
-	- Create a `tsconfig.json` file to manage TypeScript project settings:
+		- Create a `tsconfig.json` file using  ***tsc --init***  command to manage TypeScript project settings:
 	```json
 	{
 	  "compilerOptions": {
