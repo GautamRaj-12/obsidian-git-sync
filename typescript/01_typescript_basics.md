@@ -79,7 +79,7 @@ console.log(username);
 	```
 2. **TypeScript Configuration (`tsconfig.json`)**:
 	- Create a `tsconfig.json` file using  ***tsc --init***  command to manage TypeScript project settings:
-	- There will be so many properties. Many of them will be commented. Uncomment the f
+	- There will be so many properties. Many of them will be commented. Uncomment the following and make changes as shown.
 	```json
 	{
 	  "compilerOptions": {
