@@ -98,4 +98,13 @@ console.log(username);
 	console.log(a / b); // Error: Cannot perform arithmetic operation with a number and string
 	console.log(c * b); // Error: Cannot perform arithmetic operation with a number and string
 	```
-2. ****
+2. **Explicit Typing**:
+	- Define variable types explicitly to avoid type errors:
+	```js
+	let a: number = 12;
+	let b: string = "6";
+	let c: number = 2;
+
+	```
+1. **Handling Type Errors**:
+	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
