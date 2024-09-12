@@ -68,4 +68,16 @@ console.log(username);
 	    main.js
     index.html
 	```
-	
+2. **TypeScript Configuration (`tsconfig.json`)**:
+	- Create a `tsconfig.json` file to manage TypeScript project settings:
+	```json
+	{
+	  "compilerOptions": {
+	    "outDir": "./build/js",
+	    "rootDir": "./src",
+	    "target": "ES2016",
+	    "strict": true
+	  },
+	  "include": ["src/**/*"]
+	}
+	```
