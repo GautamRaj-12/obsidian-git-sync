@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "005fc5333427d3c4",
+        "id": "0c8a7b0cbd1b069b",
         "type": "tabs",
         "children": [
           {
-            "id": "00e46f843177f9fc",
+            "id": "eefac7cd078c43c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "typescript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "typescript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md",
+                "file": "typescript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "jetbrains/Tips and Tricks.md"
+                "file": "typescript.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00e46f843177f9fc",
+  "active": "eefac7cd078c43c7",
   "lastOpenFiles": [
+    "jetbrains/Tips and Tricks.md",
     "link.md",
     "typescript.md",
-    "jetbrains/Tips and Tricks.md",
     "java-oops/05_polymorphism.md",
     "java-oops/03_inheritance.md",
     "Pasted image 20240911182344.png",
