@@ -148,7 +148,7 @@ async function getFavoriteNumber(): Promise<number> {
 ```
 
 ## union type
-- 
+- A union type is a type formed from two or more other types, representing values that may be _any one_ of those types. We refer to each of these types as the union’s _members_.
 ```js
 let postId: string | number;
 let isActive: number | boolean | string;
