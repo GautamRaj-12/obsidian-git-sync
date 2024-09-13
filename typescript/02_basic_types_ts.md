@@ -41,7 +41,9 @@ let lastName: string = "Raj";
 
 ## Cases
 ### Case 1:
-- In the 
+- The following code is a perfectly valid js code. As in JS we can reassign a variable when using let and It can be of any data type.
 ```js
-
+let lastName = "Raj"
+lastName = 24
 ```
+- But 
