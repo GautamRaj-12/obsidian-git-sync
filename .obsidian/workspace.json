@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4e1f656fba921082",
+        "id": "55751ac7e93df98b",
         "type": "tabs",
         "children": [
           {
-            "id": "94091d887cc4f54d",
+            "id": "b44ea1564731fc1e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240913094549.png"
+                "file": "typescript/02_basic_types_ts.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240913094549.png",
+                "file": "typescript/02_basic_types_ts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240913094549.png",
+                "file": "typescript/02_basic_types_ts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240913094549.png"
+                "file": "typescript/02_basic_types_ts.md"
               }
             }
           }
@@ -144,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "b44ea1564731fc1e",
   "lastOpenFiles": [
+    "typescript/images/i.md",
     "typescript/02_basic_types_ts.md",
-    "Pasted image 20240913094549.png",
+    "typescript/images/image-1.png",
     "typescript/images",
     "Pasted image 20240911182344.png",
     "typescript/01_typescript_basics.md",

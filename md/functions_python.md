@@ -58,7 +58,7 @@ def greeting(name):
 
 greeting("Hitman")
 ```
-![alt text](images/image-1.png)
+![alt text](md/images/image-1.png)
 
 ***OUTPUT***
 ```
