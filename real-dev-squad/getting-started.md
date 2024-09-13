@@ -17,7 +17,7 @@
    2. Note that not all requirements are listed in the repo. Attempt the task, and get it verified recursively by peers in the `lift-simulation` channel.
    3. Once peer verification is complete, seek verification from members.
    4. If you encounter difficulties, engage with others, join calls for discussions, and clarify doubts.
-   5. Ankush frequently participates in calls. It is highly recommended to join these calls and communicate your doubts or updates directly with Ankush.
+   5. ***Ankush*** frequently participates in calls. It is highly recommended to join these calls and communicate your doubts or updates directly with Ankush.
    6. After receiving member verification, you will be ready for the next step.
 
 6. **Communication is Key**
