@@ -97,7 +97,7 @@ console.log(username);
 	- If we delete a `.ts` file, we need to manually delete the `.js` file.
 1. **Watching for Changes**:
 	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
-	- `tsc -w` : No need to specify files, It will watch all the files in the specified directory.
+	- `tsc -w` : No need to specify files, It will watch all the files in the specified directory (In this case the *src* directory).
 ## Type Checking and Compilation
 1. **Static Type Checking**:
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
