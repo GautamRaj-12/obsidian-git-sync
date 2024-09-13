@@ -1,4 +1,4 @@
-## First Step
+## First Step : Onboarding
 
 1. **Join the Discord Server**
 	- Use the invite link provided to join our community.
@@ -26,7 +26,7 @@
 	     2. If you have exams or health concerns, inform us beforehand so we understand your situation.
 	     3. Failure to communicate in advance may result in the denial of extension requests.
 
-## Second Step
+## Second Step : Requesting a Task
 
 - **Request a Task After Completing the Lift Simulation**
 	  - Once you have finished the Lift Simulation, navigate to the `i-am-idle` channel and request a new task from ***Ankush***.
