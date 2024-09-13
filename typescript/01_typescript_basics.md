@@ -132,4 +132,4 @@ console.log(username);
 	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
 4. `noEmitOnError` property in *tsconfig.json*
 	- If we uncomment it and set it to **true**, TS will not compile into JS if any error exists in ts file.
-	- We can also do this using terminal `tsc --noEmitOnError -w` : This would override an
+	- We can also do this using terminal `tsc --noEmitOnError -w` : This would override anything specified in tsconfig file.
