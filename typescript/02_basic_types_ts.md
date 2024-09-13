@@ -137,5 +137,5 @@ const sum = (a: number, b: number): number => {
 	return a + b;
 };
 ```
-- Now if we try to return string:'
+- Now if we try to return string:
 ![image](typescript/images/image-5.png)
