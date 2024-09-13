@@ -129,12 +129,13 @@ sum("6", "3");
 - Right now in the above code, ts is automatically inferring the return type
 ![image](typescript/images/image-3.png)
 - Let's try to return string:
-![](typescript/images/image-4.png)
+![image](typescript/images/image-4.png)
 - As we can see, we can return string and it inferred the type also to be string.
 - So, it is wise to specify return type also.
 ```js
 const sum = (a: number, b: number): number => {
 	return a + b;
 };
-sum(20, 30);
 ```
+- Now if we try to return string:'
+![image](typescript/images/image-5.png)
