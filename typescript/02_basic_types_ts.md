@@ -114,4 +114,12 @@ sum(20)
 ```
 - It will result in an error:
 	- `Expected 2 arguments, but got 1.ts(2554) main.ts(14, 24): An argument for 'b' was not provided.`
-- If we try to do 
+- If we try to pass strings
+```js
+const sum = (a: number, b: number) => {
+	return a + b;
+};
+sum("6", "3");
+```
+- It will result in an error
+	- Argument of type 'string' is not assignable to parameter of type 'number'.ts(2345)
