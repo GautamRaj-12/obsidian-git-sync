@@ -50,4 +50,10 @@ lastName = 24
 ![image](typescript/images/image-2.png)
 - We can reassign the variable again but only with a string type.
 
+### Case 2:
+- We can declare variable with type and can reassign them later just as in JS.
+```js
+let lastName: string
+lastName = "Raj"
+```
 ### string, number and boolean types
