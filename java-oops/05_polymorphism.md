@@ -251,7 +251,8 @@ public class ShoppingSystem {
 	        // Calling the method with a StringBuffer, this matches the `show(StringBuffer a)` method
 	        obj1.show(new StringBuffer("abx")); // Output: String Buffer method
 	
-	        /* Calling with null causes ambiguity since both String and StringBuffer can accept null This will result in a compile-time error because the compiler can't decide which method to call
+	        /* Calling with null causes ambiguity since both String and StringBuffer can accept null This will result in a compile-time error because the compiler can't decide which method to call*/
+	        
 	        // obj1.show(null);  // Compile-time error: ambiguous method call
 	
 	        // Compile-time error because there's no `show` method that accepts an int
