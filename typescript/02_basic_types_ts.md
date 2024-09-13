@@ -91,12 +91,12 @@ album = true;
 ## functions
 - Functions are the primary means of passing data around in JavaScript. TypeScript allows us to specify the types of both the input and output values of functions.
 - The following is a perfectly fine js code, but ts will show red squiggly lines on the parameters a and b as these are inferred as implicitly any time.
-- In Js we can a
 ```js
 const sum = (a, b) => {
 	return a + b;
 };
 ```
-
+- In Js using the '+' operator we can add numbers or concatenate strings.
+- So
 ### Parameter Type Annotations
 - When we declare a function, we can add type annotations after each parameter to declare what types of parameters the function accepts. Parameter type annotations go after the parameter name:
