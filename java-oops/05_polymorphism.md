@@ -227,5 +227,24 @@ public class ShoppingSystem {
 	```
 	- *CASE 2*
 	```java
-	
+	package polymorphism;  
+  
+	class One{  
+	    void show(Object a){  
+	        System.out.println("Object method");  
+	    }  
+	    void show(String a){  
+	        System.out.println("String method");  
+	    }  
+	}  
+	public class AutomaticPromotion1 {  
+	    public static void main(String[] args) {  
+	        One obj1 = new One();  
+	        obj1.show("sss"); //string method  
+	        obj1.show(5); //automatically promoted to Object  
+	        obj1.show('a'); // automatically promoted to Object  
+	    }  
+	}
 	```
+
+	- Object is the parent class of all the classes in java.
