@@ -146,3 +146,8 @@ async function getFavoriteNumber(): Promise<number> {
 	return 26;
 }
 ```
+
+## union type
+```js
+let album : string|number;
+```
