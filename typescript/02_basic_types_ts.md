@@ -68,3 +68,14 @@ isQualified: true;
 ```
 
 ## any
+```js
+let album:any
+
+album = "Some Album"
+```
+
+```js
+let album:any
+
+alnu
+```
