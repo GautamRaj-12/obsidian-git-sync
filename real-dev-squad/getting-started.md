@@ -63,6 +63,6 @@ Upon your request, Ankush will decide whether to assign you a task. If the GitHu
     - Ensure alignment and correctness of your work.
 5. **Resolve Doubts:**    
     - If you have doubts, feel free to ask questions in the server's respective channel.
-    - For specific technical doubts, ping Tejas or Prakash.
+    - For specific technical doubts, ping Tejas or Vinit.
     - For doubts related to business logic, ping Ankush.
 ![TCR and ER Video](https://www.youtube.com/watch?v=dNtGD1DJicU)
