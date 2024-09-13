@@ -205,3 +205,27 @@ public class ShoppingSystem {
 		 ![[Pasted image 20240911182344.png]]
 - **Different cases of Type Promotion**
 	- *CASE 1*
+	```java
+	package polymorphism;  
+  
+	class One{  
+	    void show(int a){  
+	        System.out.println("int method");  
+	    }  
+	    void show(String a){  
+	        System.out.println("String method");  
+	    }  
+	}  
+	public class AutomaticPromotion1 {  
+	    public static void main(String[] args) {  
+	        One obj1 = new One();  
+	        obj1.show(5); //int method  
+	        obj1.show("sss"); //string method  
+	        obj1.show('a'); // automatically promoted to int  
+	    }  
+	}
+	```
+	- *CASE 2*
+	```java
+	
+	```
