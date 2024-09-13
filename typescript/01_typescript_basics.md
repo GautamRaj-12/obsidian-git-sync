@@ -75,7 +75,7 @@ console.log(username);
 	/build
 	  /js
 	    main.js
-    index.html
+      index.html
 	```
 2. **TypeScript Configuration (`tsconfig.json`)**:
 	- Create a `tsconfig.json` file using  ***tsc --init***  command to manage TypeScript project settings:
@@ -100,6 +100,9 @@ console.log(username);
 	- `tsc -w` : No need to specify files, It will watch all the files in the specified directory (In this case the *src* directory).
 ## Type Checking and Compilation
 1. **Static Type Checking**:
+	- In Js - the following code would be completely fine:
+		```
+```
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
 	- Example:
 	```js
