@@ -73,7 +73,7 @@ isQualified = true;
 ```
 
 ## any
-- In some situations, not all type information is available or its declaration would take an inappropriate amount of effort. These may occur for values from code that has been written without TypeScript or a 3rd party library. In these cases, we might want to opt-out of type checking. To do so, we label these values with the `any` type:
+- In some ways, it just defeats typescript as It allows any type of value.
 ```js
 let album:any
 
