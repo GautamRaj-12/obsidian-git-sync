@@ -109,10 +109,10 @@ console.log(username);
 	```
 	- There will be  no compile time error: JS will do type coercion and give the result as 2.
 	- If we right like this in ts, It will show red squiggly line due to compile time checking.
-	- So, TS basically infers the type according to the value pr
+	- So, TS basically infers the type according to the value provided and thus it infers that 6 is a string and gives an error.
 	- One thing to keep in mind is that It will still compile it into JS.
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
-	- Example:
+	- Example: Specifying Stat
 	```js
 	let a: number = 12;
 	let b: string = "6";
