@@ -74,6 +74,7 @@ isQualified = true;
 
 ## any
 - In some ways, it just defeats typescript as It allows any type of value.
+- We can use whenever you don’t want a particular value to cause typechecking errors.
 ```js
 let album:any
 
@@ -82,3 +83,5 @@ album = 2000;
 album = true;
 ```
 
+- The `any` type is useful when you don’t want to write out a long type just to convince TypeScript that a particular line of code is okay.
+- We shouldn't use it all the time, but some
