@@ -107,7 +107,8 @@ console.log(username);
 	let c = 2;
 	console.log(a/b)
 	```
-	- There will be  no compile time e
+	- There will be  no compile time error: JS will do type coercion and give the result as 2.
+	- If we right like this in ts, It will show red squiggly line due to compile time c
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
 	- Example:
 	```js
