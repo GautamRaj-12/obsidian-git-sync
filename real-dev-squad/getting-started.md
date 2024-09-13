@@ -5,4 +5,6 @@
 4. In that channel read "How to start as a developer"
 5. Complete **Lift Simulation** task within 31 Days
 	1. [lift simulation repo](https://github.com/Real-Dev-Squad/Lift-**Simulation**)
-	2. Not all the requirements are listed here, so attem
+	2. Not all the requirements are listed here, so attempt it , go to `lift-simulation` channel and get it recursively verified by peers.
+	3. Once peers have verified, get it verified by members.
+	4. Aft
