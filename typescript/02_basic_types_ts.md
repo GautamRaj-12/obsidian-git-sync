@@ -47,4 +47,5 @@ let lastName = "Raj"
 lastName = 24
 ```
 - But in TS, TS will infer the type of data type and will give red squiggly line, even if we don't explicitly declare it is a string.
-![[Pasted image 20240913095346.png]]
+![image](typescript/images/image-2.png)
+- We can reassign the variable again but only with a string
