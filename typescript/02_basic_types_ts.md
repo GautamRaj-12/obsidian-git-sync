@@ -130,7 +130,8 @@ sum("6", "3");
 ![image](typescript/images/image-3.png)
 - Let's try to return string:
 ![](typescript/images/image-4.png)
-- We can explicitly specify the return type as:
+- As we can see, we can return string and it inferred the type also to be string.
+- So, it is wise to specify return type also.
 ```js
 const sum = (a: number, b: number): number => {
 	return a + b;
