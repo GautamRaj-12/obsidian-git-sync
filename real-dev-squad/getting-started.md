@@ -29,4 +29,6 @@
 ## Second Step
 - After completing lift simulation. Go to `i-am-idle` channel and ask Ankush for a task.
 - You have to ask for a task following a proper formatting.
-- That formatting can be found in the 
+- That formatting can be found in the pinned message in the channel.
+- Keep keep giving ankush gentle reminders if you are not getting any task.
+- Bonus Tip: Join calls to get tasks quickly.
