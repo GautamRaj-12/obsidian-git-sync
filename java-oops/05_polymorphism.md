@@ -116,75 +116,83 @@ public class Main {
 
 ## A more practical example involving both overloading and overriding
 ```java
-class Payment {
-    // Overloaded method - payment by credit card
-    void makePayment(String cardNumber, String expiry, String cvv) {
-        System.out.println("Payment made using credit card: " + cardNumber);
+// Base class for general shopping
+class Shopping {
+    
+    // Overloaded method - purchase a single item
+    void purchase(String itemName) {
+        System.out.println("Purchased item: " + itemName);
     }
-
-    // Overloaded method - payment by PayPal
-    void makePayment(String paypalEmail) {
-        System.out.println("Payment made using PayPal account: " + paypalEmail);
+    
+    // Overloaded method - purchase multiple items
+    void purchase(String[] itemNames) {
+        System.out.println("Purchased items: ");
+        for(String item : itemNames) {
+            System.out.println(item);
+        }
     }
-
-    // Overloaded method - cash on delivery
-    void makePayment() {
-        System.out.println("Payment will be made by cash on delivery.");
-    }
-}
-
-// Subclass that overrides the makePayment methods
-class DiscountedPayment extends Payment {
-
-    // Overriding method for credit card payment (applying discount)
-    @Override
-    void makePayment(String cardNumber, String expiry, String cvv) {
-        System.out.println("Payment made using credit card: " + cardNumber);
-        System.out.println("Discount applied on credit card payment.");
-    }
-
-    // Overriding method for PayPal payment (applying discount)
-    @Override
-    void makePayment(String paypalEmail) {
-        System.out.println("Payment made using PayPal account: " + paypalEmail);
-        System.out.println("Discount applied on PayPal payment.");
-    }
-
-    // Overriding method for cash on delivery (applying discount)
-    @Override
-    void makePayment() {
-        System.out.println("Payment will be made by cash on delivery.");
-        System.out.println("Discount applied for cash on delivery.");
+    
+    // Overloaded method - purchase with a coupon
+    void purchase(String itemName, String couponCode) {
+        System.out.println("Purchased item: " + itemName);
+        System.out.println("Applied coupon: " + couponCode);
     }
 }
 
-public class ECommerce {
+// Subclass that overrides the purchase methods to apply discounts
+class DiscountShopping extends Shopping {
+
+    // Overriding method - purchase a single item with a discount
+    @Override
+    void purchase(String itemName) {
+        System.out.println("Purchased item with discount: " + itemName);
+    }
+
+    // Overriding method - purchase multiple items with a discount
+    @Override
+    void purchase(String[] itemNames) {
+        System.out.println("Purchased items with discount: ");
+        for(String item : itemNames) {
+            System.out.println(item);
+        }
+    }
+
+    // Overriding method - purchase with a coupon and additional discount
+    @Override
+    void purchase(String itemName, String couponCode) {
+        System.out.println("Purchased item: " + itemName);
+        System.out.println("Applied coupon: " + couponCode);
+        System.out.println("Additional discount for premium member.");
+    }
+}
+
+public class ShoppingSystem {
     public static void main(String[] args) {
-        Payment payment = new Payment();
-        DiscountedPayment discountedPayment = new DiscountedPayment();
+        Shopping normalShopping = new Shopping();
+        DiscountShopping premiumShopping = new DiscountShopping();
         
-        System.out.println("Normal Payment:");
-        // Paying by credit card with normal payment
-        payment.makePayment("1234-5678-9876-5432", "12/25", "123");
+        System.out.println("---- Normal Shopping ----");
+        // Normal shopping for a single item
+        normalShopping.purchase("Laptop");
         
-        // Paying by PayPal with normal payment
-        payment.makePayment("user@example.com");
+        // Normal shopping for multiple items
+        String[] items = {"Laptop", "Headphones", "Mouse"};
+        normalShopping.purchase(items);
         
-        // Choosing cash on delivery with normal payment
-        payment.makePayment();
+        // Normal shopping with a coupon
+        normalShopping.purchase("Smartphone", "DISCOUNT10");
         
-        System.out.println("\nDiscounted Payment:");
-        // Paying by credit card with discount applied
-        discountedPayment.makePayment("5678-1234-8765-4321", "11/24", "456");
+        System.out.println("\n---- Premium Member Shopping ----");
+        // Premium shopping for a single item
+        premiumShopping.purchase("Laptop");
         
-        // Paying by PayPal with discount applied
-        discountedPayment.makePayment("discountedUser@example.com");
+        // Premium shopping for multiple items
+        premiumShopping.purchase(items);
         
-        // Choosing cash on delivery with discount applied
-        discountedPayment.makePayment();
+        // Premium shopping with a coupon
+        premiumShopping.purchase("Smartphone", "PREMIUM20");
     }
 }
-
 ```
 ## Important Questions
 - **Can we achieve method overloading by changing the return type of method only?**
