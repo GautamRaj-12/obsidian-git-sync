@@ -113,6 +113,79 @@ public class Main {
 	    }
 	}
 	```
+
+## A more practical example involving both overloading and overriding
+```java
+class Payment {
+    // Overloaded method - payment by credit card
+    void makePayment(String cardNumber, String expiry, String cvv) {
+        System.out.println("Payment made using credit card: " + cardNumber);
+    }
+
+    // Overloaded method - payment by PayPal
+    void makePayment(String paypalEmail) {
+        System.out.println("Payment made using PayPal account: " + paypalEmail);
+    }
+
+    // Overloaded method - cash on delivery
+    void makePayment() {
+        System.out.println("Payment will be made by cash on delivery.");
+    }
+}
+
+// Subclass that overrides the makePayment methods
+class DiscountedPayment extends Payment {
+
+    // Overriding method for credit card payment (applying discount)
+    @Override
+    void makePayment(String cardNumber, String expiry, String cvv) {
+        System.out.println("Payment made using credit card: " + cardNumber);
+        System.out.println("Discount applied on credit card payment.");
+    }
+
+    // Overriding method for PayPal payment (applying discount)
+    @Override
+    void makePayment(String paypalEmail) {
+        System.out.println("Payment made using PayPal account: " + paypalEmail);
+        System.out.println("Discount applied on PayPal payment.");
+    }
+
+    // Overriding method for cash on delivery (applying discount)
+    @Override
+    void makePayment() {
+        System.out.println("Payment will be made by cash on delivery.");
+        System.out.println("Discount applied for cash on delivery.");
+    }
+}
+
+public class ECommerce {
+    public static void main(String[] args) {
+        Payment payment = new Payment();
+        DiscountedPayment discountedPayment = new DiscountedPayment();
+        
+        System.out.println("Normal Payment:");
+        // Paying by credit card with normal payment
+        payment.makePayment("1234-5678-9876-5432", "12/25", "123");
+        
+        // Paying by PayPal with normal payment
+        payment.makePayment("user@example.com");
+        
+        // Choosing cash on delivery with normal payment
+        payment.makePayment();
+        
+        System.out.println("\nDiscounted Payment:");
+        // Paying by credit card with discount applied
+        discountedPayment.makePayment("5678-1234-8765-4321", "11/24", "456");
+        
+        // Paying by PayPal with discount applied
+        discountedPayment.makePayment("discountedUser@example.com");
+        
+        // Choosing cash on delivery with discount applied
+        discountedPayment.makePayment();
+    }
+}
+
+```
 ## Important Questions
 - **Can we achieve method overloading by changing the return type of method only?**
 	- No, Because of ambiguity
