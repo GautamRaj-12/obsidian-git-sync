@@ -148,7 +148,16 @@ async function getFavoriteNumber(): Promise<number> {
 ```
 
 ## union type
+- 
 ```js
-let postId : string|number;
-let isActive : number|boolean|string;
+let postId: string | number;
+let isActive: number | boolean | string;
+
+postId = "12";
+postId = 12;
+postId = true; //error : Type 'boolean' is not assignable to type 'string | number'.
+
+isActive = 1;
+isActive = true;
+isActive = "true";
 ```
