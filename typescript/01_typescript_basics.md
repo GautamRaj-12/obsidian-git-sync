@@ -108,7 +108,9 @@ console.log(username);
 	console.log(a/b)
 	```
 	- There will be  no compile time error: JS will do type coercion and give the result as 2.
-	- If we right like this in ts, It will show red squiggly line due to compile time c
+	- If we right like this in ts, It will show red squiggly line due to compile time checking.
+	- So, TS basically infers the type according to the value pr
+	- One thing to keep in mind is that It will still compile it into JS.
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
 	- Example:
 	```js
