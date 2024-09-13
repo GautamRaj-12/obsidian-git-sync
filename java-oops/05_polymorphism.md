@@ -83,10 +83,37 @@ public class Main {
 ## Method Overriding
 - Multiple methods with same name.
 - Both methods in same class.
-- Same Arguments (Any of the following)
+- Same Arguments (All of the following should be exact same)
 	- Numbers
 	- Sequence
 	- Type of Arguments
+	```java
+	class Employee {
+    public void calculateSalary(int baseSalary) {
+        System.out.println("Employee salary: " + baseSalary);
+    }
+}
+
+class Manager extends Employee {
+    // Overriding method with the same number of arguments
+    @Override
+    public void calculateSalary(int baseSalary) {
+        int bonus = 5000;
+        System.out.println("Manager salary: " + (baseSalary + bonus));
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Employee emp = new Employee();
+        emp.calculateSalary(30000); // Calls Employee's method
+
+        Manager mgr = new Manager();
+        mgr.calculateSalary(30000); // Calls Manager's method (overridden)
+    }
+}
+
+	```
 ## Important Questions
 - **Can we achieve method overloading by changing the return type of method only?**
 	- No, Because of ambiguity
