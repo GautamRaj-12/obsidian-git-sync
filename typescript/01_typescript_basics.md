@@ -107,12 +107,12 @@ console.log(username);
 	let c = 2;
 	console.log(a/b)
 	```
-	- There will be  no compile time error: JS will do type coercion and give the result as 2.
+	- There will be  no compile time error: JS will do type coercion and give the result as 2. (Dynamic Nature of JS)
 	- If we right like this in ts, It will show red squiggly line due to compile time checking.
 	- So, TS basically infers the type according to the value provided and thus it infers that 6 is a string and gives an error.
 	- One thing to keep in mind is that It will still compile it into JS.
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
-	- Example: Specifying Stat
+	- Example: Specifying Static Data Types
 	```js
 	let a: number = 12;
 	let b: string = "6";
@@ -130,3 +130,5 @@ console.log(username);
 	```
 3. **Handling Type Errors**:
 	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
+4. `noEmitOnError` property in *tsconfig.json*
+5. 
