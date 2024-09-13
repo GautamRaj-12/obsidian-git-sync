@@ -140,4 +140,9 @@ const sum = (a: number, b: number): number => {
 - Now if we try to return string:
 ![image](typescript/images/image-5.png)
 ### Functions Which Return Promises
-	- If we want to annotate the return type of a function which returns a promise, we should use the `Promise` type:
+-  If we want to annotate the return type of a function which returns a promise, we should use the `Promise` type:
+```js
+async function getFavoriteNumber(): Promise<number> {
+	return 26;
+}
+```
