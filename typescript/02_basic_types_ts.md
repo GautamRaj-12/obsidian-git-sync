@@ -84,4 +84,5 @@ album = true;
 ```
 
 - The `any` type is useful when you don’t want to write out a long type just to convince TypeScript that a particular line of code is okay.
-- We shouldn't use it all the time, but some
+- We shouldn't use it all the time, but sometimes we may need it.
+- **noImplicitAny***
