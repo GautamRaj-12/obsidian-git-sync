@@ -72,10 +72,7 @@ isQualified: true;
 let album:any
 
 album = "Some Album"
+album = 2000;
+album = true;
 ```
 
-```js
-let album:any
-
-alnu
-```
