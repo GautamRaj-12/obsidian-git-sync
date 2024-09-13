@@ -248,3 +248,4 @@ public class ShoppingSystem {
 	```
 
 	- Object is the parent class of all the classes in java.
+		- While resolving Overloaded methods, Compiler will always give precedence for the child type argument compared to the parent type argument.
