@@ -124,3 +124,6 @@ sum("6", "3");
 ```
 - It will result in an error
 	- `Argument of type 'string' is not assignable to parameter of type 'number'.ts(2345)`
+### Return Type Annotations
+- We can also add return type annotations. Return type annotations appear after the parameter list:
+- Right now in the above code, ts is automat
