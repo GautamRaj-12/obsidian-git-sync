@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "typescript/02_basic_types_ts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "typescript/02_basic_types_ts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/01_typescript_basics.md",
+                "file": "typescript/02_basic_types_ts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/01_typescript_basics.md"
+                "file": "typescript/02_basic_types_ts.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ccbda49285c8414c",
   "lastOpenFiles": [
-    "typescript/02_basic_types_ts.md",
     "typescript/01_typescript_basics.md",
+    "typescript/02_basic_types_ts.md",
     "md/functions_python.md",
     "md/images/image.png",
     "md/images",
