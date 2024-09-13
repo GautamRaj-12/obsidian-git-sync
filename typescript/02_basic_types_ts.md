@@ -126,4 +126,6 @@ sum("6", "3");
 	- `Argument of type 'string' is not assignable to parameter of type 'number'.ts(2345)`
 ### Return Type Annotations
 - We can also add return type annotations. Return type annotations appear after the parameter list:
-- Right now in the above code, ts is automat
+- Right now in the above code, ts is automatically inferring the return type
+![image](typescript/images/image-3.png)
+- We can specify the 

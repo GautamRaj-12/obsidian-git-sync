@@ -98,7 +98,7 @@ def difference(a,b):
 diff=difference(60,50)
 print("Difference: ",diff)
 ```
-![alt text](images/image-3.png)
+![alt text](md/images/image-3.png)
 
 ### returning multiple values
 
