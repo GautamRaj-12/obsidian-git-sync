@@ -107,6 +107,7 @@ console.log(username);
 	let c = 2;
 	console.log(a/b)
 	```
+	- There will be  no compile time e
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
 	- Example:
 	```js
