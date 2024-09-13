@@ -87,6 +87,7 @@ album = true;
 - We shouldn't use it all the time, but sometimes we may need it.
 - **noImplicitAny***
 	- When we don’t specify a type, and TypeScript can’t infer it from context, the compiler will typically default to `any`.
-	- You usually want to avoid this, though, because `any` isn’t type-checked. Use the compiler flag [`noImplicitAny`](https://www.typescriptlang.org/tsconfig#noImplicitAny) to flag any implicit `any` as an error. (Can be found in tsconfig.json file)
+	- We usually want to avoid this, though, because `any` isn’t type-checked. Use the compiler flag [`noImplicitAny`](https://www.typescriptlang.org/tsconfig#noImplicitAny) to flag any implicit `any` as an error. (Can be found in tsconfig.json file)
 ## functions
 - Functions are the primary means of passing data around in JavaScript. TypeScript allows us to specify the types of both the input and output values of functions.
+- 
