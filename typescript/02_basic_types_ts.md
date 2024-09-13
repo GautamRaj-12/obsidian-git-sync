@@ -90,5 +90,11 @@ album = true;
 	- We usually want to avoid this, though, because `any` isn’t type-checked. Use the compiler flag [`noImplicitAny`](https://www.typescriptlang.org/tsconfig#noImplicitAny) to flag any implicit `any` as an error. (Can be found in tsconfig.json file)
 ## functions
 - Functions are the primary means of passing data around in JavaScript. TypeScript allows us to specify the types of both the input and output values of functions.
+```js
+const sum = (a, b) => {
+	return a + b;
+};
+```
+- 
 ### Parameter Type Annotations
 - When we declare a function, we can add type annotations after each parameter to declare what types of parameters the function accepts. Parameter type annotations go after the parameter name:
