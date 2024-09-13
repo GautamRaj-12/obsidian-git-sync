@@ -24,4 +24,5 @@
 ```js
 let lastName = "Raj"
 ```
-- It is a sim
+- It is a simple JS code, but when we hover over it, we see the following:
+ ![[Pasted image 20240913094549.png]]

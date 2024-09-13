@@ -11,11 +11,9 @@
             "id": "94091d887cc4f54d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240913094549.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
+                "file": "Pasted image 20240913094549.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
+                "file": "Pasted image 20240913094549.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/02_basic_types_ts.md"
+                "file": "Pasted image 20240913094549.png"
               }
             }
           }
@@ -146,10 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94091d887cc4f54d",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
-    "Pasted image 20240911182344.png",
     "typescript/02_basic_types_ts.md",
+    "Pasted image 20240913094549.png",
+    "typescript/images",
+    "Pasted image 20240911182344.png",
     "typescript/01_typescript_basics.md",
     "md/functions_python.md",
     "md/images/image.png",
@@ -173,7 +173,6 @@
     "designs/images/image-5.png",
     "designs/images/image-4.png",
     "designs/images/image-3.png",
-    "designs/images/image-2.png",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
@@ -192,7 +191,6 @@
     "md/leetcode/remove_duplicates.pdf",
     "md/BG",
     "md/leetcode/two_sum.pdf",
-    "md/leetcode",
     "Untitled.canvas"
   ]
 }
