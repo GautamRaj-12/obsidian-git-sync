@@ -25,3 +25,6 @@
 	     1. Update your progress regularly, e.g., "Today, I studied CSS animations to implement them in the lift."
 	     2. If you have exams or health concerns, inform us beforehand so we understand your situation.
 	     3. Failure to communicate in advance may result in the denial of extension requests.
+
+## Second Step
+- After completing lift simulation. Go to `i-am-idle` ch
