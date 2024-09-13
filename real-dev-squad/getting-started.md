@@ -44,3 +44,11 @@
 	-  Look for issues or bugs and report them to Ankush to receive a task.
 
 ## Third Step : 
+Upon your request, Ankush will decide whether to assign you a task. If the GitHub issue for the task is already created, proceed to create a TCR (Task Creation Request). If not,first create an issue then create the TCR first and then seek approval from Ankush. Once approved, start working on the task.
+
+1. **Create a TCR(Task creation request)**
+    - Visit the [Status Page](https://status.realdevsquad.com/issues).
+    - Click on the 'Issues' tab and paste the GitHub issue title, then press 'Submit'.
+    - On the Status Page, click 'Request as Task'.
+    - Set a reasonable time limit for task completion, the time you will need to get your code to **production**. Once again, the time you entering here will be the time in which your code is in the **production** and ready to use(not any intermediary state).
+    - After submitting, you will be redirected to a dashboard.
