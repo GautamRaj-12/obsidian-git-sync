@@ -94,25 +94,24 @@ public class Main {
     }
 }
 
-class Manager extends Employee {
-    // Overriding method with the same number of arguments
-    @Override
-    public void calculateSalary(int baseSalary) {
-        int bonus = 5000;
-        System.out.println("Manager salary: " + (baseSalary + bonus));
-    }
-}
-
-public class Main {
-    public static void main(String[] args) {
-        Employee emp = new Employee();
-        emp.calculateSalary(30000); // Calls Employee's method
-
-        Manager mgr = new Manager();
-        mgr.calculateSalary(30000); // Calls Manager's method (overridden)
-    }
-}
-
+	class Manager extends Employee {
+	    // Overriding method with the same number of arguments
+	    @Override
+	    public void calculateSalary(int baseSalary) {
+	        int bonus = 5000;
+	        System.out.println("Manager salary: " + (baseSalary + bonus));
+	    }
+	}
+	
+	public class Main {
+	    public static void main(String[] args) {
+	        Employee emp = new Employee();
+	        emp.calculateSalary(30000); // Calls Employee's method
+	
+	        Manager mgr = new Manager();
+	        mgr.calculateSalary(30000); // Calls Manager's method (overridden)
+	    }
+	}
 	```
 ## Important Questions
 - **Can we achieve method overloading by changing the return type of method only?**
