@@ -27,8 +27,16 @@
 	     3. Failure to communicate in advance may result in the denial of extension requests.
 
 ## Second Step
-- After completing lift simulation. Go to `i-am-idle` channel and ask Ankush for a task.
-- You have to ask for a task following a proper formatting.
-- That formatting can be found in the pinned message in the channel.
-- Keep keep giving ankush gentle reminders if you are not getting any task.
-- Bonus Tip: Join calls to get tasks quickly.
+
+
+-  **Request a Task After Completing the Lift Simulation**
+	  - Once you have finished the Lift Simulation, navigate to the `i-am-idle` channel and request a new task from Ankush.
+
+- **Follow Proper Formatting for Requests**
+	  - Ensure that you request a task using the correct formatting. You can find the required formatting in the pinned message within the `i-am-idle` channel.
+
+- **Send Gentle Reminders if Needed**
+	  - If you do not receive a task promptly, send gentle reminders to Ankush.
+
+- **Bonus Tip: Join Calls for Faster Task Allocation**
+	  - Participating in calls can help you get assigned tasks more quickly.
