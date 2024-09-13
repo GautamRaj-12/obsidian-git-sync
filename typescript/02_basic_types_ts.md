@@ -10,4 +10,9 @@
 - **STATIC TYPING**
 	- TS is a statically typed language. **That means types are checked at compile time.**
 - **DYNAMIC TYPING**
-	- JS is a dynamically typed language. **That means ty**
+	- JS is a dynamically typed language. **That means types are checked at run time.**
+
+## Benefits of TS
+- Self documenting code
+- Catch errors in development
+- Great For Teams
