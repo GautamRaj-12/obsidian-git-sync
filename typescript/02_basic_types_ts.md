@@ -38,3 +38,10 @@ let lastName = "Raj"
 ```js
 let lastName: string = "Raj";
 ```
+
+## Cases
+### Case 1:
+- In the 
+```js
+
+```
