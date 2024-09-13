@@ -128,6 +128,8 @@ sum("6", "3");
 - We can also add return type annotations. Return type annotations appear after the parameter list:
 - Right now in the above code, ts is automatically inferring the return type
 ![image](typescript/images/image-3.png)
+- Let's try to return string:
+![](typescript/images/image-4.png)
 - We can explicitly specify the return type as:
 ```js
 const sum = (a: number, b: number): number => {
