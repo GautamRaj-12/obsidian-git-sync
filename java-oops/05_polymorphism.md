@@ -15,10 +15,71 @@
 - Different Arguments (Any of the following)
 	- Numbers
 	```java
-	## Method Overloading - Multiple methods with same name. - Both methods in same class. - Different Arguments (Any of the following) - Numbers - Sequence - Type of Arguments give practical real life example for all the 3 cases
+	class BankAccount {
+    // Method with one argument
+    public void createAccount(String accountHolder) {
+        System.out.println("Account created for: " + accountHolder);
+    }
+
+    // Method with two arguments
+    public void createAccount(String accountHolder, double initialDeposit) {
+        System.out.println("Account created for: " + accountHolder + " with initial deposit: $" + initialDeposit);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        BankAccount account = new BankAccount();
+        account.createAccount("Gautam Raj");
+        account.createAccount("Gautam Raj", 5000);
+    }
+}
     ```
 	- Sequence
+	```java
+	class Rectangle {
+    // Method where length comes first
+    public void calculateArea(int length, int width) {
+        System.out.println("Area (length first): " + (length * width));
+    }
+
+    // Method where width comes first
+    public void calculateArea(double width, int length) {
+        System.out.println("Area (width first): " + (length * width));
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Rectangle rect = new Rectangle();
+        rect.calculateArea(10, 5);   // length first
+        rect.calculateArea(5.0, 10); // width first (using double for width)
+    }
+}
+
+	```
 	- Type of Arguments
+	```java
+	class Calculator {
+    // Method to add two integers
+    public int add(int a, int b) {
+        return a + b;
+    }
+
+    // Method to add two floating-point numbers
+    public double add(double a, double b) {
+        return a + b;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Calculator calc = new Calculator();
+        System.out.println("Integer sum: " + calc.add(5, 10));          // integer addition
+        System.out.println("Double sum: " + calc.add(5.5, 10.25));      // double addition
+    }
+}
+	```
 ## Method Overriding
 - Multiple methods with same name.
 - Both methods in same class.
