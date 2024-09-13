@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "md/functions_python.md",
+                "file": "typescript/01_typescript_basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/functions_python.md",
+                "file": "typescript/01_typescript_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "md/functions_python.md",
+                "file": "typescript/01_typescript_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/functions_python.md"
+                "file": "typescript/01_typescript_basics.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ccbda49285c8414c",
   "lastOpenFiles": [
-    "md/images/image.png",
     "md/functions_python.md",
+    "md/images/image.png",
     "md/images",
     "typescript/01_typescript_basics.md",
     "typescript",
@@ -179,7 +179,6 @@
     "md/function_usefulness.md",
     "os/02_Computer_System.md",
     "os/01_Introduction.md",
-    "os/images/image-2.png",
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
