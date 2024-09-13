@@ -86,3 +86,5 @@ album = true;
 - The `any` type is useful when you don’t want to write out a long type just to convince TypeScript that a particular line of code is okay.
 - We shouldn't use it all the time, but sometimes we may need it.
 - **noImplicitAny***
+	- When you don’t specify a type, and TypeScript can’t infer it from context, the compiler will typically default to `any`.
+	- You usually want to avoid this, though, because `any` isn’t type-checked. Use the compiler flag [`noImplicitAny`](https://www.typescriptlang.org/tsconfig#noImplicitAny) to flag any implicit `any` as an error.
