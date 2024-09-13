@@ -105,6 +105,7 @@ const sum = (a:number, b:number) => {
 	return a + b;
 };
 ```
+- When a parameter has a type annotation, arguments to that function will be checked:
 - Now if we try to do the following:
 ```js
 const sum = (a:number, b:number) => {
@@ -122,4 +123,4 @@ const sum = (a: number, b: number) => {
 sum("6", "3");
 ```
 - It will result in an error
-	- Argument of type 'string' is not assignable to parameter of type 'number'.ts(2345)
+	- `Argument of type 'string' is not assignable to parameter of type 'number'.ts(2345)`
