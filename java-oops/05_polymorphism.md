@@ -14,6 +14,9 @@
 - Both methods in same class.
 - Different Arguments (Any of the following)
 	- Numbers
+	```java
+	## Method Overloading - Multiple methods with same name. - Both methods in same class. - Different Arguments (Any of the following) - Numbers - Sequence - Type of Arguments give practical real life example for all the 3 cases
+    ```
 	- Sequence
 	- Type of Arguments
 ## Method Overriding
