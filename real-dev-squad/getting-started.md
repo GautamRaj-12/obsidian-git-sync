@@ -39,3 +39,5 @@
 
 - **Bonus Tip: Join Calls for Faster Task Allocation**
 	- Participating in calls can help you get assigned tasks more quickly.
+
+- **One More Way**: 
