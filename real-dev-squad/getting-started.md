@@ -1,19 +1,27 @@
 ## Procedure
-1. Join the discord server
-2. Follow rules to get verified
-3. After that you will be able to see `forum-discussion` channel.
-4. In that channel read "How to start as a developer"
-5. Complete **Lift Simulation** task within 31 Days
-	1. [lift simulation repo](https://github.com/Real-Dev-Squad/Lift-**Simulation**)
-	2. Not all the requirements are listed here, so attempt it , go to `lift-simulation` channel and get it recursively verified by peers.
-	3. Once peers have verified, get it verified by members.
-	4. If you feel stuck, make friends, join in calls to discuss and get your doubts cleared.
-	5. Ankush regularly joins calls, it is highly advisable to join in the calls, communicate properly with Ankush, regarding doubts or updates.
-	6. After you get verified by the members, you are ready for the next step.
-	7. Remember communication is key, if for some reason, you won't be able to complete the task on time beforehand. Don't randomly come on the 25th day and say, Can you extend.
-		1. If you don't know anything, then communicate everyday that today i studied this to achieve this in the task.(ex studied css animations to add animations to the lift etc.)
-		2. If you have exams or health issues, please communicate before hand, that you will be having exams so you will be working on it after some days.
-		3. If you don't communicate like this, you won't be getting any extensions.
 
+1. **Join the Discord Server**
+   - Use the invite link provided to join our community.
 
-6. The next step is to go to `i-am-idle` channel and request Ankush to give you a task. For requesting task you need to follow a definite formatting, which you can find in pinned messages.
+2. **Follow Rules to Get Verified**
+   - Adhere to the server rules and complete the verification process.
+
+3. **Access the `forum-discussion` Channel**
+   - Once verified, you will have access to the `forum-discussion` channel.
+
+4. **Read the "How to Start as a Developer" Guide**
+   - Locate and read the guide titled "How to Start as a Developer" in the `forum-discussion` channel.
+
+5. **Complete the **Lift Simulation** Task Within 31 Days**
+   1. Review the [Lift Simulation Repository](https://github.com/Real-Dev-Squad/Lift-Simulation).
+   2. Note that not all requirements are listed in the repo. Attempt the task, and get it verified recursively by peers in the `lift-simulation` channel.
+   3. Once peer verification is complete, seek verification from members.
+   4. If you encounter difficulties, engage with others, join calls for discussions, and clarify doubts.
+   5. Ankush frequently participates in calls. It is highly recommended to join these calls and communicate your doubts or updates directly with Ankush.
+   6. After receiving member verification, you will be ready for the next step.
+
+6. **Communication is Key**
+   - If you anticipate any delays or issues, communicate in advance rather than requesting extensions at the last moment.
+     1. Update your progress regularly, e.g., "Today, I studied CSS animations to implement them in the lift."
+     2. If you have exams or health concerns, inform us beforehand so we understand your situation.
+     3. Failure to communicate in advance may result in the denial of extension requests.
