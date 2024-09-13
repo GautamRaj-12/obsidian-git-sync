@@ -42,3 +42,5 @@
 
 - **One More Way: Identify and Report Issues or Bugs** 
 	-  Look for issues or bugs and report them to Ankush to receive a task.
+
+## Third Step : 
