@@ -16,3 +16,7 @@
 - Self documenting code
 - Catch errors in development
 - Great For Teams
+
+## More Terms
+### Inference
+- 
