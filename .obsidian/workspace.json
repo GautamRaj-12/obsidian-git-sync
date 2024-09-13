@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "resources/resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "resources/resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "resources/resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/05_polymorphism.md"
+                "file": "resources/resources.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
+    "java-oops/05_polymorphism.md",
+    "resources/resources.md",
+    "resources",
     "java-oops/04_association.md",
     "java-oops/03_inheritance.md",
     "java-oops/02_classes_objects_constructors.md",
     "java-oops/01_introduction_to_oops.md",
-    "java-oops/05_polymorphism.md",
     "typescript/02_basic_types_ts.md",
     "typescript/images/image-5.png",
     "typescript/images/image-4.png",
@@ -192,7 +194,6 @@
     "interview-checklist",
     "md/leetcode/remove_duplicates.pdf",
     "md/BG",
-    "md/leetcode/two_sum.pdf",
     "Untitled.canvas"
   ]
 }
