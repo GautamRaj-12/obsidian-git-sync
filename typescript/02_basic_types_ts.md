@@ -149,5 +149,6 @@ async function getFavoriteNumber(): Promise<number> {
 
 ## union type
 ```js
-let album : string|number;
+let postId : string|number;
+let isActive : number|boolean|string;
 ```
