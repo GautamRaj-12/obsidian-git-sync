@@ -52,3 +52,19 @@ Upon your request, Ankush will decide whether to assign you a task. If the GitHu
     - On the Status Page, click 'Request as Task'.
     - Set a reasonable time limit for task completion, the time you will need to get your code to **production**. Once again, the time you entering here will be the time in which your code is in the **production** and ready to use(not any intermediary state).
     - After submitting, you will be redirected to a dashboard.
+2. **Copy Dashboard URL and Tag for Approval:**
+	- Copy the dashboard URL.    
+	- Tag Ankush requesting approval using channels `new-tasks` or `i-am-idle` on discord.    
+	- And ask him to approve.
+1. **Work on Approved Task:**
+    
+    - After Ankush's approval, start working on the assigned task.
+2. **Seek Clarification When Needed:**
+    
+    - If you face difficulties, discuss them with Ankush, Application Owner, or Feature Owner.
+    - Ensure alignment and correctness of your work.
+3. **Resolve Doubts:**
+    
+    - If you have doubts, feel free to ask questions in the server's respective channel.
+    - For specific technical doubts, ping Tejas or Prakash.
+    - For doubts related to business logic, ping Ankush.
