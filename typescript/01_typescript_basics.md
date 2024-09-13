@@ -101,8 +101,12 @@ console.log(username);
 ## Type Checking and Compilation
 1. **Static Type Checking**:
 	- In Js - the following code would be completely fine:
-		```
-```
+	```js
+	let a = 12;
+	let b = "6";
+	let c = 2;
+	console.log(a/b)
+	```
 	-  TypeScript provides compile-time type checking, reducing runtime errors.
 	- Example:
 	```js
