@@ -27,5 +27,6 @@
 	     3. Failure to communicate in advance may result in the denial of extension requests.
 
 ## Second Step
-- After completing lift simulation. Go to `i-am-idle` channel. 
-- 
+- After completing lift simulation. Go to `i-am-idle` channel and ask Ankush for a task.
+- You have to ask for a task following a proper formatting.
+- That formatting can be found in the 
