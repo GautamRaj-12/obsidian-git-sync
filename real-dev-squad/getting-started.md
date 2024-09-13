@@ -21,7 +21,7 @@
 	   6. After receiving member verification, you will be ready for the next step.
 
 6. **Communication is Key**
-	- If you anticipate any delays or issues,  communicate in advance rather than requesting extensions at the last moment. It i 
+	- If you anticipate any delays or issues,  communicate in advance rather than requesting extensions at the last moment. It is fine to not know anything but you should be willing to take ownership and learn
 	     1. Update your progress regularly, e.g., "Today, I studied CSS animations to implement them in the lift."
 	     2. If you have exams or health concerns, inform us beforehand so we understand your situation.
 	     3. Failure to communicate in advance may result in the denial of extension requests.
