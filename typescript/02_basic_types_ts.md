@@ -107,5 +107,11 @@ const sum = (a:number, b:number) => {
 ```
 - Now if we try to do the following:
 ```js
-
+const sum = (a:number, b:number) => {
+	return a + b;
+};
+sum(20)
 ```
+- It will result in an error:
+	- `Expected 2 arguments, but got 1.ts(2554) main.ts(14, 24): An argument for 'b' was not provided.`
+- If we try to do 
