@@ -204,3 +204,4 @@ public class ShoppingSystem {
 		- One type is promoted to another implicitly if no matching datatype is found.
 		 ![[Pasted image 20240911182344.png]]
 - **Different cases of Type Promotion**
+	- *CASE 1*
