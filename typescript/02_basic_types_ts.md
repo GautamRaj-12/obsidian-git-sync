@@ -97,6 +97,15 @@ const sum = (a, b) => {
 };
 ```
 - In Js using the '+' operator we can add numbers or concatenate strings.
-- So
+	- So,  we need to define types for parameters.
 ### Parameter Type Annotations
 - When we declare a function, we can add type annotations after each parameter to declare what types of parameters the function accepts. Parameter type annotations go after the parameter name:
+```js
+const sum = (a:number, b:number) => {
+	return a + b;
+};
+```
+- Now if we try to do the following:
+```js
+
+```
