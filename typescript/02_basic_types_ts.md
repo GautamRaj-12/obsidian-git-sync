@@ -26,4 +26,7 @@ let lastName = "Raj"
 ```
 - It is a simple JS code, but when we hover over it, we see the following:
  ![image](typescript/images/image-1.png)
- 
+ - So Typescript has inferred the type of data we are creating.
+
+### Implicit Typing
+- The above 
