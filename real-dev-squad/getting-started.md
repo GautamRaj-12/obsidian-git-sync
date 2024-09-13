@@ -28,15 +28,14 @@
 
 ## Second Step
 
-
--  **Request a Task After Completing the Lift Simulation**
-	  - Once you have finished the Lift Simulation, navigate to the `i-am-idle` channel and request a new task from Ankush.
+- **Request a Task After Completing the Lift Simulation**
+	  - Once you have finished the Lift Simulation, navigate to the `i-am-idle` channel and request a new task from ***Ankush***.
 
 - **Follow Proper Formatting for Requests**
-	  - Ensure that you request a task using the correct formatting. You can find the required formatting in the pinned message within the `i-am-idle` channel.
+	- Ensure that you request a task using the correct formatting. You can find the required formatting in the pinned message within the `i-am-idle` channel.
 
 - **Send Gentle Reminders if Needed**
-	  - If you do not receive a task promptly, send gentle reminders to Ankush.
+	- If you do not receive a task promptly, send gentle reminders to Ankush.
 
 - **Bonus Tip: Join Calls for Faster Task Allocation**
-	  - Participating in calls can help you get assigned tasks more quickly.
+	- Participating in calls can help you get assigned tasks more quickly.
