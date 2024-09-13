@@ -11,5 +11,6 @@
 	5. Ankush regularly joins calls, it is highly advisable to join in the calls, communicate properly with Ankush, regarding doubts or updates.
 	6. After you get verified by the members, you are ready for the next step.
 	7. Remember communication is key, if for some reason, you won't be able to complete the task on time beforehand. Don't randomly come on the 25th day and say, Can you extend.
-		1. If you don't know anything, then communicate everyday that today i studied this to achieve this in the task,
+		1. If you don't know anything, then communicate everyday that today i studied this to achieve this in the task.(ex studied css animations to add animations to the lift etc.)
+		2. If you have exams or health issues, please communicate before hand, that you will be having exams so you will be working on it after some days.
 6. The next step is to go to `i-am-idle` channel and request Ankush to give you a task. For requesting task you need to follow a definite formatting, which you can find in pinned messages.
