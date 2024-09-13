@@ -6,5 +6,6 @@
 	- Do not require type specification.
 	- JS is a loosely/weakly typed language.
 - These relates to **STATIC TYPING** and **DYNAMIC TYPING** but both are not same.
-
-- S
+- *A language that is strongly typed can be either statically or dynamically typed.*
+- **STATIC TYPING**
+	- TS is a staticaly
