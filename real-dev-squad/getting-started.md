@@ -1,7 +1,7 @@
-## Procedure
+## First Step
 
 1. **Join the Discord Server**
-   - Use the invite link provided to join our community.
+	- Use the invite link provided to join our community.
 
 2. **Follow Rules to Get Verified**
    - Adhere to the server rules and complete the verification process.
@@ -21,6 +21,7 @@
    6. After receiving member verification, you will be ready for the next step.
 
 6. **Communication is Key**
+ 
    - If you anticipate any delays or issues, communicate in advance rather than requesting extensions at the last moment.
      1. Update your progress regularly, e.g., "Today, I studied CSS animations to implement them in the lift."
      2. If you have exams or health concerns, inform us beforehand so we understand your situation.
