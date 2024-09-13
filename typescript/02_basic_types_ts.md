@@ -56,4 +56,15 @@ lastName = 24
 let lastName: string
 lastName = "Raj"
 ```
-### string, number and boolean types
+## string, number and boolean types
+```js
+let lastName: string;
+let age: number;
+let isQualified;
+
+lastName = "Raj";
+age = 24;
+isQualified: true;
+```
+
+## any
