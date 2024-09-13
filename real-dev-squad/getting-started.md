@@ -8,4 +8,5 @@
 	2. Not all the requirements are listed here, so attempt it , go to `lift-simulation` channel and get it recursively verified by peers.
 	3. Once peers have verified, get it verified by members.
 	4. After you get verified, you are ready for the next step.
-	5. The next step is to go to "i-am-idle` channel 
+	5. 
+6. The next step is to go to `i-am-idle` channel and request Ankush to give you a task. For requesting task you need to follow a definite formatting, which you can find in pinned messages.
