@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real-dev-squad/Untitled.md",
+                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-dev-squad/Untitled.md",
+                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-dev-squad/Untitled.md",
+                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-dev-squad/Untitled.md"
+                "file": "real-dev-squad/discord-slash-commands-repo-setup.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
     "real-dev-squad/getting-started.md",
-    "real-dev-squad/Untitled.md",
+    "real-dev-squad/discord-slash-commands-repo-setup.md",
     "resources/resources.md",
     "real-dev-squad",
     "java-oops/05_polymorphism.md",
