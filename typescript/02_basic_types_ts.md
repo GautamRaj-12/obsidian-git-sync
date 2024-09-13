@@ -29,4 +29,9 @@ let lastName = "Raj"
  - So Typescript has inferred the type of data we are creating.
 
 ### Implicit Typing
-- The above 
+- The above procedure is called Implicit Typing.
+- Implicit typing is a TypeScript feature that **automatically infers the type of a variable based on its initial value or usage in the code**, rather than requiring the programmer to explicitly declare the type.
+
+### Explicit Typing
+- In TypeScript, you declare variables with explicit types by **specifying the type of the variable after its name using a colon ( : ) followed by the desired data type which can be string, number, etc**.
+- In t
