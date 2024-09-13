@@ -48,4 +48,6 @@ lastName = 24
 ```
 - But in TS, TS will infer the type of data type and will give red squiggly line, even if we don't explicitly declare it is a string.
 ![image](typescript/images/image-2.png)
-- We can reassign the variable again but only with a string
+- We can reassign the variable again but only with a string type.
+
+### string, number and boolean types
