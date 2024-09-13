@@ -56,15 +56,12 @@ Upon your request, Ankush will decide whether to assign you a task. If the GitHu
 	- Copy the dashboard URL.    
 	- Tag Ankush requesting approval using channels `new-tasks` or `i-am-idle` on discord.    
 	- And ask him to approve.
-1. **Work on Approved Task:**
-    
+3. **Work on Approved Task:**    
     - After Ankush's approval, start working on the assigned task.
-2. **Seek Clarification When Needed:**
-    
+4. **Seek Clarification When Needed:**    
     - If you face difficulties, discuss them with Ankush, Application Owner, or Feature Owner.
     - Ensure alignment and correctness of your work.
-3. **Resolve Doubts:**
-    
+5. **Resolve Doubts:**    
     - If you have doubts, feel free to ask questions in the server's respective channel.
     - For specific technical doubts, ping Tejas or Prakash.
     - For doubts related to business logic, ping Ankush.
