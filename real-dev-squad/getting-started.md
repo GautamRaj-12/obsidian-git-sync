@@ -40,4 +40,5 @@
 - **Bonus Tip: Join Calls for Faster Task Allocation**
 	- Participating in calls can help you get assigned tasks more quickly.
 
-- **One More Way**: 
+- **One More Way: Find issues or bugs**
+	- Find issues or bugs and report it to Ankush and get assigned
