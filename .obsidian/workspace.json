@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/resources.md",
+                "file": "real-dev-squad/getting-started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources/resources.md",
+                "file": "real-dev-squad/getting-started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources/resources.md",
+                "file": "real-dev-squad/getting-started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources/resources.md"
+                "file": "real-dev-squad/getting-started.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
-    "java-oops/05_polymorphism.md",
     "resources/resources.md",
+    "real-dev-squad/getting-started.md",
+    "real-dev-squad",
+    "java-oops/05_polymorphism.md",
     "resources",
     "java-oops/04_association.md",
     "java-oops/03_inheritance.md",
@@ -190,10 +192,8 @@
     "java-multithreading/02_process_and_thread.md",
     "os/process vs thread.md",
     "os/images",
-    "interview-checklist/nodejs.md",
     "interview-checklist",
     "md/leetcode/remove_duplicates.pdf",
-    "md/BG",
     "Untitled.canvas"
   ]
 }
