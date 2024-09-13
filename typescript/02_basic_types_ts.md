@@ -19,4 +19,4 @@
 
 ## More Terms
 ### Inference
-- 
+- TypeScript type _inference_ is _a feature that allows the TypeScript compiler to automatically deduce the type of a variable or expression_.
