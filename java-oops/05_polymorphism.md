@@ -227,23 +227,41 @@ public class ShoppingSystem {
 	```
 	- *CASE 2*
 	```java
-	package polymorphism;  
-  
-	class One{  
-	    void show(Object a){  
-	        System.out.println("Object method");  
-	    }  
-	    void show(String a){  
-	        System.out.println("String method");  
-	    }  
-	}  
-	public class AutomaticPromotion1 {  
-	    public static void main(String[] args) {  
-	        One obj1 = new One();  
-	        obj1.show("sss"); //string method  
-	        obj1.show(5); //automatically promoted to Object  
-	        obj1.show('a'); // automatically promoted to Object  
-	    }  
+	package polymorphism;
+	
+	class One {
+	    // Method that accepts a StringBuffer
+	    void show(StringBuffer a) {
+	        System.out.println("String Buffer method");
+	    }
+	
+	    // Method that accepts a String
+	    void show(String a) {
+	        System.out.println("String method");
+	    }
+	}
+	
+	public class AutomaticPromotion1 {
+	    public static void main(String[] args) {
+	        One obj1 = new One();
+	        
+	        // Calling the method with a String, this matches the `show(String a)` method
+	        obj1.show("sss"); // Output: String method
+	
+	        // Calling the method with a StringBuffer, this matches the `show(StringBuffer a)` method
+	        obj1.show(new StringBuffer("abx")); // Output: String Buffer method
+	
+	        /* Calling with null causes ambiguity since both String and StringBuffer can accept null This will result in a compile-time error because the compiler can't decide which method to call
+	        // obj1.show(null);  // Compile-time error: ambiguous method call
+	
+	        // Compile-time error because there's no `show` method that accepts an int
+	        // Java will attempt to auto-box the primitive `5` into an `Integer`, but there's no `show(Integer)` method
+	        // obj1.show(5);  // Compile-time error: no suitable method found for show(int)
+	
+	        // Compile-time error because there's no `show` method that accepts a char
+	        // Java will attempt to auto-box the primitive `'a'` into a `Character`, but there's no `show(Character)` method
+	        // obj1.show('a');  // Compile-time error: no suitable method found for show(char)
+	    }
 	}
 	```
 
