@@ -131,4 +131,4 @@ console.log(username);
 3. **Handling Type Errors**:
 	- TypeScript provides errors for mismatched types, helping to catch mistakes early in development.
 4. `noEmitOnError` property in *tsconfig.json*
-5. 
+	- If we uncomment it and set it to **true**, TS will not compile into JS if any error exists in ts file.
