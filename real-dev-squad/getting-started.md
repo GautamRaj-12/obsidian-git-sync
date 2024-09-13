@@ -27,4 +27,5 @@
 	     3. Failure to communicate in advance may result in the denial of extension requests.
 
 ## Second Step
-- After completing lift simulation. Go to `i-am-idle` ch
+- After completing lift simulation. Go to `i-am-idle` channel. 
+- 
