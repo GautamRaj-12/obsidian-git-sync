@@ -93,7 +93,7 @@ console.log(username);
 	```
 	- **`rootDir`**: Directory containing TypeScript files.
 	- **`outDir`**: Directory where JavaScript files will be compiled to.
-	- `"include": ["src/**/*"]`: This is included so that it only compiles those files which are present inside the src directory and not anywhere else.
+	- `"include": ["src/**/*"]`: This is included so that it only compiles those files which are present inside the src directory and not anywhere else. If we don't do this, tsc will compile any ts file presen anywhere in the project.
 	- If we delete a `.ts` file, we need to manually delete the `.js` file.
 1. **Watching for Changes**:
 	- Use the watch mode in `tsc` to automatically recompile TypeScript files when changes are detected:
