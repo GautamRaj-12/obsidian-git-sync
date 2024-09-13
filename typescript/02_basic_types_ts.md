@@ -60,11 +60,11 @@ lastName = "Raj"
 ```js
 let lastName: string;
 let age: number;
-let isQualified;
+let isQualified:boolean;
 
 lastName = "Raj";
 age = 24;
-isQualified: true;
+isQualified = true;
 ```
 
 ## any
