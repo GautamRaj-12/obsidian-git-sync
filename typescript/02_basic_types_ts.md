@@ -34,4 +34,7 @@ let lastName = "Raj"
 
 ### Explicit Typing
 - In TypeScript, you declare variables with explicit types by **specifying the type of the variable after its name using a colon ( : ) followed by the desired data type which can be string, number, etc**.
-- In t
+- In this case, TS no longer has to infer the type of data.
+```js
+let lastName: string = "Raj";
+```
