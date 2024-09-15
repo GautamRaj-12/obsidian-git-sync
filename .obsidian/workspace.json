@@ -148,8 +148,9 @@
   },
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
-    "typescript/02_basic_types_ts.md",
+    "css-tailwind/css-animations.md",
     "css-animations/checklist.md",
+    "typescript/02_basic_types_ts.md",
     "css-animations",
     "real-dev-squad/discord-slash-commands-repo-setup.md",
     "real-dev-squad/getting-started.md",
@@ -191,7 +192,6 @@
     "os/01_Introduction.md",
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
-    "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
     "os/images",
     "interview-checklist",
     "Untitled.canvas"

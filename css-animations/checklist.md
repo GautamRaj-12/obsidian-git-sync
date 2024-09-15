@@ -1,1 +1,3 @@
-- [ ] Gradient Borde
+- [ ] Gradient Border
+- [ ] Gradient Border Glow
+- [ ] Gradient Border Glow with Animation
