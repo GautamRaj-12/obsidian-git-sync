@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
+                "file": "css-animations/checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
+                "file": "css-animations/checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "typescript/02_basic_types_ts.md",
+                "file": "css-animations/checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "typescript/02_basic_types_ts.md"
+                "file": "css-animations/checklist.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
+    "typescript/02_basic_types_ts.md",
+    "css-animations/checklist.md",
+    "css-animations",
     "real-dev-squad/discord-slash-commands-repo-setup.md",
     "real-dev-squad/getting-started.md",
     "resources/resources.md",
@@ -158,7 +161,6 @@
     "java-oops/03_inheritance.md",
     "java-oops/02_classes_objects_constructors.md",
     "java-oops/01_introduction_to_oops.md",
-    "typescript/02_basic_types_ts.md",
     "typescript/images/image-5.png",
     "typescript/images/image-4.png",
     "typescript/images/image-3.png",
@@ -190,10 +192,8 @@
     "processors/cores and threads.md",
     "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "java-multithreading/03_thread_creation_and_thread_life_cycle.md",
-    "java-multithreading/02_process_and_thread.md",
     "os/images",
     "interview-checklist",
-    "md/leetcode/remove_duplicates.pdf",
     "Untitled.canvas"
   ]
 }
