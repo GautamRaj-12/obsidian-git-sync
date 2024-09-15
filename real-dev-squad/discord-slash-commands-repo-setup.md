@@ -82,8 +82,9 @@ Next you will have to set up the wrangler cli, so that you can connect to your c
 
 - Now, start the local server with the command `npm start`- make sure it is running on port `8787`
 		- In case of Ubuntu, This step might produce an error: 
-		`ERROR: Write Piple`
-		- To overcome this install : ``
+		`ERROR: Write Pipe`
+		- To overcome this, install : `sudo apt install libc++1`
+		- [See this issue](https://github.com/cloudflare/workers-sdk/issues/3262#issuecomment-1552855958)
 - Go to `cloudflare > workers-pages > copy the url under preview which endswith '.workers.dev' `
 - Now, go to [Discord Developer Portal](https://discord.com/developers/applications) and select your bot
   - In the General Information, paste the url in the `INTERACTIONS ENDPOINT URL` field.
