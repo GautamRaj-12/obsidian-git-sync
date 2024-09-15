@@ -23,4 +23,4 @@ p::after{
 }
 ```
 - Output
-![image](css-tailwind/imagess/be)
+![image](css-tailwind/images/before-after-1.png)
