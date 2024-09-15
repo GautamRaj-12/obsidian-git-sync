@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd56fe09aa0caa57",
+        "id": "897d85c000ebce46",
         "type": "tabs",
         "children": [
           {
-            "id": "4986ca44a5d426d9",
+            "id": "6b6f1b63d08aabb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css-tailwind/before and after.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
