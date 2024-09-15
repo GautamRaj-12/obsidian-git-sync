@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "css-animations/checklist.md",
+                "file": "css-tailwind/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "css-animations/checklist.md",
+                "file": "css-tailwind/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "css-animations/checklist.md",
+                "file": "css-tailwind/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "css-animations/checklist.md"
+                "file": "css-tailwind/Untitled.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "4986ca44a5d426d9",
   "lastOpenFiles": [
     "css-tailwind/css-animations.md",
+    "css-tailwind/Untitled.md",
     "css-animations/checklist.md",
     "typescript/02_basic_types_ts.md",
     "css-animations",
@@ -191,7 +192,6 @@
     "os/02_Computer_System.md",
     "os/01_Introduction.md",
     "processors/cores and threads.md",
-    "java-multithreading/01_multitasking_multiprocessing_multithreading.md",
     "os/images",
     "interview-checklist",
     "Untitled.canvas"
