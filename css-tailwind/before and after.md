@@ -23,3 +23,4 @@ p::after{
 }
 ```
 - Output
+![image](css-tailwind/imagess/be)

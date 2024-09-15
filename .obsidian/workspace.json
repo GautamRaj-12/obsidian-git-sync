@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4986ca44a5d426d9",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "css-tailwind/images/before-after-1.png",
     "css-tailwind/css-animations-checklist.md",
     "css-tailwind/before and after.md",
     "css-animations/checklist.md",
@@ -191,7 +192,6 @@
     "course-tracker/Discrete.md",
     "md/function_usefulness.md",
     "os/02_Computer_System.md",
-    "os/01_Introduction.md",
     "os/images",
     "interview-checklist",
     "Untitled.canvas"
