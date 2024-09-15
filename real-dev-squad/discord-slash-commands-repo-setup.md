@@ -81,6 +81,8 @@ Next you will have to set up the wrangler cli, so that you can connect to your c
 - Encrypt all the variables after adding then save and deploy
 
 - Now, start the local server with the command `npm start`- make sure it is running on port `8787`
+		- In case of Ubuntu, This step might produce an error: 
+		> 
 - Go to `cloudflare > workers-pages > copy the url under preview which endswith '.workers.dev' `
 - Now, go to [Discord Developer Portal](https://discord.com/developers/applications) and select your bot
   - In the General Information, paste the url in the `INTERACTIONS ENDPOINT URL` field.
