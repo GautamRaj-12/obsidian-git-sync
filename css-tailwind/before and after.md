@@ -4,7 +4,7 @@
 ```html
 <p>Here is some content</p>
 ```
-
+- css
 ```css
 p::before{
 	content:'';
@@ -22,3 +22,4 @@ p::after{
 	height:10px;
 }
 ```
+- Output
