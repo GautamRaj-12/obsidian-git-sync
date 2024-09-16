@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "java-oops/05_polymorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "java-oops/05_polymorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "everyday-utils/Error Handling.md",
+                "file": "java-oops/05_polymorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "everyday-utils/Error Handling.md"
+                "file": "java-oops/05_polymorphism.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "eae469f1d03c7446",
   "lastOpenFiles": [
+    "everyday-utils/Error Handling.md",
     "interview-checklist/js.md",
     "interview-checklist/nodejs.md",
     "java-oops/05_polymorphism.md",
@@ -192,7 +193,6 @@
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
-    "md/function_usefulness.md",
     "os/images",
     "Untitled.canvas"
   ]
