@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java-oops/05_polymorphism.md",
+                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java-oops/05_polymorphism.md"
+                "file": "dsa-notes/linked-list/01_singly_linked_list.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "eae469f1d03c7446",
   "lastOpenFiles": [
+    "dsa-notes/operations-on-ds.md",
+    "java-oops/05_polymorphism.md",
     "everyday-utils/Error Handling.md",
     "interview-checklist/js.md",
     "interview-checklist/nodejs.md",
-    "java-oops/05_polymorphism.md",
     "java-oops/images/image-1.png",
     "java-oops/images",
     "real-dev-squad/discord-slash-commands-repo-setup.md",
@@ -192,7 +193,6 @@
     "designs/images",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
-    "course-tracker/Discrete.md",
     "os/images",
     "Untitled.canvas"
   ]
