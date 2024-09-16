@@ -202,7 +202,7 @@ public class ShoppingSystem {
 - **Method Overloading and Type Promotion**
 	- ***AUTOMATIC PROMOTION*** happens in polymorphism
 		- One type is promoted to another implicitly if no matching datatype is found.
-		 ![[Pasted image 20240911182344.png]]
+		 ![image](java-oops/images/image-1.png)
 - **Different cases of Type Promotion**
 	- *CASE 1*
 	```java

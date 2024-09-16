@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "897d85c000ebce46",
+        "id": "7208df1957193bc1",
         "type": "tabs",
         "children": [
           {
-            "id": "6b6f1b63d08aabb6",
+            "id": "eae469f1d03c7446",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
+                "file": "interview-checklist/js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
+                "file": "interview-checklist/js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "real-dev-squad/discord-slash-commands-repo-setup.md",
+                "file": "interview-checklist/js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "real-dev-squad/discord-slash-commands-repo-setup.md"
+                "file": "interview-checklist/js.md"
               }
             }
           }
@@ -146,8 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b6f1b63d08aabb6",
+  "active": "eae469f1d03c7446",
   "lastOpenFiles": [
+    "interview-checklist/nodejs.md",
+    "interview-checklist/js.md",
+    "java-oops/05_polymorphism.md",
+    "java-oops/images/image-1.png",
+    "java-oops/images",
+    "real-dev-squad/discord-slash-commands-repo-setup.md",
     "css-tailwind/images/before-after-1.png",
     "css-tailwind/css-animations-checklist.md",
     "css-tailwind/before and after.md",
@@ -155,11 +161,9 @@
     "css-tailwind/css-animations.md",
     "typescript/02_basic_types_ts.md",
     "css-animations",
-    "real-dev-squad/discord-slash-commands-repo-setup.md",
     "real-dev-squad/getting-started.md",
     "resources/resources.md",
     "real-dev-squad",
-    "java-oops/05_polymorphism.md",
     "resources",
     "java-oops/04_association.md",
     "java-oops/03_inheritance.md",
@@ -174,7 +178,6 @@
     "typescript/images/i.md",
     "typescript/images/image-1.png",
     "typescript/images",
-    "Pasted image 20240911182344.png",
     "typescript/01_typescript_basics.md",
     "md/functions_python.md",
     "md/images/image.png",
@@ -185,15 +188,12 @@
     "designs/designs.md",
     "designs/01_ui_design_fundamentals/02_contrast.md",
     "designs/01_ui_design_fundamentals/01_white_space.md",
-    "designs/images/image-1.png",
     "designs/images",
     "designs/01_ui_design_fundamentals",
     "designs/Untitled.md",
     "course-tracker/Discrete.md",
     "md/function_usefulness.md",
-    "os/02_Computer_System.md",
     "os/images",
-    "interview-checklist",
     "Untitled.canvas"
   ]
 }
