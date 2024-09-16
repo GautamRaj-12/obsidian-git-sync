@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7208df1957193bc1",
+        "id": "c0b045181cc31d36",
         "type": "tabs",
         "children": [
           {
-            "id": "eae469f1d03c7446",
+            "id": "adf5a187010c5150",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa-notes/linked-list/01_singly_linked_list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae469f1d03c7446",
+  "active": "adf5a187010c5150",
   "lastOpenFiles": [
+    "dsa-notes/linked-list/01_singly_linked_list.md",
     "dsa-notes/operations-on-ds.md",
     "java-oops/05_polymorphism.md",
     "everyday-utils/Error Handling.md",
@@ -192,7 +185,6 @@
     "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/images",
     "designs/01_ui_design_fundamentals",
-    "designs/Untitled.md",
     "os/images",
     "Untitled.canvas"
   ]
