@@ -39,7 +39,7 @@
     - [ ] Temporary Lockout (allow retry after specific time)
 - [ ] Rate Limiting for Login Attempts
 ## 5. Token and Session Management
-- [ ] JWT Verification Middleware
+- [x] JWT Verification Middleware
 - [ ] Session Timeout after Inactivity (e.g., 15-30 minutes)
 - [ ] Device-Based Session Management
     - [ ] Track Login Devices
