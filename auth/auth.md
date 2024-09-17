@@ -1,10 +1,10 @@
 # Authentication and Authorization
 ## 1. Registration
-- [x] Register Basic
-- [ ] Register Advanced
+- [x] Register Basic (username - email - password - etc - save to DB)
+- [ ] Register Advanced (confirm email using otp or magic link)
     - [ ] Using OTP
     - [ ] Using Magic Link
-- [ ] Register with Image
+- [ ] Register with Image (handle image upload)
 - [ ] Social Login (OAuth)
     - [ ] Google
     - [ ] Facebook
