@@ -23,11 +23,11 @@
     - [ ] 2FA via Authenticator Apps (e.g., Google Authenticator)
 - [ ] CAPTCHA (e.g., Google reCAPTCHA) for bots protection
 ## 3. Logout
-- [ ] Clear access and refresh tokens
+- [x] Clear access and refresh tokens
 - [ ] Token Revocation (allow manual revocation for security)
 - [ ] Automatic token invalidation after password reset or suspicious activity
 ## 4. Password Management
-- [ ] Password Strength Validation
+- [x] Password Strength Validation
 - [ ] Forgot Password
     - [ ] OTP for Password Reset
     - [ ] Magic Link for Password Reset
