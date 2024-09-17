@@ -21,7 +21,7 @@
     - [ ] GitHub
 - [ ] ***Two-Factor Authentication (2FA)***
     - [ ] ***2FA via SMS/Email***
-    - [ ] *** 2FA via Authenticator Apps (e.g., Google Authenticator)***
+    - [ ] ***2FA via Authenticator Apps (e.g., Google Authenticator)***
 - [ ] ***CAPTCHA (e.g., Google reCAPTCHA) for bots protection***
 ## 3. Logout
 - [x] Clear access and refresh tokens
