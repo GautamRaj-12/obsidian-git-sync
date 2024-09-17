@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "auth/flowcharts.md",
+                "file": "auth/auth.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auth/flowcharts.md",
+                "file": "auth/auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auth/flowcharts.md",
+                "file": "auth/auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "auth/flowcharts.md"
+                "file": "auth/auth.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "adf5a187010c5150",
   "lastOpenFiles": [
+    "auth/flowcharts.md",
     "auth/auth.md",
     "auth/images/verify-token-jwt.png",
     "auth/images/login.png",
     "auth/images/register-advanced-using-otp.png",
     "auth/images/register-basic.png",
     "auth/images/logout.png",
-    "auth/flowcharts.md",
     "auth/minimum.md",
     "dsa-notes/linked-list/01_singly_linked_list.md",
     "dsa-notes/operations-on-ds.md",
