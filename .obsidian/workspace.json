@@ -148,6 +148,7 @@
   },
   "active": "adf5a187010c5150",
   "lastOpenFiles": [
+    "auth/minimum.md",
     "dsa-notes/linked-list/01_singly_linked_list.md",
     "dsa-notes/operations-on-ds.md",
     "java-oops/05_polymorphism.md",
@@ -190,7 +191,6 @@
     "link.md",
     "designs/designs.md",
     "designs/01_ui_design_fundamentals/02_contrast.md",
-    "designs/01_ui_design_fundamentals/01_white_space.md",
     "designs/images",
     "designs/01_ui_design_fundamentals",
     "os/images",
