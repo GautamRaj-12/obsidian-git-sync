@@ -41,21 +41,21 @@
 - [ ] Rate Limiting for Login Attempts
 ## 5. Token and Session Management
 - [x] JWT Verification Middleware
-- [ ] Session Timeout after Inactivity (e.g., 15-30 minutes)
-- [ ] Device-Based Session Management
-    - [ ] Track Login Devices
-    - [ ] Log Out from Specific Devices
-- [ ] Refresh Token Rotation (enhanced security)
-- [ ] Token Usage Tracking (for suspicious activity detection)
+- [ ] ***Session Timeout after Inactivity (e.g., 15-30 minutes)***
+- [ ] ***Device-Based Session Management***
+    - [ ] ***Track Login Devices***
+    - [ ] ***Log Out from Specific Devices***
+- [ ] ***Refresh Token Rotation (enhanced security)***
+- [ ] ***Token Usage Tracking (for suspicious activity detection)***
 ## 6. Security Features
 - [ ] Cross-Origin Resource Sharing (CORS) Configuration
-- [ ] Captcha for Registration/Login
-- [ ] IP Whitelisting/Blacklisting for Security
-- [ ] Single Sign-On (SSO) Integration (for enterprise apps)
+- [ ] ***Captcha for Registration/Login***
+- [ ] ***IP Whitelisting/Blacklisting for Security***
+- [ ] ***Single Sign-On (SSO) Integration (for enterprise apps)***
 ## 7. Auditing and Monitoring
-- [ ] Logging and Auditing of Login/Logout Attempts
-- [ ] Track Failed Attempts
-- [ ] Log Token Usage (to detect suspicious activity)
+- [ ] ***Logging and Auditing of Login/Logout Attempts***
+- [ ] ***Track Failed Attempts***
+- [ ] ***Log Token Usage (to detect suspicious activity)***
 ## 8. Optional Features
 - [ ] User Account Deactivation/Deletion
-- [ ] Multi-Account Linking (link multiple OAuth accounts)
+- [ ] ***Multi-Account Linking (link multiple OAuth accounts)***
