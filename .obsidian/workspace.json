@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "auth/auth.md",
+                "file": "auth/flowcharts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auth/auth.md",
+                "file": "auth/flowcharts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auth/auth.md",
+                "file": "auth/flowcharts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "auth/auth.md"
+                "file": "auth/flowcharts.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "adf5a187010c5150",
   "lastOpenFiles": [
+    "auth/auth.md",
+    "auth/images/verify-token-jwt.png",
+    "auth/images/login.png",
+    "auth/images/register-advanced-using-otp.png",
+    "auth/images/register-basic.png",
+    "auth/images/logout.png",
     "auth/flowcharts.md",
     "auth/minimum.md",
     "dsa-notes/linked-list/01_singly_linked_list.md",
@@ -177,20 +183,14 @@
     "typescript/images/image-5.png",
     "typescript/images/image-4.png",
     "typescript/images/image-3.png",
-    "Pasted image 20240913095807.png",
-    "typescript/images/image-2.png",
-    "Pasted image 20240913095346.png",
     "typescript/images/i.md",
-    "typescript/images/image-1.png",
     "typescript/images",
     "typescript/01_typescript_basics.md",
     "md/functions_python.md",
-    "md/images/image.png",
     "md/images",
     "typescript",
     "jetbrains/Tips and Tricks.md",
     "link.md",
-    "designs/designs.md",
     "designs/images",
     "designs/01_ui_design_fundamentals",
     "os/images",
