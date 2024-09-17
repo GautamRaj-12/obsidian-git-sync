@@ -12,6 +12,7 @@
 - [ ] Email Verification
     - [ ] Send Verification Email after Registration
     - [ ] Re-send Verification Email (if not received)
+- [ ] Rate Limiting for Registration
 ## 2. Login
 - [x] Login with access and refresh tokens
 - [ ] Social Login (OAuth)
@@ -32,11 +33,11 @@
     - [ ] OTP for Password Reset
     - [ ] Magic Link for Password Reset
 - [ ] Password Change (for logged-in users)
-- [ ] Prevent Password Reuse
-- [ ] Password Expiration Policy (optional)
-- [ ] Account Lockout after Failed Attempts
-    - [ ] Lock Account after multiple failed attempts
-    - [ ] Temporary Lockout (allow retry after specific time)
+- [ ] ***Prevent Password Reuse***
+- [ ] ***Password Expiration Policy (optional)***
+- [ ] ***Account Lockout after Failed Attempts***
+    - [ ] ***Lock Account after multiple failed attempts***
+    - [ ] ***Temporary Lockout (allow retry after specific time)***
 - [ ] Rate Limiting for Login Attempts
 ## 5. Token and Session Management
 - [x] JWT Verification Middleware
