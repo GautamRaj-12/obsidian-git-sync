@@ -1,0 +1,4 @@
+- routes
+	- /registerMail . post()
+	- /generateOTP.get()
+	- /verifyOTP.get()
