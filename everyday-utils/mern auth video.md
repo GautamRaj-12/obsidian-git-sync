@@ -1,4 +1,7 @@
 - routes
-	- /registerMail . post()
-	- /generateOTP.get()
-	- /verifyOTP.get()
+	- /registerMail . post() //send the email
+	- /authenticate.post() //authenticate the user
+	- /generateOTP.get() // random otp
+	- /verifyOTP.get() //verify 
+	- /createResetSession.get()
+	- /resetPassword.put()
