@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyday-utils/mern auth video.md",
+                "file": "everyday-utils/Swagger.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "everyday-utils/mern auth video.md",
+                "file": "everyday-utils/Swagger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "everyday-utils/mern auth video.md",
+                "file": "everyday-utils/Swagger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "everyday-utils/mern auth video.md"
+                "file": "everyday-utils/Swagger.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "0fd5ef124d8f05fc",
   "lastOpenFiles": [
     "everyday-utils/mern auth video.md",
+    "everyday-utils/Swagger.md",
     "auth/auth.md",
     "auth/flowcharts.md",
     "auth/images/verify-token-jwt.png",
@@ -190,7 +191,6 @@
     "md/functions_python.md",
     "md/images",
     "typescript",
-    "jetbrains/Tips and Tricks.md",
     "designs/images",
     "designs/01_ui_design_fundamentals",
     "os/images",
