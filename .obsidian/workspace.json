@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b045181cc31d36",
+        "id": "2da30cc2893e2843",
         "type": "tabs",
         "children": [
           {
-            "id": "adf5a187010c5150",
+            "id": "0fd5ef124d8f05fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "auth/auth.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "auth/auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "auth/auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "auth/auth.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf5a187010c5150",
+  "active": "0fd5ef124d8f05fc",
   "lastOpenFiles": [
-    "auth/flowcharts.md",
     "auth/auth.md",
+    "auth/flowcharts.md",
     "auth/images/verify-token-jwt.png",
     "auth/images/login.png",
     "auth/images/register-advanced-using-otp.png",
