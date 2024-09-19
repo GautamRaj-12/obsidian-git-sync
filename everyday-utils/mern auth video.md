@@ -2,6 +2,6 @@
 	- /registerMail . post() //send the email
 	- /authenticate.post() //authenticate the user
 	- /generateOTP.get() // random otp
-	- /verifyOTP.get() //verify 
+	- /verifyOTP.get() //verify generated OTP
 	- /createResetSession.get()
 	- /resetPassword.put()
