@@ -14,28 +14,28 @@
 
 ![[prob-28.png]]
 
-![[Pasted image 20240921110629.png]]
+![[prob-29.png]]
 
-![[Pasted image 20240921110643.png]]
+![[prob-30.png]]
 
-![[Pasted image 20240921110659.png]]
+![[prob-31.png]]
 
-![[Pasted image 20240921110707.png]]
+![[prob-32.png]]
 
-![[Pasted image 20240921110715.png]]
+![[prob-33.png]]
 
-![[Pasted image 20240921110725.png]]
+![[prob-34.png]]
 
-![[Pasted image 20240921110734.png]]
+![[prob-35.png]]
 
-![[Pasted image 20240921110742.png]]
+![[prob-36.png]]
 
-![[Pasted image 20240921110751.png]]
-![[Pasted image 20240921110802.png]]
+![[prob-37.png]]
+![[prob-38.png]]
 
-![[Pasted image 20240921110822.png]]
+![[prob-39.png]]
 
-![[Pasted image 20240921110835.png]]
+![[prob-40.png]]
 
 ![[Pasted image 20240921110843.png]]
 
