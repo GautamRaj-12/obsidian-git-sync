@@ -1,7 +1,7 @@
 
 
-![[Pasted image 20240921111417.png]]
-![[Pasted image 20240921111443.png]]
+![[prob-21.png]]
+![[prob-22.png]]
 ![[prob-23.png]]
 
 ![[prob-24.png]]
@@ -75,4 +75,4 @@
 ![[prob-62.png]]
 ![[prob-63.png]]
 ![[prob-64.png]]
-![[Pasted image 20240921111317.png]]![[Pasted image 20240921111412.png]]
+![[prob-65.png]]![[prob-21.png]]

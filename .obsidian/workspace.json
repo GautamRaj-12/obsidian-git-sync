@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240921111317.png"
+                "file": "prob-22.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240921111317.png",
+                "file": "prob-22.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240921111317.png",
+                "file": "prob-22.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240921111317.png"
+                "file": "prob-22.png"
               }
             }
           }
@@ -146,6 +146,10 @@
   },
   "active": "56cf97672e7bb725",
   "lastOpenFiles": [
+    "prob-21.png",
+    "prob-21.png",
+    "prob-22.png",
+    "prob-65.png",
     "prob-64.png",
     "prob-63.png",
     "prob-62.png",
@@ -153,10 +157,6 @@
     "prob-60.png",
     "prob-59.png",
     "prob-58.png",
-    "prob-57.png",
-    "prob-56.png",
-    "prob-55.png",
-    "prob-54.png",
     "dsa-notes/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
