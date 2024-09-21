@@ -11,9 +11,11 @@
             "id": "a113bd8b43eb2ce4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "prob-21.png"
+                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prob-21.png",
+                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prob-21.png",
+                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prob-21.png"
+                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md"
               }
             }
           }
@@ -146,19 +148,20 @@
   },
   "active": "a113bd8b43eb2ce4",
   "lastOpenFiles": [
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-21.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-37.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-26.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-48.png",
     "dsa-notes/01_analysis_of_algotrithms/Untitled.md",
     "dsa-notes/01_analysis_of_algotrithms/images",
-    "prob-22.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-22.png",
     "dsa-notes/01_analysis_of_algotrithms",
-    "prob-21.png",
-    "prob-21.png",
-    "prob-65.png",
-    "prob-64.png",
-    "prob-63.png",
-    "prob-62.png",
-    "prob-61.png",
-    "prob-60.png",
-    "prob-59.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-65.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-64.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-63.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-62.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-61.png",
+    "dsa-notes/01_analysis_of_algotrithms/images/prob-60.png",
     "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
