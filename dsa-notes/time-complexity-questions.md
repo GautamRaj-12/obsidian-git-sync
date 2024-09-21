@@ -12,5 +12,15 @@ public void Function(int n){
 
 2. 
 ```java
-public void 
+public void Function(int n){
+	int i,count=0;
+	for(i=1;i*i<=n;i++){
+		count++;
+	}
+}
 ```
+
+3. 
+```java
+```
+
