@@ -2,17 +2,17 @@
 
 ![[Pasted image 20240921111417.png]]
 ![[Pasted image 20240921111443.png]]
-![[Pasted image 20240921110509.png]]
+![[prob-23.png]]
 
-![[Pasted image 20240921110521.png]]
+![[prob-24.png]]
 
-![[Pasted image 20240921110530.png]]
+![[prob-25.png]]
 
-![[Pasted image 20240921110547.png]]
+![[prob-26.png]]
 
-![[Pasted image 20240921110557.png]]
+![[prob-27.png]]
 
-![[Pasted image 20240921110607.png]]
+![[prob-28.png]]
 
 ![[Pasted image 20240921110629.png]]
 

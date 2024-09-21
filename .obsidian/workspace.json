@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "27c33d29b0ee0218",
+        "id": "b6c67c2c237c8b52",
         "type": "tabs",
         "children": [
           {
-            "id": "da74cb4343568824",
+            "id": "56cf97672e7bb725",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240921110509.png"
+                "file": "Pasted image 20240921110629.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240921110509.png",
+                "file": "Pasted image 20240921110629.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240921110509.png",
+                "file": "Pasted image 20240921110629.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240921110509.png"
+                "file": "Pasted image 20240921110629.png"
               }
             }
           }
@@ -144,20 +144,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da74cb4343568824",
+  "active": "56cf97672e7bb725",
   "lastOpenFiles": [
+    "prob-28.png",
+    "prob-27.png",
+    "prob-26.png",
+    "prob-25.png",
+    "prob-24.png",
+    "prob-23.png",
     "Pasted image 20240921110335.png",
     "Pasted image 20240921110403.png",
-    "Pasted image 20240921110509.png",
     "dsa-notes/time-complexity-questions.md",
     "Pasted image 20240921111443.png",
     "Pasted image 20240921111417.png",
     "Pasted image 20240921111412.png",
-    "Pasted image 20240921111317.png",
-    "Pasted image 20240921111309.png",
-    "Pasted image 20240921111302.png",
-    "Pasted image 20240921111253.png",
-    "Pasted image 20240921111243.png",
     "Untitled",
     "space-tech-learning-guide/space.md",
     "everyday-utils/Swagger.md",
