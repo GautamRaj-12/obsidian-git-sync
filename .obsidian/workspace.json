@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eaab27e76d0dc58d",
+        "id": "27c33d29b0ee0218",
         "type": "tabs",
         "children": [
           {
-            "id": "30b80a1b2199fd70",
+            "id": "da74cb4343568824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "dsa-notes/time-complexity-questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240921110509.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-notes/time-complexity-questions.md",
+                "file": "Pasted image 20240921110509.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-notes/time-complexity-questions.md",
+                "file": "Pasted image 20240921110509.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa-notes/time-complexity-questions.md"
+                "file": "Pasted image 20240921110509.png"
               }
             }
           }
@@ -146,8 +144,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30b80a1b2199fd70",
+  "active": "da74cb4343568824",
   "lastOpenFiles": [
+    "Pasted image 20240921110335.png",
+    "Pasted image 20240921110403.png",
+    "Pasted image 20240921110509.png",
+    "dsa-notes/time-complexity-questions.md",
     "Pasted image 20240921111443.png",
     "Pasted image 20240921111417.png",
     "Pasted image 20240921111412.png",
@@ -156,10 +158,6 @@
     "Pasted image 20240921111302.png",
     "Pasted image 20240921111253.png",
     "Pasted image 20240921111243.png",
-    "Pasted image 20240921111232.png",
-    "Pasted image 20240921111226.png",
-    "Pasted image 20240921111218.png",
-    "dsa-notes/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
     "everyday-utils/Swagger.md",
