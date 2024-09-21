@@ -52,13 +52,13 @@
 
 ![[prob-48.png]]
 
-![[Pasted image 20240921111043.png]]
+![[prob-49.png]]
 
-![[Pasted image 20240921111058.png]]
+![[prob-50.png]]
 
-![[Pasted image 20240921111106.png]]
+![[prob-51.png]]
 
-![[Pasted image 20240921111113.png]]
+![[prob-52.png]]
 
 ![[Pasted image 20240921111124.png]]
 ![[Pasted image 20240921111133.png]]
