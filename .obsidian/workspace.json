@@ -11,8 +11,12 @@
             "id": "30b80a1b2199fd70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dsa-notes/time-complexity-questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dsa-notes/time-complexity-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dsa-notes/time-complexity-questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dsa-notes/time-complexity-questions.md"
+              }
             }
           }
         ]
@@ -138,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca18528540a8d829",
+  "active": "30b80a1b2199fd70",
   "lastOpenFiles": [
+    "dsa-notes/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
     "everyday-utils/Swagger.md",
@@ -185,7 +194,6 @@
     "md/images",
     "typescript",
     "designs/images",
-    "designs/01_ui_design_fundamentals",
     "Untitled.canvas"
   ]
 }
