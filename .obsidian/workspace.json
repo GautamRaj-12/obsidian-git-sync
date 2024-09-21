@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c67c2c237c8b52",
+        "id": "e9f4ec1e04df0ce8",
         "type": "tabs",
         "children": [
           {
-            "id": "56cf97672e7bb725",
+            "id": "a113bd8b43eb2ce4",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "prob-22.png"
+                "file": "prob-21.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prob-22.png",
+                "file": "prob-21.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prob-22.png",
+                "file": "prob-21.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "prob-22.png"
+                "file": "prob-21.png"
               }
             }
           }
@@ -144,11 +144,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56cf97672e7bb725",
+  "active": "a113bd8b43eb2ce4",
   "lastOpenFiles": [
-    "prob-21.png",
-    "prob-21.png",
+    "dsa-notes/01_analysis_of_algotrithms/Untitled.md",
+    "dsa-notes/01_analysis_of_algotrithms/images",
     "prob-22.png",
+    "dsa-notes/01_analysis_of_algotrithms",
+    "prob-21.png",
+    "prob-21.png",
     "prob-65.png",
     "prob-64.png",
     "prob-63.png",
@@ -156,8 +159,7 @@
     "prob-61.png",
     "prob-60.png",
     "prob-59.png",
-    "prob-58.png",
-    "dsa-notes/time-complexity-questions.md",
+    "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
     "everyday-utils/Swagger.md",
@@ -187,11 +189,8 @@
     "java-oops/04_association.md",
     "java-oops/03_inheritance.md",
     "java-oops/02_classes_objects_constructors.md",
-    "java-oops/01_introduction_to_oops.md",
     "typescript/images",
     "md/images",
-    "typescript",
-    "designs/images",
     "Untitled.canvas"
   ]
 }
