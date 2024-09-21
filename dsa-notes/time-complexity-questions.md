@@ -22,5 +22,10 @@ public void Function(int n){
 
 3. 
 ```java
+public void function(int n){
+	int i,j,k,count=0;
+	for(i=n/2;i<=n;i++)
+		for(j=1;j+n/2<=n)
+}
 ```
 
