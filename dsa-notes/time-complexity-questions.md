@@ -60,19 +60,19 @@
 
 ![[prob-52.png]]
 
-![[Pasted image 20240921111124.png]]
-![[Pasted image 20240921111133.png]]
-![[Pasted image 20240921111148.png]]
-![[Pasted image 20240921111154.png]]
-![[Pasted image 20240921111211.png]]
+![[prob-53.png]]
+![[prob-54.png]]
+![[prob-55.png]]
+![[prob-56.png]]
+![[prob-57.png]]
 
-![[Pasted image 20240921111218.png]]
+![[prob-58.png]]
 
-![[Pasted image 20240921111226.png]]
+![[prob-59.png]]
 
-![[Pasted image 20240921111232.png]]
-![[Pasted image 20240921111243.png]]
-![[Pasted image 20240921111253.png]]
-![[Pasted image 20240921111302.png]]
-![[Pasted image 20240921111309.png]]
+![[prob-60.png]]
+![[prob-61.png]]
+![[prob-62.png]]
+![[prob-63.png]]
+![[prob-64.png]]
 ![[Pasted image 20240921111317.png]]![[Pasted image 20240921111412.png]]
