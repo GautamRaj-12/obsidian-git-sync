@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "everyday-utils/Swagger.md",
+                "file": "space-tech-learning-guide/space.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "everyday-utils/Swagger.md",
+                "file": "space-tech-learning-guide/space.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "everyday-utils/Swagger.md",
+                "file": "space-tech-learning-guide/space.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "everyday-utils/Swagger.md"
+                "file": "space-tech-learning-guide/space.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "0fd5ef124d8f05fc",
   "lastOpenFiles": [
-    "everyday-utils/mern auth video.md",
     "everyday-utils/Swagger.md",
+    "space-tech-learning-guide/space.md",
+    "space-tech-learning-guide",
+    "everyday-utils/mern auth video.md",
     "auth/auth.md",
     "auth/flowcharts.md",
     "auth/images/verify-token-jwt.png",
@@ -188,12 +190,10 @@
     "typescript/images/i.md",
     "typescript/images",
     "typescript/01_typescript_basics.md",
-    "md/functions_python.md",
     "md/images",
     "typescript",
     "designs/images",
     "designs/01_ui_design_fundamentals",
-    "os/images",
     "Untitled.canvas"
   ]
 }
