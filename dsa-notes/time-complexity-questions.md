@@ -37,7 +37,14 @@ public void function(int n){
 	int i,j,k,count=0;
 	for(i=n/2;i<=n;i++)
 		for(j=1;j<=n;j=2*j)
-			for(k=1;k<=n;k=k)
+			for(k=1;k<=n;k=k*2)
+				count++;
 }
 ```
 
+```java
+public void function(int n){
+	if(n==1) return;
+	for(int i=1;i<=n;)
+}
+```
