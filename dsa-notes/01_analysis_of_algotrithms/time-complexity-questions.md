@@ -1,90 +1,90 @@
 
 ![image](./images/prob-21.png)
 
-![[prob-22.png]]
+![image](./images/prob-22.png)
 
-![[prob-23.png]]
+![image](./images/prob-23.png)
 
-![[prob-24.png]]
+![image](./images/prob-24.png)
 
-![[prob-25.png]]
+![image](./images/prob-25.png)
 
-![[prob-26.png]]
+![image](./images/prob-26.png)
 
-![[prob-27.png]]
+![image](./images/prob-27.png)
 
-![[prob-28.png]]
+![image](./images/prob-28.png)
 
-![[prob-29.png]]
+![image](./images/prob-29.png)
 
-![[prob-30.png]]
+![image](./images/prob-30.png)
 
-![[prob-31.png]]
+![image](./images/prob-31.png)
 
-![[prob-32.png]]
+![image](./images/prob-32.png)
 
-![[prob-33.png]]
+![image](./images/prob-33.png)
 
-![[prob-34.png]]
+![image](./images/prob-34.png)
 
-![[prob-35.png]]
+![image](./images/prob-35.png)
 
-![[prob-36.png]]
+![image](./images/prob-36.png)
 
-![[prob-37.png]]
+![image](./images/prob-37.png)
 
-![[prob-38.png]]
+![image](./images/prob-38.png)
 
-![[prob-39.png]]
+![image](./images/prob-39.png)
 
-![[prob-40.png]]
+![image](./images/prob-40.png)
 
-![[prob-41.png]]
+![image](./images/prob-41.png)
 
-![[prob-42.png]]
+![image](./images/prob-42.png)
 
-![[prob-43.png]]
+![image](./images/prob-43.png)
 
-![[prob-44.png]]
+![image](./images/prob-44.png)
 
-![[prob-45.png]]
+![image](./images/prob-45.png)
 
-![[prob-46.png]]
+![image](./images/prob-46.png)
 
-![[prob-47.png]]
+![image](./images/prob-47.png)
 
-![[prob-48.png]]
+![image](./images/prob-48.png)
 
-![[prob-49.png]]
+![image](./images/prob-49.png)
 
-![[prob-50.png]]
+![image](./images/prob-50.png)
 
-![[prob-51.png]]
+![image](./images/prob-51.png)
 
-![[prob-52.png]]
+![image](./images/prob-52.png)
 
-![[prob-53.png]]
+![image](./images/prob-53.png)
 
-![[prob-54.png]]
+![image](./images/prob-54.png)
 
-![[prob-55.png]]
+![image](./images/prob-55.png)
 
-![[prob-56.png]]
+![image](./images/prob-56.png)
 
-![[prob-57.png]]
+![image](./images/prob-57.png)
 
-![[prob-58.png]]
+![image](./images/prob-58.png)
 
-![[prob-59.png]]
+![image](./images/prob-59.png)
 
-![[prob-60.png]]
+![image](./images/prob-60.png)
 
-![[prob-61.png]]
+![image](./images/prob-61.png)
 
-![[prob-62.png]]
+![image](./images/prob-62.png)
 
-![[prob-63.png]]
+![image](./images/prob-63.png)
 
-![[prob-64.png]]
+![image](./images/prob-64.png)
 
-![[prob-65.png]]
+![image](./images/prob-65.png)
