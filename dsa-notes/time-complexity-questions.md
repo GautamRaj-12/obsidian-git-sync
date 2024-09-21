@@ -37,20 +37,20 @@
 
 ![[prob-40.png]]
 
-![[Pasted image 20240921110843.png]]
+![[prob-41.png]]
 
-![[Pasted image 20240921110901.png]]
+![[prob-42.png]]
 
-![[Pasted image 20240921110911.png]]
+![[prob-43.png]]
 
-![[Pasted image 20240921110925.png]]
-![[Pasted image 20240921110953.png]]
+![[prob-44.png]]
+![[prob-45.png]]
 
-![[Pasted image 20240921111004.png]]
+![[prob-46.png]]
 
-![[Pasted image 20240921111019.png]]
+![[prob-47.png]]
 
-![[Pasted image 20240921111035.png]]
+![[prob-48.png]]
 
 ![[Pasted image 20240921111043.png]]
 
