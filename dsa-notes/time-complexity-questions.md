@@ -1,3 +1,4 @@
+1. 
 ```java
 public void Function(int n){
 	int i=1,s=1;
@@ -7,4 +8,9 @@ public void Function(int n){
 		System.out.println("*");
 	}
 }
+```
+
+2. 
+```java
+public void 
 ```
