@@ -1,2 +1,4 @@
-1. [ ] How to prepare DBMS?
-2. [ ] DBMS Revision in 15 minute
+1. [x] How to prepare DBMS?
+2. [x] How to Revise Subjects?
+3. [x] DBMS Syllabus
+4. [ ] 
