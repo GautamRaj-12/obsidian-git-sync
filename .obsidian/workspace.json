@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course-tracker/DBMS.md",
+                "file": "course-tracker/Discrete.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course-tracker/DBMS.md",
+                "file": "course-tracker/Discrete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course-tracker/DBMS.md",
+                "file": "course-tracker/Discrete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course-tracker/DBMS.md"
+                "file": "course-tracker/Discrete.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "71cc8b42e787739d",
   "lastOpenFiles": [
-    "course-tracker/Discrete.md",
     "course-tracker/DBMS.md",
+    "course-tracker/Discrete.md",
     "python/function_usefulness.md",
     "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-21.png",
