@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e9f4ec1e04df0ce8",
+        "id": "e14ca262ddb59b60",
         "type": "tabs",
         "children": [
           {
-            "id": "a113bd8b43eb2ce4",
+            "id": "71cc8b42e787739d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a113bd8b43eb2ce4",
+  "active": "ca18528540a8d829",
   "lastOpenFiles": [
+    "python/function_usefulness.md",
+    "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-21.png",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-37.png",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-26.png",
@@ -161,8 +155,6 @@
     "dsa-notes/01_analysis_of_algotrithms/images/prob-63.png",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-62.png",
     "dsa-notes/01_analysis_of_algotrithms/images/prob-61.png",
-    "dsa-notes/01_analysis_of_algotrithms/images/prob-60.png",
-    "dsa-notes/01_analysis_of_algotrithms/time-complexity-questions.md",
     "Untitled",
     "space-tech-learning-guide/space.md",
     "everyday-utils/Swagger.md",
